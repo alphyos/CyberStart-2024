@@ -1,6 +1,9 @@
-<h1 align="center">Cyberstart / Cyber FastTrack 2023 </h1>
+<p float="left">
+  <img src="assets/CyberstartLogo.png" width="100" />
+  <img src="CyberstartBanner.png" width="100 style="border-radius:50%" /> 
+</p> 
 
-<img alt="Cyberstart Logo" src="assets/CyberstartLogo.png"> </img>
+</img> <h1 align="center">Cyberstart / Cyber FastTrack 2023 </h1>
 
 <h4 align="center">Comprehensive writeup list of challenges from 2022-2023 Cyberstart America / Cyber FastTrack. </h4>
 
