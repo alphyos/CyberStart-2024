@@ -4,27 +4,27 @@
 
 [🎂 Social Secret - L01 C01](headquarters/SocialSecret-L01C01.md)
 
-[Broken Banks - L01 C02]()
+[🏧 Broken Banks - L01 C02](headquarters/BrokenBanks-L01C02.md)
 
-[Happy Customers - L01 C03]()
+[🎡 Happy Customers - L01 C03](headquarters/HappyCustomers-L01C03.md)
 
-[Race To Where - L01 C04]()
+[🚖 Race To Where - L01 C04](headquarters/RaceToWhere-L01C04)
 
-[Mixed Messages - L01 C05]()
+[🚦 Mixed Messages - L01 C05](headquarters/MixedMessages-L01C05)
 
-[Executable - L01 C06]()
+[🕳️ Executable - L01 C06](headquarters/Executable-L01C06)
 
-[Secret Caesar- L01 C07]()
+[🥗 Secret Caesar - L01 C07](headquarters/SecretCaesar-L01C07)
 
-[Hidden Report - L01 C08 ]()
+[🕵️ Hidden Report - L01 C08 ](headquarters/HiddenReport-L01C08)
 
-[Bike Fan - L01 C09 ]()
+[🚲 Bike Fan - L01 C09 ](headquarters/BikeFan-L01C09)
 
-[Horrible Hats - L01 C10]()
+[👒 Horrible Hats - L01 C10](headquarters/HorribleHats-L01C10)
 
-[Tower of Wheels - L01 C11]()
+[🗼 Tower of Wheels - L01 C11](headquarters/TowerofWheels-L01C11)
 
-[Binary Bike Locks - L01 C12]()
+[🚳 Binary Bike Locks - L01 C12](headquarters/BinaryBikeLocks-L01C012)
 
 ## Level 2 - The Slootmaekers: FRAMED
 
