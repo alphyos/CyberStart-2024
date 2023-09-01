@@ -17,10 +17,10 @@ Please refer to the [questions](#questions-and-feedback) section before asking q
 
 - [How To Play 💻](#how-to-play)
   - [Register 🤖](#register-for-cyberstartcyber-fasttrack)
-- [Intern Base 🕐](#intern-base)
-- [Headquarters🚀](#headquarters)
-- [Moon Base 🌕](#moon-base)
-- [Forensics 🔎](#forensics)
+- [Intern Base 🕐](#-intern-base)
+- [Headquarters🚀](#-headquarters)
+- [Moon Base 🌕](#-moon-base)
+- [Forensics 🔎](#-forensics)
 - [Contribute 🌠](#contribute)
 - [License 🗞️](#license)
 
