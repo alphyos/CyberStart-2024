@@ -2,7 +2,7 @@
 
 
 
-[Social Secret - L01 C01](/headquarters/SocialSecret-L01C01.md)
+[🎂 Social Secret - L01 C01](headquarters/SocialSecret-L01C01.md)
 
 [Broken Banks - L01 C02]()
 
