@@ -14,4 +14,4 @@ Agent 707, we think we might have a way to log into a social media account of on
 
 **`2022 - 1986 = 36`**
 
-![image of login page](/assets/socialsecret1)
+![image of login page](/assets/socialsecret1.png)
