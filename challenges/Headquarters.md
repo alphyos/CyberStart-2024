@@ -8,23 +8,23 @@
 
 [🎡 Happy Customers - L01 C03](headquarters/HappyCustomers-L01C03.md)
 
-[🚖 Race To Where - L01 C04](headquarters/RaceToWhere-L01C04)
+[🚖 Race To Where - L01 C04](headquarters/RaceToWhere-L01C04.md)
 
-[🚦 Mixed Messages - L01 C05](headquarters/MixedMessages-L01C05)
+[🚦 Mixed Messages - L01 C05](headquarters/MixedMessages-L01C05.md)
 
-[🕳️ Executable - L01 C06](headquarters/Executable-L01C06)
+[🕳️ Executable - L01 C06](headquarters/Executable-L01C06.md)
 
-[🥗 Secret Caesar - L01 C07](headquarters/SecretCaesar-L01C07)
+[🥗 Secret Caesar - L01 C07](headquarters/SecretCaesar-L01C07.md)
 
-[🕵️ Hidden Report - L01 C08 ](headquarters/HiddenReport-L01C08)
+[🕵️ Hidden Report - L01 C08 ](headquarters/HiddenReport-L01C08.md)
 
-[🚲 Bike Fan - L01 C09 ](headquarters/BikeFan-L01C09)
+[🚲 Bike Fan - L01 C09 ](headquarters/BikeFan-L01C09.md)
 
-[👒 Horrible Hats - L01 C10](headquarters/HorribleHats-L01C10)
+[👒 Horrible Hats - L01 C10](headquarters/HorribleHats-L01C10.md)
 
-[🗼 Tower of Wheels - L01 C11](headquarters/TowerofWheels-L01C11)
+[🗼 Tower of Wheels - L01 C11](headquarters/TowerofWheels-L01C11.md)
 
-[🚳 Binary Bike Locks - L01 C12](headquarters/BinaryBikeLocks-L01C012)
+[🚳 Binary Bike Locks - L01 C12](headquarters/BinaryBikeLocks-L01C012.md)
 
 ## Level 2 - The Slootmaekers: FRAMED
 
