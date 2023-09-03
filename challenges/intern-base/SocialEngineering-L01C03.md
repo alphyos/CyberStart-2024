@@ -6,7 +6,7 @@ Permission has been granted to try and log into the Chirp social media account o
 
 ```
 💡 Hint: Many people use passwords that combine pieces of personal information. Try combining the pieces of 
-information you have in different ways.
+   information you have in different ways.
 ```
 
 ## Step by Step
