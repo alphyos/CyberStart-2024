@@ -14,4 +14,4 @@ We've managed to get hold of an example output page which we think contains a *
 ## Step by Step
 
 - Using a [decimal to ASCII converter](https://onlineasciitools.com/convert-decimal-to-ascii), copy and paste the rgb values (does not matter if the letters “RGB” are included) into the convertor.
-    - It should decode to `THE SECRET HAT CODE IS [FLAG]`
+    - It should decode to `THE SECRET HAT CODE IS [FLAG]`.
