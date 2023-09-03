@@ -8,7 +8,7 @@ It'll be tricky - they appear to use a **script** to **join multiple sets** 
 
 ```
 💡 Hint: With a little code you could probably get the contents from those 5 URLs as strings and join them together. 
-With all the parts together, it'll just be a case of sending to the final URL. Pay attention to the formats shown!
+   With all the parts together, it'll just be a case of sending to the final URL. Pay attention to the formats shown!
 ```
 
 ## Step by Step
