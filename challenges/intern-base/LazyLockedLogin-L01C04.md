@@ -8,7 +8,7 @@ We know there is a remotely accessible technician's page where fridge **setting
 
 ```
 💡 Hint: Inspect the elements on page to get an understanding of how they're disabling the form. Can we make any changes to 
-the code that will allow us to make it work as intended, so we can submit our login information?
+   the code that will allow us to make it work as intended, so we can submit our login information?
 ```
 
 ## Step by Step
