@@ -8,8 +8,8 @@ Curiosity has got the better of us and we’d like to explore where the signal i
 
 ```
 💡 Hint: Notice if you click on an item in the space scene it provides x & y values? You may be able to edit the
-web address to use those values and begin listening for signals from that planet! When editing the web address,
-pay extra attention to characters like `?` and `&` in the URL, they have special meaning.
+   web address to use those values and begin listening for signals from that planet! When editing the web address,
+   pay extra attention to characters like `?` and `&` in the URL, they have special meaning.
 ```
 
 ## Step by Step
