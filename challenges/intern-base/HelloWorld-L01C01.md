@@ -6,7 +6,7 @@ We've found a profile page of a known hacker that we need to get in contact with
 
 ```
 💡 Hint: Try highlighting the whole page (using your mouse, or CTRL + A) to find text that might be the same color as the 
-background.
+   background.
 ```
 
 ## Step by Step
