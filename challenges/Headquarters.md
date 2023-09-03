@@ -24,7 +24,7 @@
 
 [🗼 Tower of Wheels - L01 C11](headquarters/TowerofWheels-L01C11.md)
 
-[🚳 Binary Bike Locks - L01 C12](headquarters/BinaryBikeLocks-L01C012.md)
+[🚳 Binary Bike Locks - L01 C12](headquarters/BinaryBikeLocks-L01C12.md)
 
 ## Level 2 - The Slootmaekers: FRAMED
 
