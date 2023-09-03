@@ -6,8 +6,8 @@ A successful new start-up that sells electric scooters has discovered a handful 
 
 ```
 💡 Hint: As there's nothing useful in the interface, check out the page source. You'll find are some JavaScript variables
-being used and if the page can use them, it's possible we can too! Perhaps open your browser developer tools, particularly 
-the console and try outputting those variables.
+   being used and if the page can use them, it's possible we can too! Perhaps open your browser developer tools, particularly 
+   the console and try outputting those variables.
 ```
 
 ## Step by Step
