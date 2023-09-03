@@ -8,8 +8,8 @@ ROXy is willing to work with us... if we can prove we're as smart as she is. Bef
 
 ```
 💡 Hint: Agent Q just noticed the informant's name, "ROXy", has XOR in it backwards... it may be just a coincidence,
-but we don't think so. It also looks like the values are all in the 0-9 and A-F range, we think there's an encoding
-scheme like that?
+   but we don't think so. It also looks like the values are all in the 0-9 and A-F range, we think there's an encoding
+   scheme like that?
 ```
 
 ## Step by Step
