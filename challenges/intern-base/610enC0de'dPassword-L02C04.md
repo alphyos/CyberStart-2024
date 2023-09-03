@@ -6,9 +6,9 @@ Agents believe they have found a server belonging to a gang called the Yakoottee
 
 ```
 💡 Hint: Inside the big waving flag it looks like encoded information, maybe it contains a message that will help us?
-Notice this encoding has similar groupings of 4 characters, there's `\x` followed by a couple of letters or numbers.
-See if you can search online to find out what sort of encoding uses that format. Once you know, you'll need to copy
-all the characters inside the flag and run them through a tool to decode the message
+   Notice this encoding has similar groupings of 4 characters, there's `\x` followed by a couple of letters or numbers.
+   See if you can search online to find out what sort of encoding uses that format. Once you know, you'll need to copy
+   all the characters inside the flag and run them through a tool to decode the message
 ```
 
 ## Step by Step
