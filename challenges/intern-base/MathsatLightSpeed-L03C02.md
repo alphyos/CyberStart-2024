@@ -8,7 +8,7 @@ The thing is, the gateway was created by someone who loves doing everything **s
 
 ```
 💡 Hint: Try watching the source code as you are spinning a new set of numbers. What changes when the spin is happening and 
-then gets removed when the calculator gets locked?
+   then gets removed when the calculator gets locked?
 ```
 
 ## Step by Step
