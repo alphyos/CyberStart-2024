@@ -8,8 +8,8 @@ Helping our international friends will really help develop our **network**.
 
 ```
 💡 Hint: If you check out the Network tab in the developer tools of your browser while you click on different pages in
-the app, you can see there are requests being made to an API. Try using a Linux command line tool like curl to talk to
-the API directly to see if you can get at the account balance that way.
+   the app, you can see there are requests being made to an API. Try using a Linux command line tool like curl to talk
+   to the API directly to see if you can get at the account balance that way.
 ```
 
 ## Step by Step
