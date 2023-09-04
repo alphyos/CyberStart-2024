@@ -7,8 +7,7 @@ Have a look at our account page on the site, it allows you to **generate a repo
 **Tip:** Find the **report for the first user** of the site and you'll get the flag.
 
 ```
-💡 Hint: Try creating your report first. Is there anything about the URL you could potentially change to see
-   other users reports?
+💡 Hint: Try creating your report first. Is there anything about the URL you could potentially change to see other users reports?
 ```
 
 ### Step by Step
