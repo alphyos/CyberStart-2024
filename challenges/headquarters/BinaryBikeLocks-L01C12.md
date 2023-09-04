@@ -9,8 +9,8 @@ Take a look at this lock and see if you can unlock it.
 **Tip:** **Unlock the bike lock** to get the flag. <!--- this has to be one of the worst tips they give you.. 💀 -->
 
 ```
-💡 Hint: The randomly generated numbers on the lock are binary. If you add them up what do you get? Still getting
-   it wrong? Try inputting the result as a decimal rather than a binary.
+💡 Hint: The randomly generated numbers on the lock are binary. If you add them up what do you get? Still getting it wrong?
+   Try inputting the result as a decimal rather than a binary.
 ```
 
 ## Step by Step
