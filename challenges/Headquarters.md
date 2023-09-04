@@ -30,13 +30,13 @@
 
 
 
-[ Decryption Ring - L02 C01]()
+[💍 Decryption Ring - L02 C01](headquarters/DecryptionRing-L02C01.md)
 
-[Loopy Login - L02 C02]()
+[🌐 Loopy Login - L02 C02](headquarters/LoopyLogin-L02C02.md)
 
-[Secret Pages - L02 C03]()
+[🚥 Secret Pages - L02 C03](headquarters/SecretPages-L02C03.md)
 
-[Too Much Text - L02 C04]()
+[⌨️ Too Much Text - L02 C04](headquarters/TooMuchText-L02C04)
 
 [More Broken Bicycles - L02 C05]()
 
