@@ -10,6 +10,6 @@ Remember the blog post by Lars De Vries from the last floor? Well, we thought we
 
 ## Step by Step
 
-- Use inspect element to change the .gif file extension of the broken photo to .jpg
+- Use inspect element to change the `.gif` file extension of the broken photo to `.jpg`.
 
 ![image of the correct photo](/assets/morebrokenbicycles1.png)
