@@ -7,7 +7,8 @@ We've noticed four of the numbers have fingerprints on and we've discovered that
 **Tip:** **Get the right code** to get the flag.
 
 ```
-💡 Hint: The fingerprints show us which numbers are used in the correct combination, it's just a matter of trying all the combinations with those numbers until you get it right!
+💡 Hint: The fingerprints show us which numbers are used in the correct combination, it's just a matter of trying all the
+   combinations with those numbers until you get it right!
 ```
 
 ## Step by Step
