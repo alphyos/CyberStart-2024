@@ -38,17 +38,17 @@
 
 [⌨️ Too Much Text - L02 C04](headquarters/TooMuchText-L02C04)
 
-[More Broken Bicycles - L02 C05]()
+[💔 More Broken Bicycles - L02 C05]()
 
-[Broken Click - L02 C06]()
+[🖱️ Broken Click - L02 C06]()
 
-[Hard Hash - L02 C07]()
+[#️⃣ Hard Hash - L02 C07]()
 
-[Encrypted Message - L02 C08]()
+[⚠️ Encrypted Message - L02 C08]()
 
-[Fingerprints - L02 C09]()
+[☝️ Fingerprints - L02 C09]()
 
-[Useful Hack - L02 C10]()
+[🏍️ Useful Hack - L02 C10]()
 
 [Under Attack - L02 C11]()
 
