@@ -5,7 +5,8 @@ Urgent request - one of our agents is currently at a Slootmaeker hideout and we 
 **Tip:** **Get the username**, that's the flag.
 
 ```
-💡 Hint: Have a quick look online for Linux terminal commands, you should be able to find one that tells you which user you're logged in as.
+💡 Hint: Have a quick look online for Linux terminal commands, you should be able to find one that tells you which user
+   you're logged in as.
 ```
 
 ## Step by Step
