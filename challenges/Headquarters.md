@@ -50,9 +50,9 @@
 
 [🏍️ Useful Hack - L02 C10]()
 
-[Under Attack - L02 C11]()
+[💯 Under Attack - L02 C11]()
 
-[User Who - L02 C12]()
+[❓ User Who - L02 C12]()
 
 ## Level 3 - The Choppers: BEHIND ENEMY LINES
 
