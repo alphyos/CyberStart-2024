@@ -6,8 +6,8 @@ We have an interactive **code editor** for you to learn on, the CPA MoonCoder.
 And don't forget, if you get stuck you can click "Use a hint". Whilst you're in training you won't lose any points for doing so. 
 
 ```
-💡 Hint: In the example code we're printing the string "text" and the number 42. See if you can copy these, but instead print
-   the string "Hello, World" and the number 1337.
+💡 Hint: In the example code we're printing the string "text" and the number 42. See if you can copy these, but instead
+   print the string "Hello, World" and the number 1337.
 ```
 
 ## Answer
