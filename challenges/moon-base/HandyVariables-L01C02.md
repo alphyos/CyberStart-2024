@@ -3,7 +3,8 @@
 Next, let's take a look at something called **variables**, a really simple programming concept. It's basically just a box with a label that can hold something, but a thing you'll find **very useful** as you go on to write more advanced code.
 
 ```
-💡 Hint: You need to print the 4 variables described in the comments. Keep in mind, you only use quotation marks for Strings (text). Don't use them for anything else!
+💡 Hint: You need to print the 4 variables described in the comments. Keep in mind, you only use quotation marks for 
+   Strings (text). Don't use them for anything else!
 ```
 
 ## Answer
