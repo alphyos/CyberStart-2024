@@ -1,3 +1,4 @@
+
 # ⚙️ Logical Level - L02 C02
 
 So now you know all about conditionals it's time to supercharge them with **logic!** This is where we get to the very core of how a computer thinks, using simple **binary** we have the values **1** and **0**, which relate to **True** and **False**. Once you master this there will be no holding you back!
