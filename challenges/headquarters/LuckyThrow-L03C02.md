@@ -10,8 +10,6 @@ Whilst taking a look around The Choppers' intranet site, one of our agents found
 
 ## Step by Step
 
----
-
 - Just refresh the page multiple times, **Ctrl + R** speeds up this process.
 
 ![picture of double fives](/assets/luckythrow1.png)
