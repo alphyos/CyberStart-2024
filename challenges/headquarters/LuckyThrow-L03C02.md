@@ -5,7 +5,8 @@ Whilst taking a look around The Choppers' intranet site, one of our agents found
 **Tip:** If you figure it out and you're persistent enough, you'll see the flag! 
 
 ```
-💡 **Hint:** Sometimes working out a problem just requires a bit of persistence. Try refreshing the page, does anything happen?
+💡 **Hint:** Sometimes working out a problem just requires a bit of persistence. Try refreshing the page, does anything
+   happen?
 ```
 
 ## Step by Step
