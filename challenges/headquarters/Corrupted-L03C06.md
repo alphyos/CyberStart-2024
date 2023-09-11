@@ -8,7 +8,8 @@ Have a **look in the file** and see if you can get it working.
 
 ```
 💡 Hint: Hmm, if you just open the file in your browser it shows an error. But maybe you don't need to actually see the output
-   of the XML file. Perhaps try looking at the source code by using Developer Tools or right-clicking and selecting "View source".
+   of the XML file. Perhaps try looking at the source code by using Developer Tools or right-clicking and selecting
+   "View source".
 ```
 
 ## Step by Step
