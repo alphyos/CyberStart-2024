@@ -7,8 +7,8 @@ Sometimes developers can be a little bit lazy and leave **information** in the
 **Tip:** To get the challenge flag you need to successfully login.
 
 ```
-💡 Hint: Did you know that it's possible to view the source code of a page by using Developer Tools, or by right clicking on a
-   page and selecting "View Source"? It looks like the developer Aksel is using some basic JavaScript to check whether the
+💡 Hint: Did you know that it's possible to view the source code of a page by using Developer Tools, or by right clicking on
+   a page and selecting "View Source"? It looks like the developer Aksel is using some basic JavaScript to check whether the
    password is correct. However, he hasn't obfuscated his code at all so if you view the source code you should be able to see
    what the details are. Look for the code between the <script></script> tags.
 ```
