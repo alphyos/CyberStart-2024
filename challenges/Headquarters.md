@@ -58,7 +58,7 @@
 
 
 
-[🌃 A Secret Rendezvous- L03 C01headquarters/ASecretRendezvous-L03C01.md)
+[🌃 A Secret Rendezvous- L03 C01](headquarters/ASecretRendezvous-L03C01.md)
 
 [🎲 Lucky Throw - L03 C02](headquarters/LuckyThrow-L03C02.md)
 
