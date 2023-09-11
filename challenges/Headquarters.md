@@ -58,17 +58,17 @@
 
 
 
-[A Secret Rendezvous- L03 C01]()
+[🌃 A Secret Rendezvous- L03 C01]((headquarters/ASecretRendezvous-L03C01.md)
 
-[Lucky Throw - L03 C02]()
+[🎲 Lucky Throw - L03 C02]((headquarters/LuckyThrow-L03C02.md)
 
-[Chopper Check-in - L03 C03]()
+[🦞 Chopper Check-in - L03 C03]((headquarters/ChopperCheck-in-L03C03.md)
 
-[Confused - L03 C04]()
+[🤷‍♂️ Confused - L03 C04]((headquarters/Confused-L03C04.md)
 
-[Secret Source - L03 C05]()
+[🎸 Secret Source - L03 C05]((headquarters/SecretSource-L03C05.md)
 
-[Corrupted - L03 C06]()
+[👹 Corrupted - L03 C06]((headquarters/Corrupted-L03C06.md)
 
 [Route into the Router - L03 C07]()
 
