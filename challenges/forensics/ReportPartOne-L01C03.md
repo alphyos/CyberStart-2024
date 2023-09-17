@@ -15,6 +15,6 @@ One of the things our agents did whilst in the field was to get a **packet capt
 - Right click any of the frames and click follow HTTP stream, the flag should be visible in the conversation.
     - `200ikjHagent`
 
-![picture of the form](/assets/reportpartone1.png)
+![picture of the form](/assets/reportpartone1.jpg)
 
 - Fill out the report and submit to get the flag
