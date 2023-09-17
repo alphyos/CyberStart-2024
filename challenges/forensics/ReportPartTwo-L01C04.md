@@ -14,6 +14,6 @@ One of our agents in the field has just put a **packet capture** from the susp
 - Right click frame 14 and follow the HTTP stream.
 - All of the information is in the conversation including the first name of the user.
 
-![picture of the report](/assets/reportparttwo1.png)
+![picture of the report](/assets/reportparttwo1.jpg)
 
-- Fill out the report and submit to get the flag
+- Fill out the report and submit to get the flag.
