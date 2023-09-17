@@ -1,4 +1,4 @@
-# #️⃣ Hard Hash - L02 C07
+# 🚴‍♂️ Hard Hash - L02 C07
 
 Agent D from our cryptography department has just sent me this **hash** she intercepted from an exchange between two Slootmaeker gang members. She thought it might be a good task for a smart agent like yourself to figure out.
 
