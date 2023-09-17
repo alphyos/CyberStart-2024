@@ -13,8 +13,8 @@ One of the things our agents did whilst in the field was to get a **packet capt
 - Download the packet from the left side and open it with Wireshark.
 - Frame 6 will show that the request was `successful` and the code is `200`.
 - Right click any of the frames and click follow HTTP stream, the flag should be visible in the conversation.
-    - `200ikjHagent`
+    - `200[REDACTED]agent`
 
 ![picture of the form](/assets/reportpartone1.jpg)
 
-- Fill out the report and submit to get the flag
+- Fill out the report and submit to get the flag.
