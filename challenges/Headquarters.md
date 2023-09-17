@@ -42,7 +42,7 @@
 
 [🖱️ Broken Click - L02 C06](headquarters/BrokenClick-L02C06.md)
 
-[#️⃣ Hard Hash - L02 C07](headquarters/HardHash-L02C07.md)
+[🚴‍♂️ Hard Hash - L02 C07](headquarters/HardHash-L02C07.md)
 
 [⚠️ Encrypted Message - L02 C08](headquarters/EncryptedMessage-L02C08.md)
 
