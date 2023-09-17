@@ -70,23 +70,23 @@
 
 [👹 Corrupted - L03 C06](headquarters/Corrupted-L03C06.md)
 
-[Route into the Router - L03 C07]()
+[🛣️ Route into the Router - L03 C07](headquarters/RouteIntoTheRouter-L03C07.md)
 
-[Password Postulation - L03 C08]()
+[🌲 Password Postulation - L03 C08](headquarters/PasswordPostulation-L03C08.md)
 
-[Snake Charmer - L03 C09]()
+[🐍 Snake Charmer - L03 C09](headquarters/SnakeCharmer-L03C09.md)
 
-[The Competitor Revealed - L03 C10]()
+[🏆 The Competitor Revealed - L03 C10](headquarters/TheCompetitionRevealed-L03C10.md)
 
-[Big Transfer - L03 C11]()
+[💰 Big Transfer - L03 C11](headquarters/BigTransfer-L03C11.md)
 
-[Dante in Command - L03 C12]()
+[🧨 Dante in Command - L03 C12](headquarters/DanteInCommand-L03C12.md)
 
 ## Level 4 - The Choppers: THE GREAT TREE ROBBERY
 
 
 
-[A Helping Hand - L04 C01]()
+[A Helping Hand - L04 C01](headquarters/.md)
 
 [Arnold Chopper? - L04 C02]()
 
