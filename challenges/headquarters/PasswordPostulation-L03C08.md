@@ -7,7 +7,10 @@ The username is **"Teobald"** and the old password is **"evergreen"**, and we
 **Tip:** To get the challenge flag you need to successfully login.
 
 ```
-💡 Hint: Many people will want to use the same password and it looks like the gang members in The Choppers are the same! Since there are specific requirements now they will make it as easy as possible to remember. For example, most people will put the capital as the first character and the number last. You already know the old password was "evergreen", so maybe capitalize it and try a number at the end.
+💡 Hint: Many people will want to use the same password and it looks like the gang members in The Choppers are the same! Since
+   there are specific requirements now they will make it as easy as possible to remember. For example, most people will put
+   the capital as the first character and the number last. You already know the old password was "evergreen", so maybe
+   capitalize it and try a number at the end.
 ```
 
 ## Step by Step
