@@ -10,4 +10,4 @@ Agent D from our cryptography department has just sent me this **hash** she in
 
 ## Step by Step
 
-- Using Google or any other search engine, looking up “1c1707e8a20719056bfc9a232527c5bd” returns the decrypted text `[flag]`
+- Using Google or any other search engine, looking up “1c1707e8a20719056bfc9a232527c5bd” returns the decrypted text.
