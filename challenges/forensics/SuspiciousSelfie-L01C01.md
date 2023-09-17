@@ -12,6 +12,6 @@ Our agents have gained access to the employees work phone and downloaded a bunch
 
 - Download the image and zoom in closely to the sticky note on the bottom right of the monitor.
 
-![image of the zoomed in sticky note](/assets/suspiciousselfie1.png)
+![image of the zoomed in sticky note](/assets/suspiciousselfie1.jpg)
 
 - The flag is the text after `pw:`.
