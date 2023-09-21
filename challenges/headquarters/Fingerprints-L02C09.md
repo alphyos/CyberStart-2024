@@ -13,6 +13,6 @@ We've noticed four of the numbers have fingerprints on and we've discovered that
 
 ## Step by Step
 
-![image of the keypad](/assets/fingerprints1.png)
+![image of the keypad](/assets/fingerprints1.jpg)
 
 - Go through all possible combinations of the digits `2, 4, 5, and 7` in various orders until it finally produces a flag. 
