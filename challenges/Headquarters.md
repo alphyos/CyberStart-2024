@@ -36,7 +36,7 @@
 
 [🚥 Secret Pages - L02 C03](headquarters/SecretPages-L02C03.md)
 
-[⌨️ Too Much Text - L02 C04](headquarters/TooMuchText-L02C04)
+[⌨️ Too Much Text - L02 C04](headquarters/TooMuchText-L02C04.md)
 
 [💔 More Broken Bicycles - L02 C05](headquarters/MoreBrokenBicycles-L02C05.md)
 
