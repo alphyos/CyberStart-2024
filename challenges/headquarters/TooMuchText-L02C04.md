@@ -13,4 +13,4 @@ Ok, this is really weird, one of the gang just emailed every other gang member a
 
 - Press Ctrl + F and search for either “code” or “secret” and you will find the flag.
 
-![image of what the code will look like](/assets/toomuchtext1.png)
+![image of what the code will look like](/assets/toomuchtext1.jpg)
