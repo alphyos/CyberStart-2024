@@ -13,4 +13,4 @@ Here's an interesting one for you Agent 707 - on the weekend the gang released w
 - Highlight the page to find text that says “Go to `/secret.html`”.
 - Entering this at the end of the url gets you the flag.
 
-![image of what the correct webpage should look like](/assets/racetowhere1.png)
+![image of what the correct webpage should look like](/assets/racetowhere1.jpg)
