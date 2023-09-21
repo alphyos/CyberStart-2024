@@ -17,4 +17,4 @@ Have a look at our account page on the site, it allows you to **generate a repo
 - Click on the url and change `user-456` to `user-1`.
 - The flag should appear in the transaction report.
 
-![image of the transaction report](/assets/hiddenreport1.png)
+![image of the transaction report](/assets/hiddenreport1.jpg)
