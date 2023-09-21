@@ -12,4 +12,4 @@ It looks like part of the heist is underway, they're trying to hack the Amsterda
 
 ![image of it displaying the issue](/assets/underattack1.png)
 
-- Change “PasswordMinLength” to “16”
+- Change “PasswordMinLength” to “16”.
