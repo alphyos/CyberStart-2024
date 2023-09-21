@@ -12,6 +12,6 @@ Things are really starting to get busy - the Slootmaekers seem to be in the fina
 
 ## Step by Step
 
-![image of slider and text](/assets/decryptionring1.png)
+![image of slider and text](/assets/decryptionring1.jpg)
 
 - Slide the slider to 14, the source text gets decrypted.
