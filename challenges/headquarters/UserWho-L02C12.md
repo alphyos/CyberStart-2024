@@ -13,4 +13,4 @@ Urgent request - one of our agents is currently at a Slootmaeker hideout and we 
 
 - Type “`whoami`” into the terminal to get the name.
 
-![image of the command in the terminal](/assets/userwho1.png)
+![image of the command in the terminal](/assets/userwho1.jpg)
