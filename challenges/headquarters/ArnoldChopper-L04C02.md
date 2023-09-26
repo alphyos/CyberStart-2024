@@ -17,6 +17,6 @@ See if you can use the intercepted code and the two pages of the book to discove
 
 ## Step by Step
 
-- Use the provided book to decipher the numbers each set of three, two number pairs correlates to the page number, line number, and word in the sentence
+- Use the provided book to decipher the numbers each set of three, two number pairs correlates to the page number, line number, and word in the sentence.
 - The decoded message is the following:
     - Kinsmen, the commands. Go tonight, the moment is now. Lower opportunity in the morning. Code is `[REDACTED]`. Good fortune.
