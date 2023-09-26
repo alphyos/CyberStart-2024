@@ -11,7 +11,8 @@ See if you can use the intercepted code and the two pages of the book to discove
 ```
 💡 Hint: An Arnold or book cipher is one where the numbers refer to the position of words in the text. In this case, it
    looks like each set of three numbers refers to the page, line and word. So 02.04.03 would mean the second page,
-   fourth line down, third word along. Once you understand that, decrypting the message should be easy, and the flag is hidden within.
+   fourth line down, third word along. Once you understand that, decrypting the message should be easy, and the flag is
+   hidden within.
 ```
 
 ## Step by Step
