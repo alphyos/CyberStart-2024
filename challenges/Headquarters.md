@@ -88,13 +88,13 @@
 
 [👏 A Helping Hand - L04 C01](headquarters/AHelpingHand-L04C01.md)
 
-[Arnold Chopper? - L04 C02]()
+[Arnold Chopper? - L04 C02](headquarters/ArnoldChopper?-L04C02.md)
 
-[Photobomb - L04 C03]()
+[Photobomb - L04 C03](headquarters/.md)
 
-[Upgrades? Paaa! - L04 C04]()
+[Upgrades? Paaa! - L04 C04](headquarters/.md)
 
-[ A Dangerous Contact - L04 C05]()
+[ A Dangerous Contact - L04 C05](headquarters/.md)
 
 [Maggie’s File - L04 C06]()
 
