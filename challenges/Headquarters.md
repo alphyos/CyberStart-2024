@@ -90,7 +90,7 @@
 
 [ 🏰 Arnold Chopper? - L04 C02](headquarters/ArnoldChopper-L04C02.md)
 
-[Photobomb - L04 C03](headquarters/.md)
+[ 🗻 Photobomb - L04 C03](headquarters/Photobomb-L04C03.md)
 
 [Upgrades? Paaa! - L04 C04](headquarters/.md)
 
