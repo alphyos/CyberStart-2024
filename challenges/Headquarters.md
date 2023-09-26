@@ -86,9 +86,9 @@
 
 
 
-[👏 A Helping Hand - L04 C01](headquarters/AHelpingHand-L04C01.md)
+[ 👏 A Helping Hand - L04 C01](headquarters/AHelpingHand-L04C01.md)
 
-[Arnold Chopper? - L04 C02](headquarters/ArnoldChopper?-L04C02.md)
+[ 🏰 Arnold Chopper? - L04 C02](headquarters/ArnoldChopper-L04C02.md)
 
 [Photobomb - L04 C03](headquarters/.md)
 
