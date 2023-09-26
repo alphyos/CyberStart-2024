@@ -7,8 +7,10 @@ They have rewritten their login form to use slightly improved JavaScript, but it
 **Tip:** Log in successfully to get the flag.
 
 ```
-💡 Hint: If you completed all the challenges on the previous level you'll remember that one required you to look at the source code for this login page, and the password was right there in the JavaScript.
-You'll need to do the same here, except make a few changes to the JavaScript to get it to run and output the password for you. Use that to log in and the flag is all yours!
+💡 Hint: If you completed all the challenges on the previous level you'll remember that one required you to look at the
+   source code for this login page, and the password was right there in the JavaScript. You'll need to do the same here,
+   except make a few changes to the JavaScript to get it to run and output the password for you. Use that to log in and
+   the flag is all yours!
 ```
 
 ## Step by Step
