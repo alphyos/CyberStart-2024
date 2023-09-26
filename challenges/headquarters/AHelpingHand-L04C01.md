@@ -13,8 +13,8 @@ Helpfully they've sent us over an extract from a report one of their agents wrot
 
 ## Step by Step
 
-- Download the PDF and open it
-- Copy the last line of text, including the blacked out spaces
-- Pasting it into any available text file or field will reveal the following sentence
+- Download the PDF and open it.
+- Copy the last line of text, including the blacked out spaces.
+- Pasting it into any available text file or field will reveal the following sentence.
     - “the password to their private server (`Johny[REDACTED]@`)"
-- Insert this password as the flag
+- Insert this password as the flag.
