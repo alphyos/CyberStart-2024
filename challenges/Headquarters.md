@@ -94,9 +94,9 @@
 
 [ 🪵 Upgrades? Paaa! - L04 C04](headquarters/UpgradesPaaa-L04C04.md)
 
-[ A Dangerous Contact - L04 C05](headquarters/.md)
+[ ☠️ A Dangerous Contact - L04 C05](headquarters/ADangerousContact-L04C05.md)
 
-[Maggie’s File - L04 C06]()
+[ 📝 Maggie’s File - L04 C06](headquarters/Maggie’sFile-L04C06.md)
 
 [Bendikke Loves Axes - L04 C07]()
 
