@@ -1,4 +1,4 @@
-# 🪵 Upgrades? Paaa! - L04 C04
+# 🌳 Upgrades? Paaa! - L04 C04
 
 It looks like The Choppers know they need to improve their security set-up, as recently we've been unable to log in to their intranet and they've been making a few changes to their security.
 
