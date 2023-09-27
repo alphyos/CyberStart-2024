@@ -92,7 +92,7 @@
 
 [ 🗻 Photobomb - L04 C03](headquarters/Photobomb-L04C03.md)
 
-[ 🪵 Upgrades? Paaa! - L04 C04](headquarters/UpgradesPaaa-L04C04.md)
+[ 🌳 Upgrades? Paaa! - L04 C04](headquarters/UpgradesPaaa-L04C04.md)
 
 [ ☠️ A Dangerous Contact - L04 C05](headquarters/ADangerousContact-L04C05.md)
 
