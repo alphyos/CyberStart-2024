@@ -21,6 +21,6 @@ Why don't you try it yourself using the secure terminal we've provided and see w
 
 ![output of the terminal, the file is in /root/docs/secretz](/assets/maggiesfile1.png)
 
-- Type the given password in. “`ubersecurepw`”
+- Type the given password in. `ubersecurepw`
 - Type `ls` to list contents in the directory and you will find the file/flag.
   - Remember, the file name itself is the flag, not the contents of the file. 
