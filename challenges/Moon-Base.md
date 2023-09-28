@@ -2,7 +2,7 @@
 
 
 
-[Programming 101 - L01 C01](moon-base/Programming101-L01C01.md)
+[ 👨‍💻 Programming 101 - L01 C01](moon-base/Programming101-L01C01.md)
 
 [Handy Variables- L01 C02](moon-base/HandyVariables-L01C02.md)
 
