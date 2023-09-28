@@ -2,15 +2,15 @@
 
 
 
-[Programming 101 - L01 C01](moonbase/Programming101.md)
+[Programming 101 - L01 C01](moon-base/Programming101.md)
 
-[Handy Variables- L01 C02](moonbase/HandyVariables.md)
+[Handy Variables- L01 C02](moon-base/HandyVariables.md)
 
-[Converting For Fun - L01 C03](moonbase/ConvertingForFun.md)
+[Converting For Fun - L01 C03](moon-base/ConvertingForFun.md)
 
-[Maths in Code - L01 C04](moonbase/MathsinCode.md)
+[Maths in Code - L01 C04](moon-base/MathsinCode.md)
 
-[Super Strings - L01 C05](moonbase/SuperStrings.md)
+[Super Strings - L01 C05](moon-base/SuperStrings.md)
 
 ## Level 2 - Masterclass
 
