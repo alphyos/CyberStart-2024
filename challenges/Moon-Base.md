@@ -16,15 +16,15 @@
 
 
 
-[Flow With Conditions - L02 C01](moonbase/.md)
+[Flow With Conditions - L02 C01](moon-base/FlowWithConditions-L02C01.md)
 
-[Logical Level - L02 C02](moonbase/.md)
+[Logical Level - L02 C02](moon-base/LogicalLevel-L02C02.md)
 
-[Let’s Get Functional - L02 C03](moonbase/.md)
+[Let’s Get Functional - L02 C03](moon-base/LetsGetFunctional-L02C03.md)
 
-[Hooray for Arrays - L02 C04](moonbase/.md)
+[Hooray For Arrays - L02 C04](moon-base/HorrayForArrays-L02C04.md)
 
-[Going Loopy - L02 C05](moonbase/.md)
+[Going Loopy - L02 C05](moon-base/GoingLoopy-L02C05.md)
 
 ## Level 3 - Getting Ready
 
