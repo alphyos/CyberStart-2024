@@ -4,13 +4,13 @@
 
 [ 👨‍💻 Programming 101 - L01 C01](moon-base/Programming101-L01C01.md)
 
-[Handy Variables- L01 C02](moon-base/HandyVariables-L01C02.md)
+[ ✋ Handy Variables- L01 C02](moon-base/HandyVariables-L01C02.md)
 
-[Converting For Fun - L01 C03](moon-base/ConvertingForFun-L01C03.md)
+[ ➡️ Converting For Fun - L01 C03](moon-base/ConvertingForFun-L01C03.md)
 
-[Maths in Code - L01 C04](moon-base/MathsinCode-L01C04.md)
+[ 🧮 Maths in Code - L01 C04](moon-base/MathsinCode-L01C04.md)
 
-[Super Strings - L01 C05](moon-base/SuperStrings-L01C05.md)
+[ 🧵 Super Strings - L01 C05](moon-base/SuperStrings-L01C05.md)
 
 ## Level 2 - Masterclass
 
