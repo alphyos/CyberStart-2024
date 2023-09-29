@@ -16,4 +16,4 @@ We know it uses a letter **Substitution Cipher** and luckily we have some **F
 
 - The correct letter will produce a green background, by taking a good guess at what some of the letters may be like a two letter word being “to”, “is”, “so” or other common words will uncover the entire message slowly.
 
-![picture of the final message](assets/thecompetitorrevealed1.jpg)
+![picture of the final message](/assets/thecompetitorrevealed1.png)
