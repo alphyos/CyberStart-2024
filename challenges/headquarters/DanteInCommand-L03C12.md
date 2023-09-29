@@ -16,4 +16,4 @@ We think it might be a program the gang are writing to gain access to their comp
 - Run “ls” to list directories and find the program we are trying to run.
 - Run the command by typing `./passcrack`.
 
-![picture of the command output](assets/danteincommand1.jpg)
+![picture of the command output](/assets/danteincommand1.png)
