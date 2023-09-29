@@ -15,4 +15,4 @@ We've heard that the gang is looking for a way to make their passwords more secu
 
 - Run the command `python passgen.py`.
 
-![picture of the terminal output](/assets/snakecharmer1.jpg)
+![picture of the terminal output](/assets/snakecharmer1.png)
