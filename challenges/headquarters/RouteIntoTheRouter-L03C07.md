@@ -11,7 +11,7 @@ Good news, we've managed to get access to the login page for one of the gang's h
 
 ## Step by Step
 
-![picture of moogle search results](assets/routeintotherouter1.png)
+![picture of moogle search results](/assets/routeintotherouter1.png)
 
 - Hitting search on “Moogle” will show some results which reveal the username as “`admin`” and password as “`password`”.
 - Navigate to the router login page and submit the right login details to get the flag.
