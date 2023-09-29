@@ -76,7 +76,7 @@
 
 [🐍 Snake Charmer - L03 C09](headquarters/SnakeCharmer-L03C09.md)
 
-[🏆 The Competitor Revealed - L03 C10](headquarters/TheCompetitionRevealed-L03C10.md)
+[🏆 The Competitor Revealed - L03 C10](headquarters/TheCompetitorRevealed-L03C10.md)
 
 [💰 Big Transfer - L03 C11](headquarters/BigTransfer-L03C11.md)
 
