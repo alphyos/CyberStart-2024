@@ -30,82 +30,82 @@
 
 
 
-[Fun With Files - L03 C01](moonbase/.md)
+[ 🗃️ Fun With Files - L03 C01](moon-base/FunWithFiles-L03C01.md) `❗Hint missing`
 
-[Sockets and Servers - L03 C02](moonbase/.md)
+[ 🔌 Sockets and Servers - L03 C02](moon-base/.md) `❗Hint missing`
 
-[Don’t Forget HTTP - L03 C03](moonbase/.md)
+[ 🎖️ Don’t Forget HTTP - L03 C03](moon-base/Don’tForgetHTTP-L03C03.md) `❗Hint missing`
 
-[ASCII Encoding - L03 C04](moonbase/.md)
+[ 📈 ASCII Encoding - L03 C04](moon-base/ASCIIEncoding-L03C04.md) `❗Hint missing`
 
-[Ready for Regex - L03 C05](moonbase/.md)
+[ 🔎 Ready For Regex - L03 C05](moon-base/ReadyForRegex-L03C05.md) `❗Hint missing`
 
 ## Level 4 - First Contact
 
 
 
-[Strange File - L04 C01](moonbase/.md)
+[ 📖 Strange File - L04 C01](moon-base/StrangeFile-L04C01.md) `❗Hint missing`
 
-[Agent Profiles - L04 C02](moonbase/.md)
+[ 📏 Agent Profiles - L04 C02](moon-base/AgentProfiles-L04C02.md) `❗Hint missing`
 
-[Broken Robot - L04 C03](moonbase/.md)
+[ 🤖 Broken Robot - L04 C03](moon-base/BrokenRobot-L04C03.md) `❗Hint missing`
 
-[Unlocking the Message - L04 C04](moonbase/.md)
+[ 🔑 Unlocking The Message - L04 C04](moon-base/UnlockingTheMessage-L04C04.md) `❗Hint missing`
 
-[Alien Server - L04 C05](moonbase/.md)
+[ 😕 Alien Server - L04 C05](moon-base/AlienServer-L04C05.md) `❗Answer & Hint missing`
 
 ## Level 5 - Data Overload
 
----
 
-[Listen Up - L05 C01](moonbase/.md)
 
-[Defense Data - L05 C02](moonbase/.md)
+[Listen Up - L05 C01](moon-base/.md)
 
-[Alien Zip - L05 C03](moonbase/.md)
+[Defense Data - L05 C02](moon-base/.md)
 
-[Passphrase Panic - L05 C04](moonbase/.md)
+[Alien Zip - L05 C03](moon-base/.md)
 
-[Jovian Tweets - L05 C05](moonbase/.md)
+[Passphrase Panic - L05 C04](moon-base/.md)
+
+[Jovian Tweets - L05 C05](moon-base/.md)
 
 ## Level 6 - Under Attack
 
 
 
-[Foreign Filesystem - L06 C01](moonbase/.md)
+[Foreign Filesystem - L06 C01](moon-base/.md)
 
-[Watched by The Eye - L06 C02](moonbase/.md)
+[Watched by The Eye - L06 C02](moon-base/.md)
 
-[A Way Back In - L06 C03](moonbase/.md)
+[A Way Back In - L06 C03](moon-base/.md)
 
-[Tough Zip - L06 C04](moonbase/.md)
+[Tough Zip - L06 C04](moon-base/.md)
 
-[Server Key - L06 C05](moonbase/.md)
+[Server Key - L06 C05](moon-base/.md)
 
 ## Level 7 - Time to Respond
 
 
 
-[Magic File - L07 C01](moonbase/.md)
+[Magic File - L07 C01](moon-base/.md)
 
-[Cookie Cutter - L07 C02](moonbase/.md)
+[Cookie Cutter - L07 C02](moon-base/.md)
 
-[Alien Transfer - L07 C03](moonbase/.md)
+[Alien Transfer - L07 C03](moon-base/.md)
 
-[Hidden Messages - L07 C04](moonbase/.md)
+[Hidden Messages - L07 C04](moon-base/.md)
 
-[Alien Email - L07 C05](moonbase/.md)
+[Alien Email - L07 C05](moon-base/.md)
 
 ## Level 8 - Mothership
 
 
 
-[New Line of Communication - L08 C01](moonbase/.md)
+[New Line of Communication - L08 C01](moon-base/.md)
 
-[Vulnerable String - L08 C02](moonbase/.md)
+[Vulnerable String - L08 C02](moon-base/.md)
 
-[Getting Access - L08 C03](moonbase/.md)
+[Getting Access - L08 C03](moon-base/.md)
 
-[Unlocking the Mothership - L08 C04](moonbase/.md)
+[Unlocking the Mothership - L08 C04](moon-base/.md)
 
-[Self Destruct - L08 C05](moonbase/.md)
+[Self Destruct - L08 C05](moon-base/.md)
