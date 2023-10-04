@@ -7,7 +7,9 @@ Sometimes you can change the session cookie to achieve that, and admins often ha
 **Tip:** Use the browser extension to help modify the cookie. If you're able to change your access to admin level the code will appear.
 
 ```
-💡 Hint: Session cookies are often accessible and editable by users. If you can figure out how to edit the one on this site and guess the session ID of an admin user, then you're in luck - the flag will appear! Oh, and don't forget to refresh the page once you've edited the cookie.
+💡 Hint: Session cookies are often accessible and editable by users. If you can figure out how to edit the one on this site and
+   guess the session ID of an admin user, then you're in luck - the flag will appear! Oh, and don't forget to refresh the page
+   once you've edited the cookie.
 ```
 
 ## Step by Step
