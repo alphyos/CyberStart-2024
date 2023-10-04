@@ -98,51 +98,51 @@
 
 [ 📝 Maggie’s File - L04 C06](headquarters/Maggie’sFile-L04C06.md)
 
-[Bendikke Loves Axes - L04 C07]()
+[ 🪓 Bendikke Loves Axes - L04 C07](headquarters/BendikkeLovesAxes-L04C07.md)
 
-[Phishing For Flemming - L04 C08]()
+[ 🐶 Phishing For Flemming - L04 C08](headquarters/PhishingForFlemming-L04C08.md)
 
-[Lockdown - L04 C09]()
+[ 🔐 Lockdown - L04 C09](headquarters/Lockdown-L04C09.md)
 
-[Lost But Not Forgotten - L04 C10]()
+[ 🧭 Lost But Not Forgotten - L04 C10](headquarters/LostButNotForgotten-L04C10.md)
 
-[Cookie Jar - L04 C11]()
+[ 🍪 Cookie Jar - L04 C11](headquarters/CookieJar-L04C11.md)
 
-[Bad Kitty - L04 C12]()
+[ 🐱 Bad Kitty - L04 C12](headquarters/BadKitty-L04C12.md)
 
 ## Level 5 - **The Yakoottees: NINJA SURVEILLANCE**
 
 
 
-[Perplexed By Pixels - L05 C01]()
+[Perplexed By Pixels - L05 C01](headquarters/.md)
 
-[Word On The Street- L05 C02]()
+[Word On The Street- L05 C02](headquarters/.md)
 
-[Shinji’s Drone - L05 C03]()
+[Shinji’s Drone - L05 C03](headquarters/.md)
 
-[Out of Sight - L05 C04]()
+[Out of Sight - L05 C04](headquarters/.md)
 
-[Zapped - L05 C05]()
+[Zapped - L05 C05](headquarters/.md)
 
-[File Found - L05 C06]()
+[File Found - L05 C06](headquarters/.md)
 
-[Shopping For Secrets - L05 C07]()
+[Shopping For Secrets - L05 C07](headquarters/.md)
 
-[Rattlesnake - L05 C08]()
+[Rattlesnake - L05 C08](headquarters/.md)
 
-[Yakoo Cars - L05 C09]()
+[Yakoo Cars - L05 C09](headquarters/.md)
 
-[T-Shirt Trivia - L05 C10]()
+[T-Shirt Trivia - L05 C10](headquarters/.md)
 
-[Baffled By Browsers - L05 C11]()
+[Baffled By Browsers - L05 C11](headquarters/.md)
 
-[Dangerous Comment - L05 C12]()
+[Dangerous Comment - L05 C12](headquarters/.md)
 
 ## Level 6 - The Yakoottees: CYBER SMASH AND GRAB
 
 
 
-[Rezapped - L06 C01 ]()
+[Rezapped - L06 C01 ](headquarters/.md)
 
 [Truck Stop - L06 C02]()
 
