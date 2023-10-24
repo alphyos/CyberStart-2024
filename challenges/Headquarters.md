@@ -114,7 +114,7 @@
 
 
 
-[Perplexed By Pixels - L05 C01](headquarters/.md)
+[Perplexed By Pixels - L05 C01](headquarters/[PerplexedByPixels-C05L01.md)
 
 [Word On The Street- L05 C02](headquarters/.md)
 
