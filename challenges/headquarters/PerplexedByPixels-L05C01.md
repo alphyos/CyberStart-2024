@@ -1,3 +1,5 @@
+# 🎨 Perplexed By Pixels - L05 C01
+
 The Yakoottees love their cars. And so you'd expect that they might send each other car photos, images and even art. But recently we intercepted something strange: a pixel drawing of a car. What's strange about it? One of the gang, Kanako, sent two copies of it to another gang member. After some initial analysis we noticed some slight variations in colour in a selection of pixels.
 
 One of the team has already built a comparison tool but he's just been reassigned to another urgent project. Perhaps you could take a look at what he's built and finish the analysis.
