@@ -118,25 +118,25 @@
 
 [ 🐱 Word On The Street - L05 C02](headquarters/WordOnTheStreet-L05C02.md)
 
-[ 🐼 Shinji’s Drone - L05 C03](headquarters/ShinjisDrone-L05C03.md)
+[ 🐼 Shinji’s Drone - L05 C03](headquarters/Shinji'sDrone-L05C03.md)
 
 [ 🧿 Out of Sight - L05 C04](headquarters/OutOfSight-L05C04.md)
 
-[Zapped - L05 C05](headquarters/.md)
+[Zapped - L05 C05](headquarters/Zapped-L05C05.md)
 
-[File Found - L05 C06](headquarters/.md)
+[File Found - L05 C06](headquarters/FileFound-L05C06.md)
 
-[Shopping For Secrets - L05 C07](headquarters/.md)
+[Shopping For Secrets - L05 C07](headquarters/ShoppingForSecrets-L05C07.md)
 
-[Rattlesnake - L05 C08](headquarters/.md)
+[Rattlesnake - L05 C08](headquarters/Rattlesnake-L05C08.md)
 
-[Yakoo Cars - L05 C09](headquarters/.md)
+[Yakoo Cars - L05 C09](headquarters/YakooCars-L05C09.md)
 
-[T-Shirt Trivia - L05 C10](headquarters/.md)
+[T-Shirt Trivia - L05 C10](headquarters/T-ShirtTrivia-L05C10.md)
 
-[Baffled By Browsers - L05 C11](headquarters/.md)
+[Baffled By Browsers - L05 C11](headquarters/BaffledByBrowsers-L05C11.md)
 
-[Dangerous Comment - L05 C12](headquarters/.md)
+[Dangerous Comment - L05 C12](headquarters/DangerousComment-L05C12.md)
 
 ## Level 6 - The Yakoottees: CYBER SMASH AND GRAB
 
