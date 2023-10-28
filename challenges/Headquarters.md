@@ -114,13 +114,13 @@
 
 
 
-[Perplexed By Pixels - L05 C01](headquarters/[PerplexedByPixels-C05L01.md)
+[ 🎨 Perplexed By Pixels - L05 C01](headquarters/[PerplexedByPixels-C05L01.md)
 
-[Word On The Street- L05 C02](headquarters/.md)
+[ 🐱 Word On The Street - L05 C02](headquarters/WordOnTheStreet-L05C02.md)
 
-[Shinji’s Drone - L05 C03](headquarters/.md)
+[ 🐼 Shinji’s Drone - L05 C03](headquarters/Shinji'sDrone-L05C03.md)
 
-[Out of Sight - L05 C04](headquarters/.md)
+[ 🧿 Out of Sight - L05 C04](headquarters/OutOfSight-L05C04.md)
 
 [Zapped - L05 C05](headquarters/.md)
 
