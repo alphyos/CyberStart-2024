@@ -5,7 +5,8 @@ Well, that's a bit of luck. We've managed to get our hands on some details that 
 **Tip:** The flag is in a file somewhere on the server.
 
 ```
-💡 Hint: There is a hidden directory on the server, try searching for `$ man ls` on Google to see how to view hidden directories.
+💡 Hint: There is a hidden directory on the server, try searching for `$ man ls` on Google to see how to view hidden
+   directories.
 ```
 
 ## Step by Step
