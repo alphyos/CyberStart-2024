@@ -122,7 +122,7 @@
 
 [ 🧿 Out of Sight - L05 C04](headquarters/OutOfSight-L05C04.md)
 
-[Zapped - L05 C05](headquarters/Zapped-L05C05.md)
+[ ⚡ Zapped - L05 C05](headquarters/Zapped-L05C05.md)
 
 [File Found - L05 C06](headquarters/FileFound-L05C06.md)
 
