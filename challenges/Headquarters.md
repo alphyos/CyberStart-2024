@@ -124,7 +124,7 @@
 
 [ ⚡ Zapped - L05 C05](headquarters/Zapped-L05C05.md)
 
-[File Found - L05 C06](headquarters/FileFound-L05C06.md)
+[ 🚘 File Found - L05 C06](headquarters/FileFound-L05C06.md)
 
 [Shopping For Secrets - L05 C07](headquarters/ShoppingForSecrets-L05C07.md)
 
