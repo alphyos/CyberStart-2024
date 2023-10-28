@@ -13,7 +13,7 @@ Check out the login page on his site and see if you can break in.
 
 ## Step by Step
 
-- Press the enter button, the url should change significantly.
+- Press the enter button, the url should change significantly
 - Change “`loggedin=false`” to “`loggedin=true`” like the image below and press enter again to get the flag
 
 ![image of url](/assets/shinjisdrone1.png)
