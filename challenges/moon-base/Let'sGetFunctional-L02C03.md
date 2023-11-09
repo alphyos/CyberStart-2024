@@ -1,7 +1,10 @@
 # 💃 Let's Get Functional - L02 C03
 
+You may be thinking by now that programming means typing and retyping lots of things all the time, but actually there's a handy way we can reuse some of the code you're writing so you don't have to do that. They're called functions and they're simply little blocks of code that we can call on again and again to do useful things without writing duplicate code.
+
+
 ```
-💡 Hint:
+💡 Hint: Remember, a function doesn't necessarily return something.
 ```
 
 ## Answer
