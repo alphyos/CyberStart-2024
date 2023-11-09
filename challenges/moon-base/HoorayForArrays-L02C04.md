@@ -1,7 +1,13 @@
 # 🎊 Hooray For Arrays - L02 C04
 
+If you thought functions were useful just wait until you learn about arrays! They're simple things, just collections of data, but they're really handy for programming. In this lesson you'll learn how to create them, plus add and remove items in them, and more.
+
 ```
-💡 Hint:
+💡 Hint: Remember that we start counting arrays from 0.
+
+So the fourth value in an array will be array[3]
+
+0, 1, 2, 3. That's four values but the highest number is 3
 ```
 
 ## Answer
