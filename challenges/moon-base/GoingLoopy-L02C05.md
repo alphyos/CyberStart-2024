@@ -3,9 +3,10 @@
 Hello agent 707. I've just received a message from another agent letting me know something strange is going on - we may have intercepted an alien signal! It's time to accelerate your training and make sure you're ready for your role as an agent on the Moon Base. And what better way to do that than introduce you to loops!
 
 ```
-💡 Hint: We can create an empty array with square brackets: myArray = []. As covered in the previous challenge, we can append new items to this array with myArray.append(item).
-
-It's also possible to have Python increment by two for you using the 'range' function's third argument: for x in range(0, 50, 2):. This will increment from 0 to 50, increasing by two each time.
+💡 Hint: We can create an empty array with square brackets: myArray = []. As covered in the previous challenge, we can append
+    new items to this array with myArray.append(item).
+   It's also possible to have Python increment by two for you using the 'range' function's third argument:
+   for x in range(0, 50, 2):. This will increment from 0 to 50, increasing by two each time.
 
 ```
 
