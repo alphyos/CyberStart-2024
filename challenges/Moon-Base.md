@@ -20,11 +20,11 @@
 
 [ ⚙️ Logical Level - L02 C02](moon-base/LogicalLevel-L02C02.md)
 
-[ 💃 Let’s Get Functional - L02 C03](moon-base/Let'sGetFunctional-L02C03.md) `❗Hint missing`
+[ 💃 Let’s Get Functional - L02 C03](moon-base/Let'sGetFunctional-L02C03.md) 
 
-[ 🎊 Hooray For Arrays - L02 C04](moon-base/HoorayForArrays-L02C04.md) `❗Hint missing`
+[ 🎊 Hooray For Arrays - L02 C04](moon-base/HoorayForArrays-L02C04.md) 
 
-[ ➿ Going Loopy - L02 C05](moon-base/GoingLoopy-L02C05.md) `❗Hint missing`
+[ ➿ Going Loopy - L02 C05](moon-base/GoingLoopy-L02C05.md) 
 
 ## Level 3 - Getting Ready
 
