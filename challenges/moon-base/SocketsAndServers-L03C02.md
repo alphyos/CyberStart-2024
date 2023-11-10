@@ -1,7 +1,11 @@
 # 🔌 Sockets And Servers - L03 C02
 
+So Agent 707, now the Moon Base is on high alert it's time to start teaching you some slightly more challenging topics. You'll need them to help the other CPA agents deal with whatever is sending us those strange signals!
+
+Let's start with sockets, a way of sending data over a network.
+
 ```
-💡 Hint:
+💡 Hint: Don't forget to print the data you receive, or save it to a variable and print that.
 ```
 
 ## Answer
