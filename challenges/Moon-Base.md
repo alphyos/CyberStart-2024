@@ -30,15 +30,15 @@
 
 
 
-[ 🗃️ Fun With Files - L03 C01](moon-base/FunWithFiles-L03C01.md) `❗Hint missing`
+[ 🗃️ Fun With Files - L03 C01](moon-base/FunWithFiles-L03C01.md)
 
-[ 🔌 Sockets and Servers - L03 C02](moon-base/.md) `❗Hint missing`
+[ 🔌 Sockets And Servers - L03 C02](moon-base/SocketsAndServersL03C02.md) 
 
-[ 🎖️ Don’t Forget HTTP - L03 C03](moon-base/Don’tForgetHTTP-L03C03.md) `❗Hint missing`
+[ 🎖️ Don’t Forget HTTP - L03 C03](moon-base/Don’tForgetHTTP-L03C03.md) 
 
-[ 📈 ASCII Encoding - L03 C04](moon-base/ASCIIEncoding-L03C04.md) `❗Hint missing`
+[ 📈 ASCII Encoding - L03 C04](moon-base/ASCIIEncoding-L03C04.md) 
 
-[ 🔎 Ready For Regex - L03 C05](moon-base/ReadyForRegex-L03C05.md) `❗Hint missing`
+[ 🔎 Ready For Regex - L03 C05](moon-base/ReadyForRegex-L03C05.md) 
 
 ## Level 4 - First Contact
 
