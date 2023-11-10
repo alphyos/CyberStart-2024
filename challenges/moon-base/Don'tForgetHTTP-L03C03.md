@@ -3,7 +3,8 @@
 Sockets aren't the only way to make network connections you know, you can use Python to make HTTP requests easily as well. Time to have a go at that I think.
 
 ```
-💡 Hint: This one is easy as long as you remember to use .read() on the response. See if you can re-use any of the example code.
+💡 Hint: This one is easy as long as you remember to use .read() on the response. See if you can re-use any of the example
+   code.
 ```
 
 ## Answer
