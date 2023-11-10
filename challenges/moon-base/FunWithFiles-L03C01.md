@@ -1,7 +1,10 @@
 # 🗃️ Fun With Files - L03 C01
 
+Did you know you can use programming to work with files? It's actually a very common task when doing programming and something you really need to know well. So let's get learning!
+
 ```
-💡 Hint:
+💡 Hint: Consider using range() in your for loop.
+   Refer back to Level 2 Challenge 5 if you can't remember how.
 ```
 
 ## Answer
