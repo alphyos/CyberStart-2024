@@ -3,7 +3,9 @@
 Now you know computers only think in numbers (they're binary remember), you might be wondering how all the text you type on the screen gets converted into something they can understand. Well, that's where encoding comes in, which means this is a great time to teach you about ASCII, the most common form of encoding.
 
 ```
-💡 Hint: Now you know computers only think in numbers (they're binary remember), you might be wondering how all the text you type on the screen gets converted into something they can understand. Well, that's where encoding comes in, which means this is a great time to teach you about ASCII, the most common form of encoding.
+💡 Hint: Now you know computers only think in numbers (they're binary remember), you might be wondering how all the text you
+   type on the screen gets converted into something they can understand. Well, that's where encoding comes in, which means
+   this is a great time to teach you about ASCII, the most common form of encoding.
 ```
 
 ## Answer
