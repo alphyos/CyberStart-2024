@@ -44,9 +44,9 @@
 
 
 
-[ 📖 Strange File - L04 C01](moon-base/StrangeFile-L04C01.md) `❗Hint missing`
+[ 📖 Strange File - L04 C01](moon-base/StrangeFile-L04C01.md)
 
-[ 📏 Agent Profiles - L04 C02](moon-base/AgentProfiles-L04C02.md) `❗Hint missing`
+[ 📏 Agent Profiles - L04 C02](moon-base/AgentProfiles-L04C02.md)
 
 [ 🤖 Broken Robot - L04 C03](moon-base/BrokenRobot-L04C03.md) `❗Hint missing`
 
