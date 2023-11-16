@@ -48,7 +48,7 @@
 
 [ 📏 Agent Profiles - L04 C02](moon-base/AgentProfiles-L04C02.md)
 
-[ 🤖 Broken Robot - L04 C03](moon-base/BrokenRobot-L04C03.md) `❗Hint missing`
+[ 🤖 Broken Robot - L04 C03](moon-base/BrokenRobot-L04C03.md) 
 
 [ 🔑 Unlocking The Message - L04 C04](moon-base/UnlockingTheMessage-L04C04.md) `❗Hint missing`
 
