@@ -50,9 +50,9 @@
 
 [ 🤖 Broken Robot - L04 C03](moon-base/BrokenRobot-L04C03.md) 
 
-[ 🔑 Unlocking The Message - L04 C04](moon-base/UnlockingTheMessage-L04C04.md) `❗Hint missing`
+[ 🔑 Unlocking The Message - L04 C04](moon-base/UnlockingTheMessage-L04C04.md)
 
-[ 😕 Alien Server - L04 C05](moon-base/AlienServer-L04C05.md) `❗Answer & Hint missing`
+[ 😕 Alien Server - L04 C05](moon-base/AlienServer-L04C05.md) 
 
 ## Level 5 - Data Overload
 
