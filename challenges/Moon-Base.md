@@ -58,15 +58,15 @@
 
 
 
-[Listen Up - L05 C01](moon-base/.md)
+[ 🙉 Listen Up - L05 C01](moon-base/ListenUp-L05C01.md)
 
-[Defense Data - L05 C02](moon-base/.md)
+[ 🛡️ Defense Data - L05 C02](moon-base/DefenseData-L05C02.md)
 
-[Alien Zip - L05 C03](moon-base/.md)
+[ 👽 Alien Zip - L05 C03](moon-base/AlienZip-L05C03.md)
 
-[Passphrase Panic - L05 C04](moon-base/.md)
+[ 🔓 Passphrase Panic - L05 C04](moon-base/PassphrasePanic-L05C04.md)
 
-[Jovian Tweets - L05 C05](moon-base/.md)
+[ 🐦 Jovian Tweets - L05 C05](moon-base/JovianTweets-L05C05.md)
 
 ## Level 6 - Under Attack
 
