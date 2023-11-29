@@ -1,4 +1,4 @@
-# 🪶 Rattlesnake
+# 🪶 Rattlesnake - L05 C08
 
 Well, one thing is for sure, the Yakoottees' scripting language of choice is Python. We've intercepted a lot of Python files from all over the place. So many, in fact, that we need someone to look at them and see what they do. Can have a look at this one to find out what it does?
 
