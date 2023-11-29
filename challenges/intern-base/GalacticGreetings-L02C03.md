@@ -5,8 +5,8 @@ Upon locating a strange signal from deep space, agents from the Cyber Protection
 Tip: Search the Internet for tools that can decode binary.
 
 ```
-💡 Hint: Using an online tool, decode the binary signal into readable text and answer the question within. The answer must be
-   encoded in binary before responding.
+💡 Hint: Using an online tool, decode the binary signal into readable text and answer the question within.
+   The answer must be encoded in binary before responding.
 ```
 
 ## Step by Step
