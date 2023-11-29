@@ -16,7 +16,7 @@ ROXy is willing to work with us... if we can prove we're as smart as she is. Bef
 
 ![image of email](/assets/hextraordinary1.png)
 
-- Insert into an [XOR calculator](https://xor.pw/#) with the first set of numbers as an input and the second as the second. Add “0x” in front of the output.
-- If you can help us unravel this code, we'll gain an important new informant.
+- Insert into an [XOR calculator](https://xor.pw/#) with the first set of numbers as an input and the second as the second. Add “0x” in front of the output
+- If you can help us unravel this code, we'll gain an important new informant
 
 ![image of xor calculator](/assets/hextraordinary2.png)
