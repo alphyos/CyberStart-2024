@@ -1,4 +1,4 @@
-# Shopping For Secrets - L05 C07
+# 🛒 Shopping For Secrets - L05 C07
 
 An agent on Level 05 has told us about another big hack he's working on. Apparently someone broke into a popular shopping site, stole all the usernames and passwords and was going to post them online. Luckily, we got to them first and recovered the details. Why is this important? Well, it seems one of the Yakoottees was a member of that site.
 
@@ -7,7 +7,8 @@ He typically uses one of these three usernames: kazuya, kaz_whizz, kazuya99. We'
 **Tip:** The flag is his password.
 
 ```
-💡 Hint: Forgotten how to SSH? Search for `$ man ssh` on google for some help. You might also want to take a look at grep. Search for `$ man grep` on google for some information on how to use it.
+💡 Hint: Forgotten how to SSH? Search for `$ man ssh` on google for some help. You might also want to take a look at grep.
+   Search for `$ man grep` on google for some information on how to use it.
 ```
 
 ## Step by Step
