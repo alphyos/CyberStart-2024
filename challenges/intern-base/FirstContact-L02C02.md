@@ -14,9 +14,9 @@ Curiosity has got the better of us and we’d like to explore where the signal i
 
 ## Step by Step
 
-- Click on the blue planet and notice the given x and y coordinates.
-- Change the url to "`https://satellite.cyberprotection.agency/position?x=440&y=445`".
+- Click on the blue planet and notice the given x and y coordinates
+- Change the url to "`https://satellite.cyberprotection.agency/position?x=440&y=445`"
 
 ![picture of correct url](/assets/firstcontact1.png)
 
-- The flag should appear.
+- The flag should appear
