@@ -5,7 +5,8 @@ Upon locating a strange signal from deep space, agents from the Cyber Protection
 Tip: Search the Internet for tools that can decode binary.
 
 ```
-💡 Hint: Using an online tool, decode the binary signal into readable text and answer the question within. The answer must be encoded in binary before responding.
+💡 Hint: Using an online tool, decode the binary signal into readable text and answer the question within. The answer must be
+   encoded in binary before responding.
 ```
 
 ## Step by Step
@@ -14,6 +15,6 @@ Tip: Search the Internet for tools that can decode binary.
 - Copy the series of binary numbers into a [Binary to ASCII convertor](https://rapidtables.com/convert/number/binary-to-ascii.html)
 - A mathmatical equation should be presented to you
 - Put your answer through an [ASCII to Binary convertor](https://www.rapidtables.com/convert/number/ascii-to-binary.html)
- - This can be in the format of the arabic numeric or alphabetical spelling, with or without capitals
+  - This can be in the format of the arabic numeric or alphabetical spelling, with or without capitals
 - Copy the resulting binary and paste it into the reply field of the challenge
 - If correct, the flag should appear
