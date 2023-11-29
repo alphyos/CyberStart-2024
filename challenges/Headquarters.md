@@ -126,9 +126,9 @@
 
 [ 🚘 File Found - L05 C06](headquarters/FileFound-L05C06.md)
 
-[Shopping For Secrets - L05 C07](headquarters/ShoppingForSecrets-L05C07.md)
+[🛒 Shopping For Secrets - L05 C07](headquarters/ShoppingForSecrets-L05C07.md)
 
-[Rattlesnake - L05 C08](headquarters/Rattlesnake-L05C08.md)
+[🪶 Rattlesnake - L05 C08](headquarters/Rattlesnake-L05C08.md)
 
 [Yakoo Cars - L05 C09](headquarters/YakooCars-L05C09.md)
 
