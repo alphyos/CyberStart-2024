@@ -18,9 +18,9 @@
 
 [👽 First Contact - L02 C02](intern-base/FirstContact-L02C02.md)
 
-[🛵 Start-Up Troubles - L02 C03](intern-base/Start-UpTroubles-L02C03.md)
+[👋 Galactic Greetings - L02 C03](intern-base/GalacticGreetings-L02C03.md)
 
-[🏁 610enC0de'd Password - L02 C04](intern-base/610enC0de'dPassword-L02C04.md)
+[🏇 Rover Rodeo - L02 C04](intern-base/RoverRodeo-L02C04.md)
 
 ## Level 3 - Barcelona: IN THE THICK OF IT
 
@@ -33,3 +33,13 @@
 [⚖️ Off Balance - L03 C03](intern-base/OffBalance-L03C03.md)
 
 [⌛ The Final Countdown - L03 C04](intern-base/TheFinalCountdown-L03C04.md)
+
+## Discontinued Challenges
+
+
+[🛵 Start-Up Troubles - L02 C03](intern-base/Start-UpTroubles-L02C03.md)
+
+[🏁 610enC0de'd Password - L02 C04](intern-base/610enC0de'dPassword-L02C04.md)
+
+
+
