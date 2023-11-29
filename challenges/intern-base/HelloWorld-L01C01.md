@@ -11,8 +11,8 @@ We've found a profile page of a known hacker that we need to get in contact with
 
 ## Step by Step
 
-- Hold down right mouse button and drag over the webpage to highlight the text.
+- Hold down right mouse button and drag over the webpage to highlight the text
 
 ![challenge page with highlighted text containing an email](/assets/helloworld1.png)
 
-- The flag is the email, copy and paste it into the submit box.
+- The flag is the email, copy and paste it into the submit box
