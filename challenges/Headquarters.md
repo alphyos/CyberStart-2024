@@ -130,7 +130,7 @@
 
 [🪶 Rattlesnake - L05 C08](headquarters/Rattlesnake-L05C08.md)
 
-[Yakoo Cars - L05 C09](headquarters/YakooCars-L05C09.md)
+[🚗 Yakoo Cars - L05 C09](headquarters/YakooCars-L05C09.md)
 
 [T-Shirt Trivia - L05 C10](headquarters/T-ShirtTrivia-L05C10.md)
 
