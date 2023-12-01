@@ -126,13 +126,13 @@
 
 [ 🚘 File Found - L05 C06](headquarters/FileFound-L05C06.md)
 
-[🛒 Shopping For Secrets - L05 C07](headquarters/ShoppingForSecrets-L05C07.md)
+[ 🛒 Shopping For Secrets - L05 C07](headquarters/ShoppingForSecrets-L05C07.md)
 
-[🪶 Rattlesnake - L05 C08](headquarters/Rattlesnake-L05C08.md)
+[ 🐍 Rattlesnake - L05 C08](headquarters/Rattlesnake-L05C08.md)
 
-[🚗 Yakoo Cars - L05 C09](headquarters/YakooCars-L05C09.md)
+[ 🚗 Yakoo Cars - L05 C09](headquarters/YakooCars-L05C09.md)
 
-[T-Shirt Trivia - L05 C10](headquarters/T-ShirtTrivia-L05C10.md)
+[ 👕 T-Shirt Trivia - L05 C10](headquarters/T-ShirtTrivia-L05C10.md)
 
 [Baffled By Browsers - L05 C11](headquarters/BaffledByBrowsers-L05C11.md)
 
