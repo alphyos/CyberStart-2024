@@ -7,13 +7,14 @@ There's something odd about this page. The T-shirt for sale doesn't seem to be d
 **Tip**: Read the code to get the flag. Not all QR code readers will show non-URL data, so you may need to try a few!
 
 ```
-💡 Hint: It's the QR code! Read it to get the flag. Oh, and if you don't have a QR code reader use zbarimg, type man zbarimg to get started.
+💡 Hint: It's the QR code! Read it to get the flag. Oh, and if you don't have a QR code reader use zbarimg, type man zbarimg to
+   get started.
 ```
 
 ## Step by Step
 
 - Use a [QR code reader](https://dnschecker.org/qr-code-scanner.php) to scan the image on top of the t-shirt
 
-[image of the QR code](/assets/tshirttrivia1.jpg)
+![image of the QR code](/assets/tshirttrivia1.jpg)
 
 - The flag text will be hidden inside
