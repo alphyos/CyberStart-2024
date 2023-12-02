@@ -21,7 +21,8 @@ Please refer to the [questions](#questions-and-feedback) section before asking q
 - [Headquarters🚀](#-headquarters)
 - [Moon Base 🌕](#-moon-base)
 - [Forensics 🔎](#-forensics)
-- [Contribute 🌠](#contribute)
+- [Contributors 🌠](#contributors)
+  - [Challenge Template ❤️](#challenge-template)
 - [License 🗞️](#license)
 
 ## How To Play
@@ -55,9 +56,33 @@ https://play.cyberstart.com/
 
 Please read [QUESTIONS.md]() for details on how to properly provide feedback or ask questions on challenges.
 
-## Contributers
+## Contributors
 
 ### [🐍 Vip3r](https://github.com/qvipin)
+
+### Challenge Template
+```md
+# :emoji: Title - L# C#
+
+Briefing goes here, if applicable, I like to replace "Agent" w/ "Agent 707" for some odd reason
+**Tip**: Hi! This template is if you want to contribute with your own writeups!
+
+\```
+💡 Hint: The hint goes here, but remember to remove the escape backslash characters for the codeblock! \
+\```
+
+## Step by Step
+
+- Bullet points of information can be emphasized using `code highlights` or **bold**, *italicized*, or any other unique emphasis deemed fit
+  - Inner bullets can also be utilized
+- Just remember that bullet pointed statements DO NOT end with punctuation (!)
+
+![all lowercase image description](/assets/lowercasedchallengename1.png)
+Asset files are all lowercased and ends in a number 1 - n depending on the order in which it is used
+
+Finally, links can be attached to text using the syntax: [a friendly text which describes what the redirect is to](https://the.url-that-will-redirect.users)
+
+```
 
 ## License
 
