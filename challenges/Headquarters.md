@@ -134,9 +134,9 @@
 
 [ 👕 T-Shirt Trivia - L05 C10](headquarters/T-ShirtTrivia-L05C10.md)
 
-[Baffled By Browsers - L05 C11](headquarters/BaffledByBrowsers-L05C11.md)
+[ 🌌 Baffled By Browsers - L05 C11](headquarters/BaffledByBrowsers-L05C11.md)
 
-[Dangerous Comment - L05 C12](headquarters/DangerousComment-L05C12.md)
+[ 🚁 Dangerous Comment - L05 C12](headquarters/DangerousComment-L05C12.md)
 
 ## Level 6 - The Yakoottees: CYBER SMASH AND GRAB
 
