@@ -176,7 +176,7 @@
 
 [ 👂 Docking Port - L07 C03](headquarters/DockingPort-L07C03.md)
 
-[ 🗝️ Pedro’s Password - L07 C04](/headquarters/Pedro'sPassword-L07C04.md)
+[ 🗝️ Pedro’s Password - L07 C04](headquarters/Pedro'sPassword-L07C04.md)
 
 [ 🪂 Quick Drop - L07 C05](headquarters/QuickDrop-L07C05.md)
 
