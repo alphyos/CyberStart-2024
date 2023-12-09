@@ -176,11 +176,11 @@
 
 [ 👂 Docking Port - L07 C03](headquarters/DockingPort-L07C03.md)
 
-[ 🗝️ Pedro’s Password - L07 C04](headquarters/Pedro’sPassword-L07C04.md)
+[ 🗝️ Pedro’s Password - L07 C04](/headquarters/Pedro'sPassword-L07C04.md)
 
 [ 🪂 Quick Drop - L07 C05](headquarters/QuickDrop-L07C05.md)
 
-[ 💰 Miguel the Moneyman - L07 C06](headquarters/MigueltheMoneyman-L07C06.md)
+[ 💰 Miguel the Moneyman - L07 C06](headquarters/MiguelTheMoneyman-L07C06.md)
 
 [ 📄 Developer Disaster - L07 C07](headquarters/DeveloperDisaster-L07C07.md)
 
