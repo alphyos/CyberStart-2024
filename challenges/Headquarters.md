@@ -142,57 +142,57 @@
 
 
 
-[Rezapped - L06 C01 ](headquarters/.md)
+[Rezapped - L06 C01 ](headquarters/Rezapped-L06C01.md)
 
-[Truck Stop - L06 C02]()
+[Truck Stop - L06 C02](headquarters/.md)
 
-[Meeting Momoko- L06 C03]()
+[Meeting Momoko- L06 C03](headquarters/.md)
 
-[Lost Key - L06 C04]()
+[Lost Key - L06 C04](headquarters/.md)
 
-[Running Man - L06 C05]()
+[Running Man - L06 C05](headquarters/.md)
 
-[Heroka’s DB- L06 C06 ]()
+[Heroka’s DB- L06 C06 ](headquarters/.md)
 
-[Hush Fund - L06 C07]()
+[Hush Fund - L06 C07](headquarters/.md)
 
-[Junya Who? - L06 C08]()
+[Junya Who? - L06 C08](headquarters/.md)
 
-[QR.gif - L06 C09]()
+[QR.gif - L06 C09](headquarters/.md)
 
-[Custom Plates - L06 C10]()
+[Custom Plates - L06 C10](headquarters/.md)
 
-[Still Hiding - L06 C11]()
+[Still Hiding - L06 C11](headquarters/.md)
 
-[Brute Strength - L06 C12]()
+[Brute Strength - L06 C12](headquarters/.md)
 
 ## Level 7 - The Chiquitoos: COLA SHIPS AHOY
 
 
 
-[Dot Dot Dash - L07 C01]()
+[ 💨 Dot Dot Dash - L07 C01](headquarters/DotDotDash-L07C01.md)
 
-[Hidden Boats - L07 C02]()
+[ ⛵ Hidden Boats - L07 C02](headquarters/HiddenBoats-L07C02.md)
 
-[Docking Port - L07 C03]()
+[ 👂 Docking Port - L07 C03](headquarters/DockingPort-L07C03.md)
 
-[Pedro’s Password - L07 C04]()
+[ 🗝️ Pedro’s Password - L07 C04](headquarters/Pedro’sPassword-L07C04.md)
 
-[Quick Drop - L07 C05]()
+[ 🪂 Quick Drop - L07 C05](headquarters/QuickDrop-L07C05.md)
 
-[Miguel the Moneyman - L07 C06]()
+[ 💰 Miguel the Moneyman - L07 C06](headquarters/MigueltheMoneyman-L07C06.md)
 
-[Developer Disaster - L07 C07]()
+[ 📄 Developer Disaster - L07 C07](headquarters/DeveloperDisaster-L07C07.md)
 
-[Breaking Bottles - L07 C08]()
+[ 🍾 Breaking Bottles - L07 C08](headquarters/BreakingBottles-L07C08.md)
 
-[Bash The Botnet - L07 C09]()
+[ 🔨 Bash The Botnet - L07 C09](headquarters/BashTheBotnet-L07C09.md)
 
-[All Zipped Up - L07 C10]()
+[ 🥃 All Zipped Up - L07 C10](headquarters/AllZippedUp-L07C10.md)
 
-[Secret Spreadsheet - L07 C11]()
+[ 🥜 Secret Spreadsheet - L07 C11](headquarters/SecretSpreadsheet-L07C11.md)
 
-[Password Pickle - L07 C12]()
+[ 🥒 Password Pickle - L07 C12](headquarters/PasswordPickle-L07C12.md)
 
 ## Level 8 - The Chiquitoos: DIZZY ON CYBER CRIME
 
