@@ -10,6 +10,6 @@ We have come across a site, which we believe is run by one of the Chiquitoo gang
 
 ### Step by Step
 
-- Type “`nc -l 1337`” into the command terminal
+- Type `nc -l 1337` into the command terminal
 
 ![using the command](/assets/dockingport1.png)
