@@ -15,4 +15,4 @@ You only get one chance per day to complete this timed challenge. Reload the pag
 ### Step by Step
 
 - Copy and paste the given code
-- Decode using **Base64**
+- Decode using [Base64](https://www.base64decode.net/decode/qgv)
