@@ -59,6 +59,7 @@ Please read [QUESTIONS.md]() for details on how to properly provide feedback or 
 ## Contributors
 
 ### [🐍 Vip3r](https://github.com/qvipin)
+### [🐈 Nuspli](https://github.com/Nuspli)
 
 ### Challenge Template
 ```md
