@@ -7,7 +7,8 @@ There's an error message on the site. See if you can find a way around it to get
 **Tip:** Get back in to get the flag.
 
 ```
-💡 Hint: POST data is not stored in the URL like GET data, so it is harder to work with. You can use curl to send POST data, go to your terminal and type $ man curl for more information.
+💡 Hint: POST data is not stored in the URL like GET data, so it is harder to work with.
+   You can use curl to send POST data, go to your terminal and type $ man curl for more information.
 ```
 
 ### Step by Step
