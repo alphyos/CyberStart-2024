@@ -72,40 +72,40 @@
 
 
 
-[Foreign Filesystem - L06 C01](moon-base/.md)
+[ 🌏 Foreign Filesystem - L06 C01](moon-base/ForeignFilesystem-L06C01.md)
 
-[Watched by The Eye - L06 C02](moon-base/.md)
+[ 👁️ Watched By The Eye - L06 C02](moon-base/WatchedByTheEye-L06C02.md)
 
-[A Way Back In - L06 C03](moon-base/.md)
+[ 💨 A Way Back In - L06 C03](moon-base/AWayBackIn-L06C03.md)
 
-[Tough Zip - L06 C04](moon-base/.md)
+[ 🦹‍♂️ Tough Zip - L06 C04](moon-base/ToughZip-L06C04.md)
 
-[Server Key - L06 C05](moon-base/.md)
+[ 🔑 Server Key - L06 C05](moon-base/ServerKey-L06C05.md)
 
 ## Level 7 - Time to Respond
 
 
 
-[Magic File - L07 C01](moon-base/.md)
+[ 🧙‍♂️ Magic File - L07 C01](moon-base/MagicFile-L07C01.md)
 
-[Cookie Cutter - L07 C02](moon-base/.md)
+[ 🍪 Cookie Cutter - L07 C02](moon-base/CookieCutter-L07C02.md)
 
-[Alien Transfer - L07 C03](moon-base/.md)
+[ 👽 Alien Transfer - L07 C03](moon-base/AlienTransfer-L07C03.md)
 
-[Hidden Messages - L07 C04](moon-base/.md)
+[ 💭 Hidden Messages - L07 C04](moon-base/HiddenMessages-L07C04.md)
 
-[Alien Email - L07 C05](moon-base/.md)
+[ 📭 Alien Email - L07 C05](moon-base/AlienEmail-L07C05.md)
 
 ## Level 8 - Mothership
 
 
 
-[New Line of Communication - L08 C01](moon-base/.md)
+[ 〰 New Line Of Communication - L08 C01](moon-base/NewLineOfCommunication-L08C01.md)
 
-[Vulnerable String - L08 C02](moon-base/.md)
+[ 🤐 Vulnerable String - L08 C02](moon-base/VulnerableString-L08C02.md)
 
-[Getting Access - L08 C03](moon-base/.md)
+[ 📂 Getting Access - L08 C03](moon-base/GettingAccess-L08C03.md)
 
-[Unlocking the Mothership - L08 C04](moon-base/.md)
+[ 🔓 Unlocking The Mothership - L08 C04](moon-base/UnlockingTheMothership-L08C04.md)
 
-[Self Destruct - L08 C05](moon-base/.md)
+[ 🤯 Self Destruct - L08 C05](moon-base/SelfDestruct-L08C05.md)
