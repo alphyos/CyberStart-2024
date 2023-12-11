@@ -1,4 +1,4 @@
-#  ☠️ A Dangerous Contact - L04 C05
+# ☠️ A Dangerous Contact - L04 C05
 
 During our research into The Choppers, we noticed that their website has a contact page with a form for getting in touch. Our agents want to know whether it might be vulnerable to SQL injection.
 
