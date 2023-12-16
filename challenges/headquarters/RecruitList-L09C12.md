@@ -7,7 +7,7 @@ We've found the login page for it, see if you can get access.
 **Tip:** Bypass the login form to get the flag.
 
 ```
-💡 Hint: Did you see the comment in the source code suggesting you take a look at `page.phps`?
+💡 Hint: Did you see the comment in the source code suggesting you take a look at "page.phps"?
    Take a look. What does urldecode do? Can you do the opposite of urldecode?
 ```
 

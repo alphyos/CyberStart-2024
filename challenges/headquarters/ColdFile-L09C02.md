@@ -6,7 +6,7 @@ Agent, quick task for you if you have a few minutes to spare. We have an old pro
 
 ```
 💡 Hint: Agent, you may want to look into using a tool called 'Strings', it's built into most Linux systems.
-   Learn more by typing `man strings` in your terminal window.
+   Learn more by typing "man strings" in your terminal window.
 ```
 
 ## Files

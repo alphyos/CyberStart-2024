@@ -15,7 +15,7 @@ These are the details you'll need:
 **Tip:** Find the Jpeg, it contains a serial number (SN), that's the flag!
 
 ```
-💡 Hint: Consider using the `file` command to find what file type a file is. See `man file` for more information.
+💡 Hint: Consider using the "file" command to find what file type a file is. See "man file" for more information.
    How would you find the file type of all the files in the directory? Then following on from that,
    how would you sort through that information to find the one jpg?
 ```
