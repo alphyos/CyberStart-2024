@@ -142,29 +142,29 @@
 
 
 
-[Rezapped - L06 C01 ](headquarters/Rezapped-L06C01.md)
+[ 🧙‍♂️ Rezapped - L06 C01 ](headquarters/Rezapped-L06C01.md)
 
-[Truck Stop - L06 C02](headquarters/.md)
+[ 🚚 Truck Stop - L06 C02](headquarters/TruckStop-L06C02.md)
 
-[Meeting Momoko- L06 C03](headquarters/.md)
+[ ☕ Meeting Momoko- L06 C03](headquarters/MeetingMomoko-L06C03.md)
 
-[Lost Key - L06 C04](headquarters/.md)
+[ 🔑 Lost Key - L06 C04](headquarters/LostKey-L06C04.md)
 
-[Running Man - L06 C05](headquarters/.md)
+[ 🐉 Running Man - L06 C05](headquarters/RunningMan-L06C05.md)
 
-[Heroka’s DB- L06 C06 ](headquarters/.md)
+[ 🏎️ Heroka’s DB- L06 C06 ](headquarters/Heroka'sDB-L06C06.md)
 
-[Hush Fund - L06 C07](headquarters/.md)
+[ 💵 Hush Fund - L06 C07](headquarters/HushFund-L06C07.md)
 
-[Junya Who? - L06 C08](headquarters/.md)
+[ 📛 Junya Who? - L06 C08](headquarters/JunyaWho-L06C08.md)
 
-[QR.gif - L06 C09](headquarters/.md)
+[ 📱 QR.gif - L06 C09](headquarters/QR.gif-L06C09.md)
 
-[Custom Plates - L06 C10](headquarters/.md)
+[ 🍽️ Custom Plates - L06 C10](headquarters/CustomPlates-L06C10.md)
 
-[Still Hiding - L06 C11](headquarters/.md)
+[ 🌵 Still Hiding - L06 C11](headquarters/StillHiding-L06C11.md)
 
-[Brute Strength - L06 C12](headquarters/.md)
+[ 🏋️ Brute Strength - L06 C12](headquarters/BruteStrength-L06C12.md)
 
 ## Level 7 - The Chiquitoos: COLA SHIPS AHOY
 
