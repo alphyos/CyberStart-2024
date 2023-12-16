@@ -20,5 +20,5 @@ It's also completely normal not to understand things first time, and you may nee
 
 All that said, we hope you find the CyberStart Field Manual useful and good luck on solving the challenges!
 
-### <div dir="rtl">[→ Next: 1.2 Challenges](../Challenges1.2.md)
+### <div dir="rtl">[→ Next: 1.2 Challenges](Challenges1.2.md)
 
