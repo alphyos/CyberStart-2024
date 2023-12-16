@@ -2,9 +2,8 @@
 # Introduction 
 
 <div align="center">
-  <video src="https://github.com/alphyos/Cyberstart-2023/assets/116646389/d6accf28-b382-4f9d-a72f-c253b8042ce7" width="800" />
+  <video src="https://github.com/alphyos/Cyberstart-2023/assets/116646389/82f784f2-2125-476b-af8b-657253838630" width="800" />
 </div>
-
 
 # CyberStart Field Manual
 
