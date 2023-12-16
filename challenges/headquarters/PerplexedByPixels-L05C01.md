@@ -22,4 +22,3 @@ One of the team has already built a comparison tool but he's just been reassigne
 - The absolute value of this number is what you will type into the column boxes as shown below in the same order of 01, 02, etc from top to bottom.
 
 ![image of ascii converter](/assets/perplexedbypixels2.png)
-
