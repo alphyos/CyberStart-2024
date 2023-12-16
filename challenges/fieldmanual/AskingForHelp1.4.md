@@ -29,5 +29,5 @@ The CyberStart support team won't be able to provide tips or answers (as all of 
 
 Whether you need a little help or facing an error you can't get past, we're sure you'll get past it soon and onto more learning and gameplay in CyberStart.
 
-### <div dir="rtl">[→ Next: 1.3 Self Guided Learning Tips And Tricks](1.5.md)
+### <div dir="rtl">[→ Next: 1.5 Security Awareness](SecurityAwareness1.5.md)
 
