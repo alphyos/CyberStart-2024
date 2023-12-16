@@ -6,8 +6,10 @@ Fortunately we've been able to recover some source code for it. Take a look at t
 
 **Tip:** Get access to the server to get the flag.
 
-💡 **Hint:** Looking at the source code, what does eval() do? What are the requirements for getting the flag,
+```
+💡 Hint: Looking at the source code, what does eval() do? What are the requirements for getting the flag,
    can you make the if statement true without knowing the value of firstNum?
+```
 
 ## Step by Step
 

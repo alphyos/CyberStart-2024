@@ -6,9 +6,11 @@ We've created an account for you and made a test forum page called "Hack Trick".
 
 **Tip:** Get the site to output an alert with the right text and you'll get the flag!
 
-💡 **Hint:** The technique you need to use is called Cross Site Scripting (XSS),
+```
+💡 Hint: The technique you need to use is called Cross Site Scripting (XSS),
    and involves finding a way to run some JavaScript code on the computer of any user who views the page.
    Think about how you would do it if you were building the website yourself?
+```
 
 ## Step by Step
 

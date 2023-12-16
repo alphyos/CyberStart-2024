@@ -4,8 +4,10 @@ Agent, quick task for you if you have a few minutes to spare. We have an old pro
 
 **Tip:** Run the program, find the password, input it into the program to get the flag.
 
-💡 **Hint:** Agent, you may want to look into using a tool called 'Strings', it's built into most Linux systems.
+```
+💡 Hint: Agent, you may want to look into using a tool called 'Strings', it's built into most Linux systems.
    Learn more by typing `man strings` in your terminal window.
+```
 
 ## Files
 

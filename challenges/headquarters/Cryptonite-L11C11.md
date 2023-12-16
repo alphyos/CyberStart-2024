@@ -6,7 +6,9 @@ See if you can use it to get access to the server and look for any files that mi
 
 **Tip:** There's a file on the server containing the flag.
 
-💡 **Hint:** Focus more on the -n argument and see if you can take advantage of it.
+```
+💡 Hint: Focus more on the -n argument and see if you can take advantage of it.
+```
 
 ## Step by Step
 

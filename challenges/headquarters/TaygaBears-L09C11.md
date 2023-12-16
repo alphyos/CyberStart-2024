@@ -4,9 +4,11 @@ One of the Spetzners lives in Tayga, a heavily forested area with a lot of bears
 
 Take a look at them and see if you can spot what it is.
 
-**Tip:** There's a hidden file, open it to get the flag. 
+**Tip:** There's a hidden file, open it to get the flag.
 
-💡 **Hint:** Take a close look at each of the images using `binwalk` or a hex editor. Do you see anything unusual about them?
+```
+💡 Hint: Take a close look at each of the images using `binwalk` or a hex editor. Do you see anything unusual about them?
+```
 
 ## Files
 

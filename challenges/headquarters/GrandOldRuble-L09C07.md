@@ -6,10 +6,12 @@ Take a look and see if you can do the same so we can help the bank fix their sec
 
 **Tip:** Transfer 1000 rubles to a user called cpa to get the flag.
 
-💡 **Hint:** You will need to perform a Cross Site Request Forgery (CSRF) attack here agent.
+```
+💡 Hint: You will need to perform a Cross Site Request Forgery (CSRF) attack here agent.
    Simply put, you don't have access to the button that is grayed out, but the admins do.
    Find a link you could send to the admins that will automatically perform the action under their account
    if they click the link.
+```
 
 ## Step by Step
 

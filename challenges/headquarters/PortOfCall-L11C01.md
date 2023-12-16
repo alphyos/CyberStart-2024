@@ -4,7 +4,9 @@ Quick job for you Agent 707. We think the gang have a port running between 14000
 
 **Tip:** Connect to the port to get the flag.
 
-💡 **Hint:** You'll want to use nmap for this. Make sure you specify the port range!
+```
+💡 Hint: You'll want to use nmap for this. Make sure you specify the port range!
+```
 
 ## Step by Step
 

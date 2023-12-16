@@ -6,7 +6,9 @@ The team have been starting to wonder whether there are other pages that we've n
 
 **Tip:** Find the hidden page to get the flag.
 
-💡 **Hint:** Hmm, what would make a page invisible from search engines?
+```
+💡 Hint: Hmm, what would make a page invisible from search engines?
+```
 
 ## Step by Step
 

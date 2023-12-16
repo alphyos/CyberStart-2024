@@ -6,8 +6,10 @@ She also runs a small legit side project, a photo site which allows anyone to cr
 
 **Tip:** Find the vulnerability to get the flag.
 
-💡 **Hint:** What does google say about the CVE? Are there examples of ways to take advantage of this flaw?
+```
+💡 Hint: What does google say about the CVE? Are there examples of ways to take advantage of this flaw?
    If there are then try them out!
+```
 
 ## Step by Step
 

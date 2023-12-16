@@ -6,8 +6,10 @@ We want you to take a look at the scientific paper upload page, we think it migh
 
 **Tip:** Upload the correct file and visit the file page to get the flag.
 
-💡 **Hint:** Make sure your php file has the right extension and contains actual PHP code.
+```
+💡 Hint: Make sure your php file has the right extension and contains actual PHP code.
    The goal is to demonstrate that you could have run malicious code on the server if you wanted to.
+```
 
 ## Step by Step
 

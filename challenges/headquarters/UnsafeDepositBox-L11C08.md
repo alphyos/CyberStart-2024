@@ -6,8 +6,10 @@ As part of our penetration testing we've found a page which might be vulnerable 
 
 **Tip:** Get admin access to the site to get the flag.
 
-💡 **Hint:** You must find a way to get the administrator's cookie sent to your web server address,
+```
+💡 Hint: You must find a way to get the administrator's cookie sent to your web server address,
    then create the cookie with the right values and refresh the page for access.
+```
 
 ## Step by Step
 

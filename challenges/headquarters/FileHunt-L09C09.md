@@ -14,8 +14,10 @@ These are the details you'll need:
 
 **Tip:** Find the file, it contains the flag.
 
-💡 **Hint:** One of the other agents mentioned you should perhaps try using the `find` command for this,
+```
+💡 Hint: One of the other agents mentioned you should perhaps try using the `find` command for this,
    you can view more information with `man find`.
+```
 
 ## Step by Step
 

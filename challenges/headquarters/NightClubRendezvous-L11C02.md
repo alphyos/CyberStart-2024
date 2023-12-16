@@ -6,8 +6,10 @@ Here's what we know about it so far: each character in the text was converted in
 
 **Tip:** The flag is the name of the nightclub.
 
-💡 **Hint:** As the briefing mentions: we know each number was converted from ASCII to decimal, before having the same value -
+```
+💡 Hint: As the briefing mentions: we know each number was converted from ASCII to decimal, before having the same value -
    between 1 and 10 - subtracted from it. Can you write a script to reverse this?
+```
 
 ## Step by Step
 

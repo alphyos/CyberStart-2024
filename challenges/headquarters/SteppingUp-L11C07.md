@@ -6,10 +6,12 @@ The elite group have decided to select someone from the rest of the gang by issu
 
 **Tip:** Overflow the buffer to get the flag.
 
-💡 **Hint:** You will need to consider how to make the secret read `de4dc0de`.
+```
+💡 Hint: You will need to consider how to make the secret read `de4dc0de`.
    It can be written in hexadecimal form with `\x`prefixes; for example `\xde\x4d`and so on.
    Can you fill the buffer with the hexadecimal notation of `de4dc0de`? What does the secret read when you do?
    You may need to look up the difference between Little Endian and Big Endian notation.
+```
 
 ## Files
 
