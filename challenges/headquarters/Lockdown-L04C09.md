@@ -6,7 +6,7 @@ They've currently got it locked down by disabling the login form. We still have 
 
 **Tip:** Log in successfully and you'll get the flag.
 
-```
+```txt
 💡 Hint: Hmm, it looks like they didn't lock down the login form entirely; all they've done is disable the form's input
    button. Could you maybe use Developer Tools to get around that?
 ```

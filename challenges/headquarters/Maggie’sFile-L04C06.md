@@ -10,7 +10,7 @@ Why don't you try it yourself using the secure terminal we've provided and see w
 
 **Tip:** The terminal uses non-default implementation of OpenSSH and only accepts common formats. The flag is the name of the file.
 
-```
+```txt
 💡 Hint: Never used SSH? Don't worry. Type `$ ssh user@ipaddress` from the command line in the terminal where user is the
    username and ipaddress is the IP address of course. Once you're in, you should see a file there. Its name is the flag.
 ```
@@ -23,4 +23,4 @@ Why don't you try it yourself using the secure terminal we've provided and see w
 
 - Type the given password in. `ubersecurepw`
 - Type `ls` to list contents in the directory and you will find the file/flag.
-  - Remember, the file name itself is the flag, not the contents of the file. 
+  - Remember, the file name itself is the flag, not the contents of the file.

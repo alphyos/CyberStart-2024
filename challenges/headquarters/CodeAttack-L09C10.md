@@ -6,7 +6,7 @@ You need to write a simple script from scratch to crack into another program tha
 
 **Tip:** If you enter the right argument into the program you get the flag.
 
-```
+```txt
 💡 Hint: You will need to write a script for this one, or you'll be at it for a very long time.
    You can use Python, or it may be even easier to use a BASH script.
    Your script will need to include at least one loop to make this work. If you're using BASH you might consider a while loop.

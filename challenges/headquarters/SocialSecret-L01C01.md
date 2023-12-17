@@ -4,7 +4,7 @@ Agent 707, we think we might have a way to log into a social media account of on
 
 **Tip:** **Get the age correct** and submit the form to get the flag.
 
-```
+```txt
 💡 Hint: Look at the username, does that give you any hint at what year he might have been born?
 ```
 

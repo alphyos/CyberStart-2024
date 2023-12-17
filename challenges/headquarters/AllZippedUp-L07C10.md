@@ -4,11 +4,11 @@ Agent 707, we need your scripting skills again. One of our field agents has mana
 
 **Tip:** Open the zip file to get the flag. And don't forget you can use your local terminal to help.
 
-```
+```txt
 💡 Hint: We believe the password starts with "Cola" and ends in numbers and upper or lower case characters.
 ```
 
-### Step by Step
+## Step by Step
 
 - Download the zip file and python script
 - Edit the script to run like the one below, changing the zipfile name to fit your zip name

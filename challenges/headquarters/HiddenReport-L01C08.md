@@ -6,14 +6,14 @@ Have a look at our account page on the site, it allows you to **generate a repo
 
 **Tip:** Find the **report for the first user** of the site and you'll get the flag.
 
-```
+```txt
 💡 Hint: Try creating your report first. Is there anything about the URL you could potentially change to see other users
    reports?
 ```
 
-### Step by Step
+## Step by Step
 
-- Click “**Generate Report**”.
+- Click **Generate Report**.
 - Click on the url and change `user-456` to `user-1`.
 - The flag should appear in the transaction report.
 

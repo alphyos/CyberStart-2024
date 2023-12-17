@@ -6,17 +6,17 @@ We think we might have a way in. The bottling plant has a website and there is a
 
 **Tip:** Open the file to get the flag.
 
-```
+```txt
 💡 Hint: What other characters can be used instead of semi-colons to perform a command injection? Think about pipes.
    Oh, and we now know the file you need to find is called "cola_recipe.txt".
 ```
 
-### Step by Step
+## Step by Step
 
 - Navigate to the most bottom query where it says "Any message"
 - Type `ls` and press send. Text should pop up with various .txt file names
-    - Remember, you are looking for a **cola recipe**
-    ![sending message](/assets/breakingbottles1.png)
+  - Remember, you are looking for a **cola recipe**
+  ![sending message](/assets/breakingbottles1.png)
 - Type `cat cola_recipe.txt` and press send. The flag should appear
 
 ![sending message](/assets/breakingbottles2.png) ![sending message](/assets/breakingbottles3.png)

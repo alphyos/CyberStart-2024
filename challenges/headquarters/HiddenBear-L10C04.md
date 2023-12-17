@@ -18,7 +18,7 @@ Here's a good example: you may remember the Bear Watch site from the previous le
 ## Step by Step
 
 - Download the image and open it up in GIMP
-- Select “Linear Invert” from “Colors”
+- Select "Linear Invert" from "Colors"
 - The photo should resemble the one below, the flag is visible at the top center of the photo
 
 ![Image in gimp](/assets/hiddenbear1.png)

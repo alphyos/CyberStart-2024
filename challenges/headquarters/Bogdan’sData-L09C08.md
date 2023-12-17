@@ -6,7 +6,7 @@ Fortunately we've been able to recover some source code for it. Take a look at t
 
 **Tip:** Get access to the server to get the flag.
 
-```
+```txt
 💡 Hint: Looking at the source code, what does eval() do? What are the requirements for getting the flag,
    can you make the if statement true without knowing the value of firstNum?
 ```
@@ -35,9 +35,9 @@ clientsock.close()
 ```
 
 - Open a Linux terminal.
-- Run “`netcat services.cyberprotection.agency 3166`”
+- Run `netcat services.cyberprotection.agency 3166`
 - Type any number and press enter.
-- Type “`firstNum`" and press enter.
+- Type `firstNum` and press enter.
 - The flag should appear.
 - This works because pythons built-in `eval` function parses the input string and compiles it to bytecode which is then evaluated as a python expression and returned by the function. that means it will return the value of `firstNum` and trigger the `if secondNum == firstNum:`.
 

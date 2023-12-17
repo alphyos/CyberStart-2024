@@ -6,8 +6,10 @@ Here's what we know: when the phone was first started the PIN code code to log i
 
 Tip: Get the right PIN code to get the flag. All we know at the moment is that it's definitely eight digits long.
 
+```txt
 💡 Hint: The easiest ways to calculate this are to break it down into pieces and write a script to calculate it,
    or use a mathematical equation.
+```
 
 The PIN code was originally 4096. When the code was 4096 the number of times the code was entered in the past was 0. So your solution needs to add the code to the number of times the PIN code was entered, then add 1 to the number of times the code was entered, and repeat that 5521 times to get the correct result.
 

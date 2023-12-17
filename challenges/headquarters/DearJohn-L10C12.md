@@ -8,7 +8,7 @@ Unfortunately, the word list doesn't have the password on there, we think it may
 
 **Tip:** Get access to the database to get the flag!
 
-```
+```txt
 💡 Hint: Taking a word list and changing it is called word mangling.
    The password for the database server isn’t in the word list we’ve provided, we know that much,
    but if it’s a variant, using John to mangle the words in the wordlist might produce results.

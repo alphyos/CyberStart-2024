@@ -16,7 +16,7 @@ See if you can crack into the Chirp site. If you do you'll see the calls Semyon 
 ## Step by Step
 
 - Replace the url with the following url instead
-    - `https://www.letschirp.com/login?key=''&password=''`
+  - `https://www.letschirp.com/login?key=''&password=''`
 - The page should change to the correct log page, this is because `extract()` uses the insecure field, `$_GET`
 
 `flag: 007 987 352 5373`

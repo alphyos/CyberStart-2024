@@ -4,7 +4,7 @@ We've been monitoring the Yakoottees for a while now, ever since we first came a
 
 **Tip:** Open the file to get the flag.
 
-```
+```txt
 💡 Hint: Is it actually a zip file? Have you tried changing the extension?
 ```
 

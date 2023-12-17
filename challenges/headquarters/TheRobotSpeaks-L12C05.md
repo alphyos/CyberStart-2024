@@ -12,7 +12,7 @@ We think the LCD display might be used as a way to display secret messages and a
 
 ## Step by Step
 
-- Change “`af`" in the “`DoMore`" line to “`al`".
+- Change `af` in the `DoMore` line to `al`.
 
 ```nasm
 section .data

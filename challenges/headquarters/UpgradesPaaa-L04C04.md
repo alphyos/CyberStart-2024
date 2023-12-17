@@ -6,7 +6,7 @@ They have rewritten their login form to use slightly improved JavaScript, but it
 
 **Tip:** Log in successfully to get the flag.
 
-```
+```txt
 💡 Hint: If you completed all the challenges on the previous level you'll remember that one required you to look at the
    source code for this login page, and the password was right there in the JavaScript. You'll need to do the same here,
    except make a few changes to the JavaScript to get it to run and output the password for you. Use that to log in and
@@ -17,5 +17,5 @@ They have rewritten their login form to use slightly improved JavaScript, but it
 
 ![picture of sourcecode](/assets/upgradespaaa1.png)
 
-- Looking at the source code and finding the username and password requirements, var password is equal to the combination of two other variables with the assigned strings of “`t1mberl4nd`” and “`-el33t`” respectively.
-- The username is “`aksel`” and the password is “`t1mberl4nd-el33t`”.
+- Looking at the source code and finding the username and password requirements, var password is equal to the combination of two other variables with the assigned strings of `t1mberl4nd` and `-el33t` respectively.
+- The username is `aksel` and the password is `t1mberl4nd-el33t`.

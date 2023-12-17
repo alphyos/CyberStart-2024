@@ -6,7 +6,7 @@ With a bit of detective work we've managed to find the message board and get Ben
 
 **Tip:** Successfully post a notice on the board to get the flag.
 
-```
+```txt
 💡 Hint: There seems to be a required parameter - "sessID" - requiring a number. There aren't too many users,
    maybe try brute forcing this value. You could do that in Python or you could write a BASH script using CURL.
 ```

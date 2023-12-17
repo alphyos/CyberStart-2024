@@ -4,12 +4,12 @@ Those Chiquitoos are a busy gang and they run a number of legitimate and crimina
 
 **Tip:** The flag is the boat number of the last one in the secret list.
 
-```
+```txt
 💡 Hint: Look at the page URL and how it's being used to load the list of scheduled trips.
    Is there any way you could change that to show the extra trips file?
 ```
 
-### Step by Step
+## Step by Step
 
 - Modify the default url by adding `?file=extra.txt` at the end of it
 - Final url should look like this: `https://www.boatcabs.com/scheduled?file=extra.txt`

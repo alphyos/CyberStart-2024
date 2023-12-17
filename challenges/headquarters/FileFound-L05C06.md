@@ -2,10 +2,9 @@
 
 Whilst monitoring one of the gang, Ryosuke, we came across a file that he posted online. The problem is, the file doesn't seem to be opening. Take a look and see if you can work it out.
 
-**Tip:** The flag is in the file. 
-<!--- i hate tips sometimes fr --->
+**Tip:** The flag is in the file.
 
-```
+```txt
 💡 Hint: Need help figuring out why the file won't open? Try going to the terminal and typing `$ man file`.
 ```
 

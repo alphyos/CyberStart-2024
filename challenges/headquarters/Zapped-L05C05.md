@@ -1,12 +1,12 @@
 # ⚡ Zapped - L05 C05
 
-The gang have been using a lesser-known chat app called ChatZap to communicate. We know one of the usernames (kanako) but not the password. If we could get access we might be able to see what they're saying. 
+The gang have been using a lesser-known chat app called ChatZap to communicate. We know one of the usernames (kanako) but not the password. If we could get access we might be able to see what they're saying.
 
 It's not a great site and the security is average at best. Look at the login page - they do SHA1 hash their passwords but leave them in plain sight in the source code. See if you can use that to get in.
 
 **Tip:** Gain access to get the flag.
 
-```
+```txt
 💡 Hint: SHA1 hashed passwords are not reversible but a lot of the hashes for commonly used passwords have been put
    online. Maybe we got lucky and they are using a simple password?
 ```

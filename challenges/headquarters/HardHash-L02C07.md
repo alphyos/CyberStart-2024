@@ -4,7 +4,7 @@ Agent D from our cryptography department has just sent me this **hash** she in
 
 **Tip:** Maybe someone has **already figured out** what this is a hash of. Sometimes the work of the CPA starts with an **internet search**.
 
-```
+```txt
 💡 Hint: Try searching for the hash in Google, the original text for this hash might be listed online somewhere!
 ```
 

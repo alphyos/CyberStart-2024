@@ -4,7 +4,7 @@ Remember the blog post by Lars De Vries from the last floor? Well, we thought we
 
 **Tip:** **Get the image to show** to get the flag.
 
-```
+```txt
 💡 Hint: The image seems to have the wrong file extension. The other images all have .jpg, but this one has .gif, try
    changing it. Your browser has "Dev Tools" and an "Element Inspector", within it, that can help with this.
 ```

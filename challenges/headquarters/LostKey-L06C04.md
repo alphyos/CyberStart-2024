@@ -4,11 +4,12 @@ Our agent on the ground noticed a USB key discarded outside The Yakoottees' gara
 
 **Tip:** The flag is in the file.
 
-```
+```txt
 💡 Hint: Are you sure it's a Jpeg?
 ```
 
 ## Files
+
 - [file.jpg](/assets/lostkey2.jpg)
 
 ## Step by Step

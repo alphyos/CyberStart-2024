@@ -6,9 +6,9 @@ Before he went he was able to get access to the private voicemail system the Bul
 
 **Tip:** Find the hidden message to get the flag.
 
-```
+```txt
 💡 Hint: You'll need to work out how to install a program on Linux to do this one.
-   Check out '`steghide`' and find out how to install it. Then use it to extract the hidden message.
+   Check out steghide and find out how to install it. Then use it to extract the hidden message.
 ```
 
 ## Files

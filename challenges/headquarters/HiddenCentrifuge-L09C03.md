@@ -6,7 +6,7 @@ The team have been starting to wonder whether there are other pages that we've n
 
 **Tip:** Find the hidden page to get the flag.
 
-```
+```txt
 💡 Hint: Hmm, what would make a page invisible from search engines?
 ```
 
@@ -16,7 +16,7 @@ The team have been starting to wonder whether there are other pages that we've n
 
 ![robots.txt](/assets/hiddencentrifuge1.png)
 
-- Typing this in allows us to view what page urls are hidden such as “`/testtubes.html`”.
+- Typing this in allows us to view what page urls are hidden such as `/testtubes.html`.
 - Copy this into the end of the url after .com and you will find the flag on this new page.
 
 ![testtubes.html](/assets/hiddencentrifuge2.png)

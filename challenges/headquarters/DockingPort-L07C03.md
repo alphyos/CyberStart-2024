@@ -4,11 +4,11 @@ We have come across a site, which we believe is run by one of the Chiquitoo gang
 
 **Tip:** Get the information to get the flag.
 
-```
+```txt
 💡 Hint: Netcat can be used to listen on a port. Type $ nc -h to see how to run the command.
 ```
 
-### Step by Step
+## Step by Step
 
 - Type `nc -l 1337` into the command terminal
 

@@ -4,7 +4,7 @@ It looks like part of the heist is underway, they're trying to hack the Amsterda
 
 **Tip:** **Change the settings correctly** to get the flag.
 
-```
+```txt
 💡 Hint: The password setting is a little weak isn't it? Try changing a setting to make it more secure.
 ```
 
@@ -12,4 +12,4 @@ It looks like part of the heist is underway, they're trying to hack the Amsterda
 
 ![image of it displaying the issue](/assets/underattack1.png)
 
-- Change “PasswordMinLength” to “16”.
+- Change "PasswordMinLength" to "16".

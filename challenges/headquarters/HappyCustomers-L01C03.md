@@ -4,7 +4,7 @@ During our initial analysis of the gang we noticed something strange - they crea
 
 **Tip:** **Decode the message** to get the secret word and use that as the flag.
 
-```
+```txt
 💡 Hint: Could the numbers represent letters somehow? Think about the position of letters in the alphabet.
 ```
 
@@ -12,14 +12,10 @@ During our initial analysis of the gang we noticed something strange - they crea
 
 - Set the letters of the alphabet to numbers with “A” as “1” and “Z” as “26”.
 
-**Jan De Jong (20, 8, 5) - The**
-
-**Lars Jansen (19, 5, 3, 18, 5, 20) - Secret**
-
-**Gerrit Vries (23, 15, 18, 4) - Word**
-
-**Merel De Vries (9, 19) - Is**
-
-**Sanne Bakker (23, 8, 5, 5, 12) - `[FLAG]`**
+- **Jan De Jong (20, 8, 5) - The**
+- **Lars Jansen (19, 5, 3, 18, 5, 20) - Secret**
+- **Gerrit Vries (23, 15, 18, 4) - Word**
+- **Merel De Vries (9, 19) - Is**
+- **Sanne Bakker (23, 8, 5, 5, 12) - `[FLAG]`**
 
 - Enter the last word as the flag.

@@ -14,7 +14,7 @@ These are the details you'll need:
 
 **Tip:** Find the Jpeg, it contains a serial number (SN), that's the flag!
 
-```
+```txt
 💡 Hint: Consider using the "file" command to find what file type a file is. See "man file" for more information.
    How would you find the file type of all the files in the directory? Then following on from that,
    how would you sort through that information to find the one jpg?
@@ -22,14 +22,14 @@ These are the details you'll need:
 
 ## Step by Step
 
-- Enter your command prompt by running **Windows Key + R** and typing “**cmd**” Or **terminal** on Linux.
-- Type “`ssh [username]@[ip] -p [port number]`” and login with the given password.
-- Run “`ls`” followed by the command “`cd Contents`”
-- Run “`file *`” This will list all the files in Contents and what type they are.
-- “`M5KDAN44`” is the name of the jpeg file we are looking for.
+- Enter your command prompt by running **Windows Key + R** and typing **cmd** Or **terminal** on Linux.
+- Type `ssh [username]@[ip] -p [port number]` and login with the given password.
+- Run `ls` followed by the command `cd Contents`
+- Run `file *` This will list all the files in Contents and what type they are.
+- `M5KDAN44` is the name of the jpeg file we are looking for.
 - Bring up a separate terminal.
-- In the 2nd terminal, run “`scp -p [port number] [username]@[ip]:/home/[username]/Contents/M5KDAN44 .`”
-  - (”`.`” can be any file path you may choose from but for simplicity, “`.`” means the file will be directed to the home directory.)
+- In the 2nd terminal, run `scp -p [port number] [username]@[ip]:/home/[username]/Contents/M5KDAN44 .`
+  - (`.` can be any file path you may choose from but for simplicity, `.` means the file will be directed to the home directory.)
 - Open the jpeg file from where it is stored, the image should look like the one below.
 - The serial number is `0207F9`.
 

@@ -6,13 +6,13 @@ Take a look at them and see if you can spot what it is.
 
 **Tip:** There's a hidden file, open it to get the flag.
 
-```
+```txt
 💡 Hint: Take a close look at each of the images using "binwalk" or a hex editor. Do you see anything unusual about them?
 ```
 
 ## Files
 
-- (challenge-bearwatch-pic-06.08648647)[/assets/taygabears1.jpg]
+- [challenge-bearwatch-pic-06.08648647](/assets/taygabears1.jpg)
 
 ## Step by Step
 

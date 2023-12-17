@@ -4,12 +4,13 @@ Remember the QR code that the Yakoottees printed on a T-shirt? You might have be
 
 **Tip:** Work out the QR codes and put them together for the flag.
 
-```
+```txt
 💡 Hint: You need to decipher each frame individually to get the combined code.
    Try searching for an online tool that will let you split the gif apart into different images.
 ```
 
 ## Files
+
 - [qr.gif](/assets/qr.gif1.gif)
 
 ## Step by Step

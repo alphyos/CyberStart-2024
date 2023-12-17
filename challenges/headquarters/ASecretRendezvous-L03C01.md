@@ -6,7 +6,7 @@ Fortunately, we know it uses the **Columnar Transposition Cipher** and have a 
 
 **Tip:** The flag is the city they will be meeting in.
 
-```
+```txt
 💡 Hint: This kind of encryption can be tough to crack, but luckily our tool makes it simple. Try dragging the columns around
    the page until the text makes sense. When you've got it, see if you can find a mention of the city where they're planning
    to meet - that's the flag!
@@ -14,7 +14,7 @@ Fortunately, we know it uses the **Columnar Transposition Cipher** and have a 
 
 ## Step by Step
 
-- Move the columns so that the first row of letters spell “WEAR”. 
+- Move the columns so that the first row of letters spell "WEAR".
 - If you actually read the sentence from left to right, top to bottom, you’ll see that they want to **meet in the city of** `[FLAG]`.
 
 ![photo of the correct column layout](/assets/asecretrendezvous1.png)

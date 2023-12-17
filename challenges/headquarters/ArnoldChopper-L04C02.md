@@ -8,7 +8,7 @@ See if you can use the intercepted code and the two pages of the book to discove
 
 **Tip:** We believe the message contains a code, that's the flag.
 
-```
+```txt
 💡 Hint: An Arnold or book cipher is one where the numbers refer to the position of words in the text. In this case, it
    looks like each set of three numbers refers to the page, line and word. So 02.04.03 would mean the second page,
    fourth line down, third word along. Once you understand that, decrypting the message should be easy, and the flag is
@@ -19,4 +19,4 @@ See if you can use the intercepted code and the two pages of the book to discove
 
 - Use the provided book to decipher the numbers each set of three, two number pairs correlates to the page number, line number, and word in the sentence.
 - The decoded message is the following:
-    - Kinsmen, the commands. Go tonight, the moment is now. Lower opportunity in the morning. Code is `[REDACTED]`. Good fortune.
+  - Kinsmen, the commands. Go tonight, the moment is now. Lower opportunity in the morning. Code is `[REDACTED]`. Good fortune.

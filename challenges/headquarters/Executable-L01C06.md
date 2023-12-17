@@ -4,14 +4,14 @@ Agent 707, quick question for you. One of the team sent me a screenshot of her f
 
 **Tip:** The **name of the executable file (including the extension)** is the flag.
 
-```
+```txt
 💡 Hint: If there are any file extensions you don't recognize why not try googling them to see whether they are executables.
 ```
 
 ## Step by Step
 
 - Check out [this website](https://fileinfo.com/filetypes/executable) to see a list of executable file formats.
-    - `.com` file extension is an executable file type, like .exe
+  - `.com` file extension is an executable file type, like .exe
 - Submit the entire file name with the extention as the flag.
 
 ![image of all of the provided files the challenge gives you](/assets/executable1.png)

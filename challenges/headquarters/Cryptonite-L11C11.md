@@ -6,15 +6,15 @@ See if you can use it to get access to the server and look for any files that mi
 
 **Tip:** There's a file on the server containing the flag.
 
-```
+```txt
 💡 Hint: Focus more on the -n argument and see if you can take advantage of it.
 ```
 
 ## Step by Step
 
-- To view all possible arguments with Cryptonite, type “`cryptonite -h`"
-- Type “`cryptonite -n;ls`"
-- Type “`cryptonite -n;cat security-blueprints.txt`"
+- To view all possible arguments with Cryptonite, type `cryptonite -h`
+- Type `cryptonite -n;ls`
+- Type `cryptonite -n;cat security-blueprints.txt`
 - The flag should appear
 
 `flag: 28ISToBLzwZlTmUqnVep`

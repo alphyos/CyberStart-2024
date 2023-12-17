@@ -4,7 +4,7 @@ Agent 707, we've intercepted some chatter between Chopper gang members talking a
 
 **Tip:** The identifier is the flag you need.
 
-```
+```txt
 💡 Hint: Hmm, it can't be as simple as... no, hold on. The first four letters spell "BEST", if you reverse them. Maybe that's
    a clue?
 ```
@@ -12,6 +12,6 @@ Agent 707, we've intercepted some chatter between Chopper gang members talking a
 ## Step by Step
 
 - When you [reverse](https://textreverser.com/) the given text, you find a string of `random characters` in the middle of a sentence.
-    - The random characters between `VEHICLE` and `IT` is the flag
+  - The random characters between `VEHICLE` and `IT` is the flag
 
 ![picture of the reversed text output](/assets/confused1.png)

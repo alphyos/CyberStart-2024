@@ -6,12 +6,13 @@ The zip file is password protected, so we set one of our engineers on writing a 
 
 **Tip:** Change the script and open up the zip file to get the flag. Oh, and don't forget you can use your local terminal to help.
 
-```
+```txt
 💡 Hint: We believe the password starts with 'Super' and ends in three characters (which could be mixed case).
    Try modifying the script with that in mind.
 ```
 
 ## Files
+
 - [planz.zip](/assets/brutestrength2.zip)
 - [zipcrack.py](/assets/brutestrength3.py)
 
@@ -19,6 +20,7 @@ The zip file is password protected, so we set one of our engineers on writing a 
 
 - Download both files and examine the python script using a text editor such as Visual Studio Code
 - Add all 26 letter of the alphabet to the alphabet variable but capitalized
+
 ```python
 import zipfile
 import itertools
@@ -61,6 +63,7 @@ for c in itertools.product(alphabet, repeat=3):
 # If no password was found by the end, let us know!
 print('Password not found.')
 ```
+
 - Run the new code and make sure the zipfilename variable is actually what the zip file is named
 ![running the new code](/assets/brutestrength1.png)
 - A text file should appear on your machine, the flag is inside

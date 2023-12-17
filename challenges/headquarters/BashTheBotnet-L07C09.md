@@ -1,6 +1,5 @@
 # 🔨 Bash The Botnet - L07 C09
 
-Bash The Botnet - L07 C09 (1)
 We have managed to gain access to a server used by one of The Chiquittoos' side businesses. We think the gang use it to connect to their botnet, which we want to take down. The botnet is of course password protected but, if you can find the password we can log in and disable it!
 
 Log into the server using these credentials and see if you can find the password.
@@ -14,12 +13,12 @@ Username: [given username] Password: [given password] IP Address: [given ip] Por
 
 **Tip:** The flag is in the same file as the password.
 
-```
+```txt
 💡 Hint: If the gang uses the terminal to connect to their botnet, they may have typed the password in there.
    Maybe look in the Linux command history?
 ```
 
-### Step by Step
+## Step by Step
 
 - Open up a Linux terminal
 - Type `ssh [username]@[ip] -p [port number]`

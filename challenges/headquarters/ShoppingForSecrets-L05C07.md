@@ -6,7 +6,7 @@ He typically uses one of these three usernames: kazuya, kaz_whizz, kazuya99. We'
 
 **Tip:** The flag is his password.
 
-```
+```txt
 💡 Hint: Forgotten how to SSH? Search for `$ man ssh` on google for some help. You might also want to take a look at grep.
    Search for `$ man grep` on google for some information on how to use it.
 ```

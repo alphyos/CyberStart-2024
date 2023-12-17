@@ -6,7 +6,7 @@ Our team have created an account with the service and logged in. See if you can 
 
 **Tip:** Billy Johnson's account name is the flag.
 
-```
+```txt
 💡 Hint: User input can be anything, not just a form field. What would happen if the value of a cookie
    was used to get data from a database. Could it also be used for SQL Injection?
 ```
@@ -14,7 +14,7 @@ Our team have created an account with the service and logged in. See if you can 
 ## Step by Step
 
 - Start by creating a new cookie with whatever name you desire by opening up inspect element/dev tools and moving to the applications tab
-- The value of this cookie should be “`WHERE name = ‘Billy’ OR 1=1`”
+- The value of this cookie should be `WHERE name = ‘Billy’ OR 1=1`
 
 ![image of the new cookie](/assets/openbox1.png)
 

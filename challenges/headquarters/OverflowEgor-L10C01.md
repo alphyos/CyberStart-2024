@@ -6,7 +6,7 @@ One of their gang, Egor, is a master scientist and skilled programmer. He's writ
 
 **Tip:** Overflow the buffer to get the flag.
 
-```
+```txt
 💡 Hint: This program is vulnerable to a buffer overflow, the programmer does not check the size of the user's input
    before assigning it to a variable. Can you exploit this to overwrite the next memory addresses with your own content?
 ```

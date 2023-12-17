@@ -6,7 +6,7 @@ Sometimes developers can be a little bit lazy and leave **information** in the
 
 **Tip:** To get the challenge flag you need to successfully login.
 
-```
+```txt
 💡 Hint: Did you know that it's possible to view the source code of a page by using Developer Tools, or by right clicking on
    a page and selecting "View Source"? It looks like the developer Aksel is using some basic JavaScript to check whether the
    password is correct. However, he hasn't obfuscated his code at all so if you view the source code you should be able to
@@ -19,6 +19,6 @@ Sometimes developers can be a little bit lazy and leave **information** in the
 
 ![image of the source code](/assets/secretsource1.png)
 
-- Use Ctrl + F to search for “`Aksel`”.
+- Use Ctrl + F to search for `Aksel`.
 - The username and password for the developer, Aksel should pop up.
 - Logging in with those credentials should give you the flag.

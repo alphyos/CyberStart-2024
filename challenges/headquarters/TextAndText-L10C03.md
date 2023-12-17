@@ -8,7 +8,7 @@ Well, this morning we intercepted an email between the two expecting to see the 
 
 **Tip:** Find the code, that's the flag.
 
-```
+```txt
 💡 Hint: Investigate a way to identify changes between two files.
 ```
 

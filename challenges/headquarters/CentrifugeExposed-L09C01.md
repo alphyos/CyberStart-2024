@@ -8,7 +8,7 @@ We've just had a bit of good news. When making an update to the site Alexei made
 
 **Tip:** Get access to the site to get the flag.
 
-```
+```txt
 💡 Hint: This code we recovered is looking for a cookie with a certain name and value.
    Find out what it is and create it, then refresh the page.
 ```
@@ -16,7 +16,7 @@ We've just had a bit of good news. When making an update to the site Alexei made
 ## Step by Step
 
 - Right click the page and click inspect to use inspect element to navigate to the applications tab where the cookie information is saved
-- Create a new cookie by double tapping a name space and name that cookie “`userLoggedIn`" and edit the value to be “`true`"
+- Create a new cookie by double tapping a name space and name that cookie `userLoggedIn` and edit the value to be `true`
 - Reload the page to get the flag
 
 `flag: MO5aRh2dtu1BfnqwBZrZ`

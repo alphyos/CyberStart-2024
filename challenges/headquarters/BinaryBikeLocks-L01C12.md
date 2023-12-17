@@ -6,9 +6,9 @@ We're concerned they're going to use this lock technology as part of the bigger 
 
 Take a look at this lock and see if you can unlock it.
 
-**Tip:** **Unlock the bike lock** to get the flag. <!--- this has to be one of the worst tips they give you.. 💀 -->
+**Tip:** **Unlock the bike lock** to get the flag.
 
-```
+```txt
 💡 Hint: The randomly generated numbers on the lock are binary. If you add them up what do you get? Still getting it wrong?
    Try inputting the result as a decimal rather than a binary.
 ```
@@ -17,4 +17,4 @@ Take a look at this lock and see if you can unlock it.
 
 - Use [a binary calculator](https://www.calculator.net/binary-calculator.html) to separately find out the value of the two octets and then add them together.
 - Calculate the sum, type it in, and press send.
-    - ex. 111111111 + 00001010 = 255 + 10 = 265
+  - ex. 111111111 + 00001010 = 255 + 10 = 265

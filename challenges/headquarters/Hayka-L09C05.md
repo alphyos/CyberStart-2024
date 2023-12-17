@@ -6,7 +6,7 @@ We want you to take a look at the scientific paper upload page, we think it migh
 
 **Tip:** Upload the correct file and visit the file page to get the flag.
 
-```
+```txt
 💡 Hint: Make sure your php file has the right extension and contains actual PHP code.
    The goal is to demonstrate that you could have run malicious code on the server if you wanted to.
 ```
@@ -22,7 +22,7 @@ echo "b1n4ry"
 ```
 
 - Upload the file to the page
-- Change the url to https://www.hellohayka.com/`filename`.php
+- Change the url to `https://www.hellohayka.com/filename.php`
 - The flag should appear
 
 `flag: 7ADEvbYwJXzEw3tIcCB0`

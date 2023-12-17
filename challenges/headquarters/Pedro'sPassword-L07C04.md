@@ -9,11 +9,11 @@ These are the details you'll need:
 
 **Tip:** The flag is in the same file as the password.
 
-```
+```txt
 💡 Hint: Older versions of Linux kept hashed passwords in a file that every user account could access. You can print the contents of a file to the screen using the cat tool. Type $ man cat in the terminal to find out more.
 ```
 
-### Step by Step
+## Step by Step
 
 - Enter your command promp by running **Windows Key + R** and typing **"cmd"** or terminal on Linux
 - Type `ssh [username]@[ip] -p [port number]`

@@ -6,7 +6,7 @@ We think the six bike reference numbers might be encrypted with a **Caesar Ciph
 
 **Tip:** The **decrypted reference number** containing the word **BAR** is the flag.
 
-```
+```txt
 💡 Hint: Consider looking up what a Caesar Cipher is online if you don't know. Also, keep in mind that each reference number
    is encrypted with a different offset based on the order quantity.
 ```
