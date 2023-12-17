@@ -4,7 +4,7 @@ We've found a profile page of a known hacker that we need to get in contact with
 
 **Tip:** The email address is the flag.
 
-```
+```txt
 💡 Hint: Try highlighting the whole page (using your mouse, or CTRL + A) to find text that might be the same color as the 
    background.
 ```
@@ -16,3 +16,5 @@ We've found a profile page of a known hacker that we need to get in contact with
 ![challenge page with highlighted text containing an email](/assets/helloworld1.png)
 
 - The flag is the email, copy and paste it into the submit box
+
+`flag: 1337hax@myaboutpage.com`
