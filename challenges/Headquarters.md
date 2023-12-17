@@ -198,166 +198,166 @@
 
 
 
-[Locked Doors - L08 C01]()
+[ 🚪 Locked Doors - L08 C01](headquarters/LockedDoors-L08C01.md)
 
-[Port Service- L08 C02]()
+[ 🛥 Port Service - L08 C02](headquarters/PortService-L08C02.md)
 
-[Boat Missing - L08 C03]()
+[ 🚤 Boat Missing - L08 C03](headquarters/BoatMissing-L08C03.md)
 
-[Barcode Bonanza - L08 C04]()
+[ 📮 Barcode Bonanza - L08 C04](headquarters/BarcodeBonanza-L08C04.md)
 
-[Encrypted - L08 C05]()
+[ 📜 Encrypted - L08 C05](headquarters/Encrypted-L08C05.md)
 
-[Wake Up Alarm - L08 C06]()
+[ 🔔 Wake Up Alarm - L08 C06](headquarters/WakeUpAlarm-L08C06.md)
 
-[Filtered Cola - L08 C07]()
+[ 🧃 Filtered Cola - L08 C07](headquarters/FilteredCola-L08C07.md)
 
-[Float to The Top- L08 C08]()
+[ 📄 Float To The Top- L08 C08](headquarters/FloatToTheTop-L08C08.md)
 
-[Secret Messages - L08 C09]()
+[ 🍭 Secret Messages - L08 C09](headquarters/SecretMessages-L08C09.md)
 
-[Shipping Lanes - L08 C10]()
+[ 🎮 Shipping Lanes - L08 C10](headquarters/ShippingLanes-L08C10.md)
 
-[Corrupted Corruption - L08 C11]()
+[ 💻 Corrupted Corruption - L08 C11](headquarters/CorruptedCorruption-L08C11.md)
 
-[Hidra - L08 C12]()
+[ 🚀 Hidra - L08 C12](headquarters/Hidra-L08C12.md)
 
 ## Level 9 - The Spezners: FINDING A WAY IN
 
 
 
-[Centrifuge Exposed - L09 C01]()
+[ 🔬 Centrifuge Exposed - L09 C01](headquarters/CentrifugeExposed-L09C01.md)
 
-[Cold File - L09 C02]()
+[ ⛄ Cold File - L09 C02](headquarters/ColdFile-L09C02.md)
 
-[Hidden Centrifuge - L09 C03]()
+[ 🧪 Hidden Centrifuge - L09 C03](headquarters/HiddenCentrifuge-L09C03.md)
 
-[Bunsen Burners - L09 C04]()
+[ 🔥 Bunsen Burners - L09 C04](headquarters/BunsenBurners-L09C04.md)
 
-[Hayka - L09 C05]()
+[ 🖨 Hayka - L09 C05](headquarters/Hayka-L09C05.md)
 
-[Mission Extension - L09 C06]()
+[ 🛍 Mission Extension - L09 C06](headquarters/MissionExtension-L09C06.md)
 
-[Grand Old Ruble - L09 C07]()
+[ 🎣 Grand Old Ruble - L09 C07](headquarters/GrandOldRuble-L09C07.md)
 
-[Bogdan’s Data - L09 C08]()
+[ 📏 Bogdan’s Data - L09 C08](headquarters/Bogdan'sData-L09C08.md)
 
-[File Hunt - L09 C09]()
+[ 💂‍♀️ File Hunt - L09 C09](headquarters/FileHunt-L09C09.md)
 
-[Code Attack - L09 C10]()
+[ 💫 Code Attack - L09 C10](headquarters/CodeAttack-L09C10.md)
 
-[Tayga Bears - L09 C11]()
+[ 🐻 Tayga Bears - L09 C11](headquarters/TaygaBears-L09C11.md)
 
-[Recruit List - L09 C12]()
+[ 🌱 Recruit List - L09 C12](headquarters/RecruitList-L09C12.md)
 
 ## Level 10 - The Spetzners: CRYPTO POISON
 
 
 
-[Overflow Egor - L10 C01]()
+[ 🧠 Overflow Egor - L10 C01](headquarters/OverflowEgor-L10C01.md)
 
-[Calling Yaroslav - L10 C02]()
+[ 📞 Calling Yaroslav - L10 C02](headquarters/CallingYaroslav-L10C02.md)
 
-[Text and Text - L10 C03]()
+[ 📝 Text And Text - L10 C03](headquarters/TextAndText-L10C03.md)
 
-[Hidden Bear - L10 C04]()
+[ 🐻 Hidden Bear - L10 C04](headquarters/HiddenBear-L10C04.md)
 
-[Matryoshka - L10 C05]()
+[ 🎎 Matryoshka - L10 C05](headquarters/Matryoshka-L10C05.md)
 
-[Chatz With Semyon - L10 C06]()
+[ 💬 Chatz With Semyon - L10 C06](headquarters/ChatzWithSemyon-L10C06.md)
 
-[Kappa’s Hidden Secrets - L10 C07]()
+[ 🐢 Kappa’s Hidden Secrets - L10 C07](headquarters/Kappa’sHiddenSecrets-L10C07.md)
 
-[Odd File - L10 C08]()
+[ 🛠 Odd File - L10 C08](headquarters/OddFile-L10C08.md)
 
-[Junk Decryption - L10 C09]()
+[ 📆 Junk Decryption - L10 C09](headquarters/JunkDecryption-L10C09.md)
 
-[Snakes in Motion - L10 C10]()
+[ 🐍 Snakes In Motion - L10 C10](headquarters/SnakesInMotion-L10C10.md)
 
-[Perilous Pencils - L10 C11]()
+[ ✏ Perilous Pencils - L10 C11](headquarters/PerilousPencils-L10C11.md)
 
-[Dear John - L10 C12]()
+[ 🏴‍☠️ Dear John - L10 C12](headquarters/DearJohn-L10C12.md)
 
 ## Level 11 - The Bulldogs: BREAKING THE BANK
 
 
 
-[Port of Call - L11 C01]()
+[ 🥌 Port of Call - L11 C01](headquarters/PortOfCall-L11C01.md)
 
-[Night Club Rendezvous - L11 C02]()
+[ 🌃 Night Club Rendezvous - L11 C02](headquarters/NightClubRendezvous-L11C02.md)
 
-[The Insider - L11 C03]()
+[ 🚪 The Insider - L11 C03](headquarters/TheInsider-L11C03.md)
 
-[Binary Battle - L11 C04]()
+[ ⚔ Binary Battle - L11 C04](headquarters/BinaryBattle-L11C04.md)
 
-[Art Theft - L11 C05]()
+[ 🖌 Art Theif - L11 C05](headquarters/ArtTheif-L11C05.md)
 
-[Benjamin The Brute - L11 C06]()
+[ 🥊 Benjamin The Brute - L11 C06](headquarters/BenjaminTheBrute-L11C06.md)
 
-[Stepping Up - L11 C07]()
+[ 📈 Stepping Up - L11 C07](headquarters/SteppingUp-L11C07.md)
 
-[Unsafe Deposit Box - L11 C08]()
+[ 📦 Unsafe Deposit Box - L11 C08](headquarters/UnsafeDepositBox-L11C08.md)
 
-[Vicious Voicemail - L11 C09]()
+[ 🗣 Vicious Voicemail - L11 C09](headquarters/ViciousVoicemail-L11C09.md)
 
-[Exposure - L11 C10]()
+[ 💣 Exposure - L11 C10](headquarters/Exposure-L11C10.md)
 
-[Cryptonite - L11 C11]()
+[ 💠 Cryptonite - L11 C11](headquarters/Cryptonite-L11C11.md)
 
-[Open Box - L11 C12]()
+[ 💼 Open Box - L11 C12](headquarters/OpenBox-L11C12.md)
 
 ## Level 12 - The Bulldogs: ROBOT TROJAN HORSE
 
 
 
-[Spam Robot - L12 C01]()
+[ 👨‍💻 Spam Robot - L12 C01](headquarters/SpamRobot-L12C01.md)
 
-[Nosey Robot - L12 C02]()
+[ 🤖 Nosey Robot - L12 C02](headquarters/NoseyRobot-L12C02.md)
 
-[Account Roulette - L12 C03]()
+[ 🎰 Account Roulette - L12 C03](headquarters/AccountRoulette-L12C03.md)
 
-[Change of Plan - L12 C04]()
+[ 🗺 Change Of Plan - L12 C04](headquarters/ChangeOfPlan-L12C04.md)
 
-[The Robot Speaks - L12 C05]()
+[ 🗣 The Robot Speaks - L12 C05](headquarters/TheRobotSpeaks-L12C05.md)
 
-[Remote Unlock - L12 C06]()
+[ 🔓 Remote Unlock - L12 C06](headquarters/RemoteUnlock-L12C06.md)
 
-[Coffee Robot - L12 C07]()
+[ ☕ Coffee Robot - L12 C07](headquarters/CoffeeRobot-L12C07.md)
 
-[Fork in The Road]()
+[ 🛤 Fork In The Road](headquarters/ForkInTheRoad-L12C08.md)
 
-[Open Port - L12 C09]()
+[ 👐 Open Port - L12 C09](headquarters/OpenPort-L12C09.md)
 
-[Catch and Throw - L12 C10]()
+[ 🏉 Catch And Throw - L12 C10](headquarters/CatchAndThrow-L12C10.md)
 
-[Stop and Search - L12 C11]()
+[ 🔎 Stop And Search - L12 C11](headquarters/StopAndSearch-L12C11.md)
 
-[Multiple Boxes - L12 C12]()
+[ 📦 Multiple Boxes - L12 C12](headquarters/MultipleBoxes-L12C12.md)
 
 ## Level 13 - **The Jiaozis: Hungry Hackers**
 
 
 
-[Spam For Dinner - L13 C01 ]()
+[ ⛩️ Spam For Dinner - L13 C01 ](headquarters/SpamForDinner-L13C01.md)
 
-[Bypass - L13 C02]()
+[ 🍀 Bypass - L13 C02](headquarters/Bypass-L13C02.md)
 
-[Run Server Run - L13 C03]()
+[ 🏃 Run Server Run - L13 C03](headquarters/RunServerRun-L13C03.md)
 
-[Server Strike - L13 C04]()
+[ 🏹 Server Strike - L13 C04](headquarters/ServerStrike-L13C04.md)
 
-[Memories - L13 C05]()
+[ ♻️ Memories - L13 C05](headquarters/Memories-L13C05.md)
 
-[Binary Memories - L13 C06]()
+[ 🧩 Binary Memories - L13 C06](headquarters/BinaryMemories-L13C06.md)
 
-[Seashell - L13 C07]()
+[ 🐚 Seashell - L13 C07](headquarters/Seashell-L13C07.md)
 
-[Hash’em - L13 C08 ]()
+[ 🎩 Hash’em - L13 C08 ](headquarters/Hash'em-L13C08.md)
 
-[Encrypted - L13 C09]()
+[ 🤷‍♂️ Encrypted - L13 C09](headquarters/Encrypted-L13C09.md)
 
-[Silver Service - L13 C10]()
+[ 🧑‍🍳 Silver Service - L13 C10](headquarters/SilverService-L13C10.md)
 
-[String Cruncher - L13 C11]()
+[ 📋 String Cruncher - L13 C11](headquarters/StringCruncher-L13C11.md)
 
-[Trial by File - L13 C12]()
+[ 🧑‍⚖️ Trial By File - L13 C12](headquarters/TrialByFile-L13C12.md)

