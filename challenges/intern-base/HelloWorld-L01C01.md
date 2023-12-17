@@ -9,7 +9,7 @@ We've found a profile page of a known hacker that we need to get in contact with
    background.
 ```
 
-## Step by Step </summary>
+## Step by Step
 
 - Hold down right mouse button and drag over the webpage to highlight the text
 
