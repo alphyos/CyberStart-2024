@@ -7,9 +7,9 @@ Check your email, download the files and see if you can find out what's going on
 **Tip:** The flag is in one of the files.
 
 ```txt
-💡 Hint: Can we be sure they're all really .gif files? In previous cases the CPA have solved we've seen gang members change
-   the extension on files so it looks like something different. Perhaps try opening the files in a text editor to see if they
-   are actually all .gifs.
+💡 Hint: Can we be sure they're all really .gif files? In previous cases the CPA have solved we've seen
+   gang members change the extension on files so it looks like something different.
+   Perhaps try opening the files in a text editor to see if they are actually all .gifs.
 ```
 
 ## Step by Step

@@ -7,8 +7,9 @@ Take a look at the GIFs in this message thread and see if you can figure out wha
 **Tip:** The flag is what you discover!
 
 ```txt
-💡 Hint: If you look hard enough at one of the GIFs you'll see a hidden code - that's the flag! You might need to use a tool
-   which breaks down the GIF into individual frames, perhaps do an internet search for "view a gif frame by frame".
+💡 Hint: If you look hard enough at one of the GIFs you'll see a hidden code - that's the flag!
+   You might need to use a tool which breaks down the GIF into individual frames, perhaps do an
+   internet search for "view a gif frame by frame".
 ```
 
 ## Step by Step

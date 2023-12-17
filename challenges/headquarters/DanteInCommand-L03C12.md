@@ -7,8 +7,9 @@ We think it might be a program the gang are writing to gain access to their comp
 **Tip:** Run the program from the command line; the flag will be in the output.
 
 ```txt
-💡 Hint: Running a file from the command line is actually really straight forward. See what happens when you run the file by
-   using `$ ./filename`. If you get it right then the flag will be in the output.
+💡 Hint: Running a file from the command line is actually really straight forward.
+   See what happens when you run the file by using `$ ./filename`.
+   If you get it right then the flag will be in the output.
 ```
 
 ## Step by Step

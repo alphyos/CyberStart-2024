@@ -7,8 +7,8 @@ It said they've found a weakness in the money transfer tool on the Global Bank w
 **Tip:** Sometimes URLs can be manipulated to bypass security.
 
 ```txt
-💡 Hint: Did you notice the URL on the successful transfer page? I wonder what would happen if you changed the parameters and
-   submitted it again?
+💡 Hint: Did you notice the URL on the successful transfer page?
+   I wonder what would happen if you changed the parameters and submitted it again?
 ```
 
 ## Step by Step

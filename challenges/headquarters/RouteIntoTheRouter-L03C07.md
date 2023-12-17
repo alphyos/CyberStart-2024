@@ -5,8 +5,8 @@ Good news, we've managed to get access to the login page for one of the gang's h
 **Tip:** Find the correct username and password then login, to get the flag.
 
 ```txt
-💡 Hint: We've given you access to a search engine called Moogle. Try searching for the Nethub 5000 and see if you can find a
-   mention of the default username and password online.
+💡 Hint: We've given you access to a search engine called Moogle. Try searching for the Nethub 5000 and see if
+   you can find a mention of the default username and password online.
 ```
 
 ## Step by Step

@@ -5,9 +5,10 @@ Things are really starting to get busy - the Slootmaekers seem to be in the fina
 **Tip:** **Decrypt the message** by dragging the green slider, the flag is the **name of the bike manufacturer**.
 
 ```txt
-💡 Hint: A Caesar Cipher just means shifting the position in the alphabet by a certain number, so if the offset for the
-   letter A is 4, then the letter becomes E, as A is the first letter in the alphabet, 1 + 4 = 5, E is the fifth position in
-   the alphabet. To use the tool just grab and move the green grabber and it'll change the offset and decrypt the text.
+💡 Hint: A Caesar Cipher just means shifting the position in the alphabet by a certain number,
+   so if the offset for the letter A is 4, then the letter becomes E,
+   as A is the first letter in the alphabet, 1 + 4 = 5, E is the fifth position in the alphabet.
+   To use the tool just grab and move the green grabber and it'll change the offset and decrypt the text.
 ```
 
 ## Step by Step

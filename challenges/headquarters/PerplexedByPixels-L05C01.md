@@ -7,9 +7,9 @@ One of the team has already built a comparison tool but he's just been reassigne
 **Tip:** Calculate the differences, convert it with the ASCII table, and that's your flag.
 
 ```txt
-💡 Hint: It looks like they're using the change in rgb values between the pixels to generate a set of numbers, which they're
-   then converting to text with the help of an ASCII table. Work out the differences, do the conversion and there's your
-   flag.
+💡 Hint: It looks like they're using the change in rgb values between the pixels to generate a set of numbers,
+   which they're then converting to text with the help of an ASCII table. Work out the differences,
+   do the conversion and there's your flag.
 ```
 
 ## Step by Step

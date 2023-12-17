@@ -5,8 +5,8 @@ Agent 707, we've intercepted some chatter between Chopper gang members talking a
 **Tip:** The identifier is the flag you need.
 
 ```txt
-💡 Hint: Hmm, it can't be as simple as... no, hold on. The first four letters spell "BEST", if you reverse them. Maybe that's
-   a clue?
+💡 Hint: Hmm, it can't be as simple as... no, hold on. The first four letters spell "BEST",
+   if you reverse them. Maybe that's a clue?
 ```
 
 ## Step by Step

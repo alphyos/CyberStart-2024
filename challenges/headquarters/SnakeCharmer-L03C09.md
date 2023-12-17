@@ -7,8 +7,8 @@ We've heard that the gang is looking for a way to make their passwords more secu
 **Tip:** The output from the code is the flag you need.
 
 ```txt
-💡 Hint: Running a python script from the terminal is as simple as `$ python filename` where filename is the name of the file
-   of course.
+💡 Hint: Running a python script from the terminal is as simple as `$ python filename`
+   where filename is the name of the file of course.
 ```
 
 ## Step by Step

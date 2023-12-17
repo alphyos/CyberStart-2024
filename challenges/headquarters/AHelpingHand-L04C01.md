@@ -7,8 +7,9 @@ Helpfully they've sent us over an extract from a report one of their agents wrot
 **Tip:** We think it contains one of the gang's passwords - that's the flag.
 
 ```txt
-💡 Hint: Drawing things on a PDF usually puts them on a separate layer. Try selecting and copying the text in the PDF and
-   then pasting it into another program. By doing that you should be able to see the redacted parts and find the flag.
+💡 Hint: Drawing things on a PDF usually puts them on a separate layer.
+   Try selecting and copying the text in the PDF and then pasting it into another program.
+   By doing that you should be able to see the redacted parts and find the flag.
 ```
 
 ## Step by Step

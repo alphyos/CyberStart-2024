@@ -9,8 +9,9 @@ Take a look at the profile, then create the phishing email with the right detail
 **Tip:** Get all the details right, otherwise you can't send the email. When you do, you'll get the flag.
 
 ```txt
-💡 Hint: Flemming has been very forthcoming on his profile page, leaving lots of information about himself. You just need to
-   find the specific information we're planning to use in the phishing email, fill in the gaps and hit "send".
+💡 Hint: Flemming has been very forthcoming on his profile page, leaving lots of information about himself.
+   You just need to find the specific information we're planning to use in the phishing email,
+   fill in the gaps and hit "send".
 ```
 
 ## Step by Step

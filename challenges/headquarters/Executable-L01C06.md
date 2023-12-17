@@ -5,7 +5,8 @@ Agent 707, quick question for you. One of the team sent me a screenshot of her f
 **Tip:** The **name of the executable file (including the extension)** is the flag.
 
 ```txt
-💡 Hint: If there are any file extensions you don't recognize why not try googling them to see whether they are executables.
+💡 Hint: If there are any file extensions you don't recognize why not try
+   googling them to see whether they are executables.
 ```
 
 ## Step by Step
