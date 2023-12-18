@@ -4,11 +4,19 @@ Whilst monitoring one of the gang, Ryosuke, we came across a file that he posted
 
 **Tip:** The flag is in the file.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Need help figuring out why the file won't open? Try going to the terminal and typing `$ man file`.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Using a Linux terminal, navigate to the file’s location in the correct directory using `cd path/to/file`
 - Run `file filename.xml` to give you the file information
@@ -19,3 +27,5 @@ Whilst monitoring one of the gang, Ryosuke, we came across a file that he posted
 - Change the file type by renaming the file to .jpeg and open it
 
 ![image of flag image.. with no flag](/assets/filefound2.jpeg)
+
+</details>

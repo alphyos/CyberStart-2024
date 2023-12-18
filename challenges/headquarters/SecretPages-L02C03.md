@@ -4,13 +4,23 @@ You're now well aware of the Slootmaekers supposedly legit business, the Bike Fa
 
 **Tip:** **Get access to the page** to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Did you see the user= parameter in the URL? Try changing it to something else.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 ![image of the url set-up](/assets/secretpages1.png)
 
 - Change the url to say the user is = to `admin`.
   - `user=admin`
+
+</details>

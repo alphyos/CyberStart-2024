@@ -6,17 +6,25 @@ We really need to confirm the exact date they want to send it, but at the moment
 
 **Tip:** Crack the encryption to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: You'll need to find a way to determine if the output of the text is human readable to check automatically
    if you got the right answer. Remember, every ASCII character is actually a number.
 ```
+
+</details>
 
 ## Files
 
 - [code.py](/assets/changeofplan1.py)
 - [words.txt](/assets/changeofplan2.txt)
 
-## Step by Step
+<details><summary>
+
+## Step by Step</summary>
 
 - Download the files
 - Modify the python code to match the following
@@ -67,3 +75,5 @@ with open('words.txt', 'r', encoding='utf-8') as f: # added
 - The decoded string is the flag
 
 `flag: iQmDIXlDT7N2YgReCOM`
+
+</details>

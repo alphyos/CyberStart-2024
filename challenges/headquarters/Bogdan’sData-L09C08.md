@@ -6,12 +6,20 @@ Fortunately we've been able to recover some source code for it. Take a look at t
 
 **Tip:** Get access to the server to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Looking at the source code, what does eval() do? What are the requirements for getting the flag,
    can you make the if statement true without knowing the value of firstNum?
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Examine the source code given, specifically look at the `if` conditional.
 
@@ -44,3 +52,5 @@ clientsock.close()
 ![terminal example](/assets/bogdansdata1.png)
 
 `flag: ROCTrOPlAclukelAShuENWaCEleCTO`
+
+</details>

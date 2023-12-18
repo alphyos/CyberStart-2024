@@ -6,16 +6,24 @@ Take a look at the site and the images. You can download the images, they're in 
 
 **Tip:** The flag is in one of the images.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Take a look at the images in a hex editor and you'll find the file header information is missing.
    See if you can recover it.
 ```
 
+</details>
+
 ## Files
 
 - [artwork.11f7c21f.zip](/assets/arttheif1.zip)
 
-## Step by Step
+<details><summary>
+
+## Step by Step</summary>
 
 - Download the zip of corrupted images and extract it
 - Open the third image `artwork-03.jpg` in a hex editor that supports inserting bytes
@@ -25,3 +33,5 @@ Take a look at the site and the images. You can download the images, they're in 
 - Save the file and open the image, it contains the flag
 
 `flag: MaGiC_NuMbErS`
+
+</details>

@@ -6,6 +6,10 @@ Take a look and see if you can do the same so we can help the bank fix their sec
 
 **Tip:** Transfer 1000 rubles to a user called cpa to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: You will need to perform a Cross Site Request Forgery (CSRF) attack here agent.
    Simply put, you don't have access to the button that is grayed out, but the admins do.
@@ -13,7 +17,11 @@ Take a look and see if you can do the same so we can help the bank fix their sec
    if they click the link.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - What you are trying to do is actually create a phishing email as seen on the second tab to the left below "Website".
 - When attempting to send "cpa" "1000" rubles, it does try to send you to the transfer screen with a flash of a url like the one seen below. It does not complete this however.
@@ -27,3 +35,5 @@ Take a look and see if you can do the same so we can help the bank fix their sec
 - Sending the email will give you the flag.
 
 `flag: xTx6TowS5YqBeFTqoqqQ`
+
+</details>

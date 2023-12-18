@@ -4,6 +4,10 @@ Things are really starting to get busy - the Slootmaekers seem to be in the fina
 
 **Tip:** **Decrypt the message** by dragging the green slider, the flag is the **name of the bike manufacturer**.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: A Caesar Cipher just means shifting the position in the alphabet by a certain number,
    so if the offset for the letter A is 4, then the letter becomes E,
@@ -11,8 +15,14 @@ Things are really starting to get busy - the Slootmaekers seem to be in the fina
    To use the tool just grab and move the green grabber and it'll change the offset and decrypt the text.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 ![image of slider and text](/assets/decryptionring1.jpg)
 
 - Slide the slider to 14, the source text gets decrypted.
+
+</details>

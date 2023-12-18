@@ -4,13 +4,23 @@ We've been monitoring the Yakoottees for a while now, ever since we first came a
 
 **Tip:** Open the file to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Is it actually a zip file? Have you tried changing the extension?
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Download the file and change its extension to a `.pdf`
 - It should open up as a pdf file and give you the following image
 
 ![hacker cat w/ flag](/assets/wordonthestreet1.png)
+
+</details>

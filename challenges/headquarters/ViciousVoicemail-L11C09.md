@@ -6,16 +6,24 @@ Before he went he was able to get access to the private voicemail system the Bul
 
 **Tip:** Find the hidden message to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: You'll need to work out how to install a program on Linux to do this one.
    Check out steghide and find out how to install it. Then use it to extract the hidden message.
 ```
 
+</details>
+
 ## Files
 
 - [voicemail-01.59177932.wav](/assets/viciousvoicemail1.vaw)
 
-## Step by Step
+<details><summary>
+
+## Step by Step</summary>
 
 - Download the first audio file
 - Run `steghide --extract -sf [filename]`
@@ -23,3 +31,5 @@ Before he went he was able to get access to the private voicemail system the Bul
 - The flag should be written to a file called `flag`
 
 `flag: sTg9UtlFLRUOXt7tTSS`
+
+</details>

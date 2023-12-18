@@ -8,13 +8,21 @@ Take a look at the profile, then create the phishing email with the right detail
 
 **Tip:** Get all the details right, otherwise you can't send the email. When you do, you'll get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Flemming has been very forthcoming on his profile page, leaving lots of information about himself.
    You just need to find the specific information we're planning to use in the phishing email,
    fill in the gaps and hit "send".
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Simply reading the website provided will get you all the necessary answers to fill the blanks in the "Email" section on the left of the screen.
 - Answers are as follows:
@@ -30,3 +38,5 @@ Take a look at the profile, then create the phishing email with the right detail
 - **Barneys**
 
 ![picture of filled out form](/assets/phishingforflemming1.png)
+
+</details>

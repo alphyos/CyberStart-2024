@@ -6,6 +6,10 @@ We know it uses a letter **Substitution Cipher** and luckily we have some **F
 
 **Tip:** The flag is the name of the competitor company.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Keep trying different letters until you have a word that makes sense.
    A common approach with Frequency Analysis is to try two and three letter words first -
@@ -13,8 +17,14 @@ We know it uses a letter **Substitution Cipher** and luckily we have some **F
    some letters unraveled, things might start to become clearer.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - The correct letter will produce a green background, by taking a good guess at what some of the letters may be like a two letter word being “to”, “is”, “so” or other common words will uncover the entire message slowly.
 
 ![picture of the final message](/assets/thecompetitorrevealed1.png)
+
+</details>

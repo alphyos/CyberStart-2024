@@ -8,14 +8,24 @@ We think only the boss Yaka Matsu should have access. Take a look and see if you
 
 **Tip**: Use the browser extension to help add a new cookie.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: If the page is saying a cookie user is expected, maybe you need to create one for the boss Yaka Matsu?
    Oh, and don't forget that the cookie name "user" will probably need to be all lower case.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Click on the top right cookie next to the url
 - Type `user` in lowercase into the first box and `Yaka Matsu` into the second
 
 ![picture of cookie editor interface](/assets/yakoocars1.png)
+
+</details>

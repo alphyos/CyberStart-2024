@@ -4,12 +4,22 @@ We have come across a site, which we believe is run by one of the Chiquitoo gang
 
 **Tip:** Get the information to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Netcat can be used to listen on a port. Type $ nc -h to see how to run the command.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Type `nc -l 1337` into the command terminal
 
 ![using the command](/assets/dockingport1.png)
+
+</details>

@@ -6,6 +6,10 @@ Sometimes developers can be a little bit lazy and leave **information** in the
 
 **Tip:** To get the challenge flag you need to successfully login.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Did you know that it's possible to view the source code of a page by using Developer Tools,
    or by right clicking on a page and selecting "View Source"?
@@ -14,7 +18,11 @@ Sometimes developers can be a little bit lazy and leave **information** in the
    see what the details are. Look for the code between the <script></script> tags.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Use inspect element and click on any of the source code.
 
@@ -23,3 +31,5 @@ Sometimes developers can be a little bit lazy and leave **information** in the
 - Use Ctrl + F to search for `Aksel`.
 - The username and password for the developer, Aksel should pop up.
 - Logging in with those credentials should give you the flag.
+
+</details>

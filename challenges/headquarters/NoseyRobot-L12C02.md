@@ -4,12 +4,20 @@ Agent 707, thanks to your efforts in finding the gang member leading the effort 
 
 **Tip:** Take the photo, the robots confirmation message will show the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: This program suffers from a buffer overflow vulnerability.
    You should know by now what causes a buffer overflow so you'll have to fix it.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 ```c
 #include <stdio.h>
@@ -34,3 +42,5 @@ int main()
 - The string “command” is too small for the string you are trying to copy to it. By changing “`char command[8]`” to “`char command[32]`”, buffer overflow will not occur.
 
 `flag: GOxVYN1Ckz7h3j32R53k`
+
+</details>

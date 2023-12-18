@@ -6,15 +6,25 @@ We've created an account for you and made a test forum page called "Hack Trick".
 
 **Tip:** Get the site to output an alert with the right text and you'll get the flag!
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: The technique you need to use is called Cross Site Scripting (XSS),
    and involves finding a way to run some JavaScript code on the computer of any user who views the page.
    Think about how you would do it if you were building the website yourself?
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Type `<script>alert("Kaboom!")</script>` into the comment box and press enter.
 - An alert box should pop up, dismissing it will reveal the flag.
 
 `flag: 2rbNcnO1fuvaSW5dEnui`
+
+</details>

@@ -6,15 +6,25 @@ We don't have a username and password combination for any of the gang members, b
 
 **Tip:** **Login to the site** as a gang member to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Look up the username and password combinations in the dump from the social media site and
    see if any work on the Slootmaekers site.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Navigate to “Email” on the left side and download the .txt file.
 - Try all possible email and password combinations until one works or enter the following correct details.
   - Username: `aspen_van_whistlethorn`
   - Password: `cyclepower1999`
 - The flag should appear after logging in.
+
+</details>

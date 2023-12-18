@@ -4,16 +4,24 @@ Agent, quick task for you if you have a few minutes to spare. We have an old pro
 
 **Tip:** Run the program, find the password, input it into the program to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Agent, you may want to look into using a tool called 'Strings', it's built into most Linux systems.
    Learn more by typing "man strings" in your terminal window.
 ```
 
+</details>
+
 ## Files
 
 - [program-x86](/assets/coldfile1)
 
-## Step by Step
+<details><summary>
+
+## Step by Step</summary>
 
 - Download the program in a Linux system and open terminal.
 - Navigate to the file location and run `chmod +x filename.exe`
@@ -23,3 +31,5 @@ Agent, quick task for you if you have a few minutes to spare. We have an old pro
 - Enter the password, you will get the flag in return
 
 `flag: HQJmCZf3ol6mOdxakBz`
+
+</details>

@@ -6,13 +6,21 @@ See if you can put the SQL code in the right order. If you do, the data should a
 
 **Tip:** The flag is the last name of the most recent person to send a message through the form.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: This is a test on SQL injection. You have to get the whole table of information by running the right SQL command, so
    re-order the parts of the command in the message box and submit the form. Try starting with the single quote character,
    which will close the speechmarks in the command and then think about what is always true.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Reorder the boxes to properly inject SQL into the webpage.
 - A display should pop up, copy the last name of the most recent entry, and submit it as the flag.
@@ -22,3 +30,5 @@ See if you can put the SQL code in the right order. If you do, the data should a
 `’)’ SELECT first_name, last_name, email, message FROM messages;—`
 
 ![picture of the sql output display](/assets/adangerouscontact2.png)
+
+</details>

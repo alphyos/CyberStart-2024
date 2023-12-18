@@ -8,12 +8,20 @@ Create a web server with the terminal using Python, then finish off the email we
 
 **Tip:** Serve the file up correctly to get the flag. Make your web server listen on port 8000 to be sure to bypass the firewall.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: You need to find out the command to set up a web server with Python from the command line.
    When you do it correctly you'll get an IP address to add to the email.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Type `python -m http.server 8000`
 ![setting up the web server](/assets/miguelthemoneyman1.png)
@@ -21,3 +29,5 @@ Create a web server with the terminal using Python, then finish off the email we
 ![submitting the email](/assets/miguelthemoneyman2.png)
 - Navigate to "Email" on the left of the screen
 - Paste into textbox and press submit
+
+</details>

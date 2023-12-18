@@ -6,6 +6,10 @@ Have a **look in the file** and see if you can get it working.
 
 **Tip:** The flag to complete the challenge is on the last line of the file.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Hmm, if you just open the file in your browser it shows an error.
    But maybe you don't need to actually see the output of the XML file.
@@ -13,9 +17,15 @@ Have a **look in the file** and see if you can get it working.
    selecting "View source".
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Download the file and open it
 - A website should pop up and right clicking it to view the source code will reveal the flag at the last line of code with the flag between `<flag> </flag>` tags.
 
 ![picture of the last line](/assets/corrupted1.png)
+
+</details>

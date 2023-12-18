@@ -6,6 +6,10 @@ You need to write a simple script from scratch to crack into another program tha
 
 **Tip:** If you enter the right argument into the program you get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: You will need to write a script for this one, or you'll be at it for a very long time.
    You can use Python, or it may be even easier to use a BASH script.
@@ -13,11 +17,15 @@ You need to write a simple script from scratch to crack into another program tha
    If you're using BASH you might consider a while loop.
 ```
 
+</details>
+
 ## Files
 
 - [program-x86](/assets/codeattack1)
 
-## Step by Step
+<details><summary>
+
+## Step by Step</summary>
 
 - Download the file
 - Run `chmod +x [filename]`
@@ -27,3 +35,5 @@ You need to write a simple script from scratch to crack into another program tha
 - The flag will appear once the correct pin was found, press `ctr+c` when that happens to make it easier to copy
 
 `flag: 8YBqF1vjnplFDCRomom`
+
+</details>

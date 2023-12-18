@@ -6,6 +6,10 @@ The username is **"Teobald"** and the old password is **"evergreen"**, and we
 
 **Tip:** To get the challenge flag you need to successfully login.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Many people will want to use the same password and it looks like the gang members
    in The Choppers are the same! Since there are specific requirements now they will make
@@ -14,8 +18,14 @@ The username is **"Teobald"** and the old password is **"evergreen"**, and we
    so maybe capitalize it and try a number at the end.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - The easiest way to make “evergreen” an acceptable password is to capitalize the first letter and add “1” at the end.
 - The password is `Evergreen1`.
 - Login with the username `Teobald` to get the flag.
+
+</details>

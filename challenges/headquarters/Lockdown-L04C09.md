@@ -6,15 +6,25 @@ They've currently got it locked down by disabling the login form. We still have 
 
 **Tip:** Log in successfully and you'll get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Hmm, it looks like they didn't lock down the login form entirely; all they've done is disable the form's input
    button. Could you maybe use Developer Tools to get around that?
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Hover over the login submit button and right click to `inspect`.
 - Source code should pop up for the button and the original text says `disabled`.
 - Replacing this with `enabled` like the photo below will make the button work.
 
 ![picture of the source code](/assets/lockdown1.png)
+
+</details>

@@ -4,13 +4,23 @@ Our team has been monitoring The Choppers' web traffic and it seems they've been
 
 **Tip:** The flag is in the image.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Perhaps try opening the image in a text editor or using your local terminal to look for strings in the file.
    If there's a secret message in there, those will be great ways to find it.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - You can use a Linux terminal to download the image and run `strings imagename` to get the flag.
 - Alternatively, you could use [Aperi Solve](https://www.aperisolve.com/) which will run `strings` for you.
 - The flag is one of the first lines of strings.
+
+</details>

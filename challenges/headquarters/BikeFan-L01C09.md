@@ -4,13 +4,21 @@ Quick task for you Agent 707, one of the gang, Lars De Vries, has written a post
 
 **Tip:** Find a way to **get the image to show** and you'll find the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: The broken image seems to be missing a file extension.
    Try adding some common image file extensions and see if you can get it to show.
    Your browser has "Dev Tools" and an "Element Inspector", within it, that can help with this.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Right click on the photo link that is not properly showing on the website and use **inspect element**.
 
@@ -18,3 +26,5 @@ Quick task for you Agent 707, one of the gang, Lars De Vries, has written a post
 
 - Add `.jpg` to the end of the link.
 - The flag should appear in the newly uploaded image.
+
+</details>

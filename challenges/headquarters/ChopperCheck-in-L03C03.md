@@ -8,15 +8,25 @@ One of the gang, Sannfred, uses a location check-in site called Circle. Perhaps 
 
 **Tip:** The challenge flag is the number of the building.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: It looks like Sannfred has checked in at a few locations, but in one of them he mentions the party. Find that
    message, from there work out where they are, grab the building number and that's your flag!
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - This challenge utilizes a simulated OSINT (Open Source Intelligence) puzzle.
 - You can see that they wished to plan a birthday party in a week but the post was made 7 days ago.
   - The most recent post includes the building number; where the party is being held today.
 
 ![picture of the most recent post](/assets/choppercheck-in1.png)
+
+</details>

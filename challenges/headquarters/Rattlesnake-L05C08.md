@@ -4,12 +4,20 @@ Well, one thing is for sure, the Yakoottees' scripting language of choice is Pyt
 
 **Tip:** The flag is in the file.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Did you run the python file without knowing what it does? Oops.
    Maybe just take a look at the source code first.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Open the python file with any text editor
   - ex. VS Code, Notepad++, etc.
@@ -23,3 +31,5 @@ remove(argv[0])
 ```
 
 - The flag is in the 4th line of the program, commented out
+
+</details>

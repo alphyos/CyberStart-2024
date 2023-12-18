@@ -6,12 +6,20 @@ It's not a great site and the security is average at best. Look at the login pag
 
 **Tip:** Gain access to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: SHA1 hashed passwords are not reversible but a lot of the hashes for commonly used passwords have been put
    online. Maybe we got lucky and they are using a simple password?
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Look at the page’s source code. The encoded password is `36ABC61C95B4B4F2BF7568BA4A62386176AF46A0`
 
@@ -19,3 +27,5 @@ It's not a great site and the security is average at best. Look at the login pag
 
 - Use a [SHA1 password decrypter](https://hashtoolkit.com/decrypt-hash/?hash=36ABC61C95B4B4F2BF7568BA4A62386176AF46A0)
 - Login with the username and decoded password to get the flag
+
+</details>

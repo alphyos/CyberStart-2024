@@ -6,10 +6,16 @@ We think the Chiquitoos have an insider that works on the ships carrying the shi
 
 **Tip:** In the message they mention a ship name; that's the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: In Morse code, a quick flash is a dot, a long flash is a dash and a pause is a space.
    Write out the series of dots and dashes and match it up to the chart to turn them into letters.
 ```
+
+</details>
 
 ## Step By Step
 
@@ -18,3 +24,5 @@ We think the Chiquitoos have an insider that works on the ships carrying the shi
 - Copy the text above
 - Paste into a [morse code translator](https://morsecode.world/international/translator.html)
   - Result: “THIS IS GONZALEZ EXPLORING ENTRY OPTIONS ABOARD SHIP CALLED `REDACTED` OVER”
+
+</details>

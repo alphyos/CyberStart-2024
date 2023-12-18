@@ -4,10 +4,20 @@ Agent D from our cryptography department has just sent me this **hash** she in
 
 **Tip:** Maybe someone has **already figured out** what this is a hash of. Sometimes the work of the CPA starts with an **internet search**.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Try searching for the hash in Google, the original text for this hash might be listed online somewhere!
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Using Google or any other search engine, looking up `1c1707e8a20719056bfc9a232527c5bd` returns the decrypted text.
+
+</details>

@@ -8,18 +8,28 @@ To help narrow our investigative efforts, we need to know which gang member is b
 
 **Tip:** The flag is the username of the gang member sending the spam.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Think about the traits of a spammer - they typically send a huge volume of emails.
    Is there a user who appears to send way more emails than other legitimate users?
 ```
 
+</details>
+
 ## Files
 
 - [log.txt](/assets/spamrobot1.txt)
 
-## Step by Step
+<details><summary>
+
+## Step by Step</summary>
 
 - Download the text file and open it, try to see who is sending the most emails
 - The username with the most frequent occurrence (~350) is james_joseph
 
 `flag: james_joseph`
+
+</details>

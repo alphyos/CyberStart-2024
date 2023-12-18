@@ -6,15 +6,23 @@ Why don't you give it a try and see if you can get access.
 
 **Tip:** Get access to the file to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: The program was written in C. What is the largest number that can be stored in a regular integer in C?
 ```
+
+</details>
 
 ## Files
 
 - [program-x86](/assets/oddfile1)
 
-## Step by Step
+<details><summary>
+
+## Step by Step</summary>
 
 - Download the file
 - Run `chmod +x [filename]`
@@ -25,3 +33,5 @@ Why don't you give it a try and see if you can get access.
 - Enter `2147483647` as the number to add to 1000 and you will receive the flag
 
 `flag: zftNrRCk3Yx8xBsAFpJ`
+
+</details>

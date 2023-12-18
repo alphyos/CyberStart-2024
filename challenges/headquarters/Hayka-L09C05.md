@@ -6,12 +6,20 @@ We want you to take a look at the scientific paper upload page, we think it migh
 
 **Tip:** Upload the correct file and visit the file page to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Make sure your php file has the right extension and contains actual PHP code.
    The goal is to demonstrate that you could have run malicious code on the server if you wanted to.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Create a new .php file with the following contents and with your chosen `filename`
 
@@ -26,3 +34,5 @@ echo "b1n4ry"
 - The flag should appear
 
 `flag: 7ADEvbYwJXzEw3tIcCB0`
+
+</details>

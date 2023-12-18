@@ -4,15 +4,23 @@ Our agent on the ground noticed a USB key discarded outside The Yakoottees' gara
 
 **Tip:** The flag is in the file.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Are you sure it's a Jpeg?
 ```
+
+</details>
 
 ## Files
 
 - [file.jpg](/assets/lostkey2.jpg)
 
-## Step by Step
+<details><summary>
+
+## Step by Step</summary>
 
 - Download the file and open up a Linux terminal
 - Use `cd` to change to the directory where the file is located
@@ -20,3 +28,5 @@ Our agent on the ground noticed a USB key discarded outside The Yakoottees' gara
 ![running the file command](/assets/lostkey1.png)
 - The actual file is a pdf, change the file extension to .pdf
 - The flag is in the pdf
+
+</details>

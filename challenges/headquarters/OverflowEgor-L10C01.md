@@ -6,13 +6,21 @@ One of their gang, Egor, is a master scientist and skilled programmer. He's writ
 
 **Tip:** Overflow the buffer to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: This program is vulnerable to a buffer overflow, the programmer does not check the
    size of the user's input before assigning it to a variable.
    Can you exploit this to overwrite the next memory addresses with your own content?
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Download the file and give it executable permissions with:
   - `$ chmod +x program-x86`
@@ -25,3 +33,5 @@ One of their gang, Egor, is a master scientist and skilled programmer. He's writ
 ![buffer overflow in action](/assets/overflowegor1.png)
 
 `flag: AYGtKy5Nbc5RukjAxkB`
+
+</details>

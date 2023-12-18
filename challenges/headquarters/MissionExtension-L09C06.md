@@ -14,13 +14,21 @@ These are the details you'll need:
 
 **Tip:** Find the Jpeg, it contains a serial number (SN), that's the flag!
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Consider using the "file" command to find what file type a file is. See "man file" for more information.
    How would you find the file type of all the files in the directory? Then following on from that,
    how would you sort through that information to find the one jpg?
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Enter your command prompt by running **Windows Key + R** and typing **cmd** Or **terminal** on Linux.
 - Type `ssh [username]@[ip] -p [port number]` and login with the given password.
@@ -36,3 +44,5 @@ These are the details you'll need:
 ![serial number in the image](/assets/missionextension1.jpg)
 
 `flag: 0207F9`
+
+</details>

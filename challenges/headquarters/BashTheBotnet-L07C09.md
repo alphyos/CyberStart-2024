@@ -13,12 +13,20 @@ Username: [given username] Password: [given password] IP Address: [given ip] Por
 
 **Tip:** The flag is in the same file as the password.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: If the gang uses the terminal to connect to their botnet, they may have typed the password in there.
    Maybe look in the Linux command history?
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Open up a Linux terminal
 - Type `ssh [username]@[ip] -p [port number]`
@@ -28,3 +36,5 @@ Username: [given username] Password: [given password] IP Address: [given ip] Por
 - The flag should appear
 
 ![sending message](/assets/bashthebotnet1.png)
+
+</details>

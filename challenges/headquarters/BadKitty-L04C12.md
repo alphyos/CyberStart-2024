@@ -6,13 +6,23 @@ Take a look at the GIFs in this message thread and see if you can figure out wha
 
 **Tip:** The flag is what you discover!
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: If you look hard enough at one of the GIFs you'll see a hidden code - that's the flag!
    You might need to use a tool which breaks down the GIF into individual frames, perhaps do an
    internet search for "view a gif frame by frame".
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Figure out a way to download the gif and view it slowed down, at the top left of the gif is a single black number for a couple frames and putting those numbers in order will get you the flag.
   - You can use gif scrubber or analyze the gif frame by frame with any other software.
+
+</details>

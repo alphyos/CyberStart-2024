@@ -4,13 +4,23 @@ Whilst taking a look around The Choppers' intranet site, one of our agents found
 
 **Tip:** If you figure it out and you're persistent enough, you'll see the flag!
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Sometimes working out a problem just requires a bit of persistence.
    Try refreshing the page, does anything happen?
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Just refresh the page multiple times, **Ctrl + R** speeds up this process.
 
 ![picture of double fives](/assets/luckythrow1.png)
+
+</details>

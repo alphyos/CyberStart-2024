@@ -4,12 +4,22 @@ We have an undercover agent in one of the Slootmaekers bike shops, posing as a b
 
 **Tip:** Correctly **encrypt the message** and **send it** to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Simply replace whatever each letter in the message is with whatever letter the key tells you to change.
    For example, if the key shows A = S, change all A's in the messages to S's.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Simply, this requires a caesar cipher shifted over 5 since A = F which is 5 characters over.
   - The encrypted message should start and end with the following `LFSL RFD [REST OF FLAG] MTZXJ G`.
+
+</details>

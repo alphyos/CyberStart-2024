@@ -8,9 +8,15 @@ Have a look at this page in particular which the gang member was looking at. Any
 
 **Tip:** The flag is in one of the images! Oh, and for password protected files don't attempt to drag and drop them.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Consider looking at the images in a hex editor or with a binary extracting tool.
 ```
+
+</details>
 
 ## Files
 
@@ -18,7 +24,9 @@ Have a look at this page in particular which the gang member was looking at. Any
 - [challenge-pencilz-gioconda-02.e76dd0ff.jpg](/asstets/perilouspencils2.jpg)
 - [challenge-pencilz-gioconda-03.d3dcf782.jpg](/asstets/perilouspencils3.jpg)
 
-## Step by Step
+<details><summary>
+
+## Step by Step</summary>
 
 - Download the image files, this guide will be referring to each as image 1, 2, and 3 in descending order matching the one on the challenge page
 - Use binwalk to extract zip data from image 1
@@ -31,3 +39,5 @@ Have a look at this page in particular which the gang member was looking at. Any
 - After some time, the flag should appear
 
 `flag: f1bVHxhlqR1pSkfAeao`
+
+</details>

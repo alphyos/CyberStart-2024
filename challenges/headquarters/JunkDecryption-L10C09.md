@@ -6,12 +6,20 @@ Here's what we have: a decryption program which takes a string as an argument, b
 
 **Tip:** Run the correct string through the decryption program to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: The decryption program only takes in the string as an argument. What could the picture mean,
    and can you think of a way to use it without passing it as an argument to the program?
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - On your Linux terminal, download the files provided and run the following commands
   - `sudo chmod +x executablefilename`
@@ -22,3 +30,5 @@ Here's what we have: a decryption program which takes a string as an argument, b
 - The flag should appear
 
 `flag: HadouKEN[^_^]`
+
+</details>

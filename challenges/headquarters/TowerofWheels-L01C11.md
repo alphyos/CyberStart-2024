@@ -6,11 +6,19 @@ We've mocked up the puzzle for you to try using JavaScript. You can move the whe
 
 **Tip:** **Complete the puzzle** to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: If you're struggling with the puzzle have a look online for guides on solving a "Tower of Hanoi" puzzle.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Use inspect element and go into the **console** tab.
 - Type and enter commands to move the rings.
@@ -26,3 +34,5 @@ move("mid","left")
 move ("mid","right")
 move ("left","right")
 ```
+
+</details>

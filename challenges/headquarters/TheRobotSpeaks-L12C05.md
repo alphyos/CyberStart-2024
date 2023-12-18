@@ -6,11 +6,19 @@ We think the LCD display might be used as a way to display secret messages and a
 
 **Tip:** Edit the code and run it, the robots confirmation message will show the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: You'll want to check that all the assembly instructions are valid instructions.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Change `af` in the `DoMore` line to `al`.
 
@@ -42,3 +50,5 @@ DoMore: add byte [ecx],al
 ```
 
 `flag: zrh8v8kmBVNL8zE8EUUV`
+
+</details>

@@ -4,13 +4,23 @@ Remember the blog post by Lars De Vries from the last floor? Well, we thought we
 
 **Tip:** **Get the image to show** to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: The image seems to have the wrong file extension. The other images all have .jpg, but this one has .gif, try
    changing it. Your browser has "Dev Tools" and an "Element Inspector", within it, that can help with this.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Use inspect element to change the `.gif` file extension of the broken photo to `.jpg`.
 
 ![image of the correct photo](/assets/morebrokenbicycles1.jpg)
+
+</details>

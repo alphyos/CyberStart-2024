@@ -6,12 +6,20 @@ She also runs a small legit side project, a photo site which allows anyone to cr
 
 **Tip:** Find the vulnerability to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: What does google say about the CVE? Are there examples of ways to take advantage of this flaw?
    If there are then try them out!
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Insert the following as the url
 
@@ -20,3 +28,5 @@ She also runs a small legit side project, a photo site which allows anyone to cr
 - The flag should show up
 
 `flag: rbvhuK8ROZ3ZTrfxPfyY`
+
+</details>

@@ -4,12 +4,20 @@ Well, that's a bit of luck. We've managed to get our hands on some details that 
 
 **Tip:** The flag is in a file somewhere on the server.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: There is a hidden directory on the server, try searching for `$ man ls` on
    Google to see how to view hidden directories.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Run `ls -la` This will reveal hidden directories
 - Run `cd .secret-files` This will change directories to the hidden one
@@ -17,3 +25,5 @@ Well, that's a bit of luck. We've managed to get our hands on some details that 
 - Run `cat flag.txt` This will read the text in the file and print the flag
 
 ![image of terminal](/assets/outofsight1.png)
+
+</details>

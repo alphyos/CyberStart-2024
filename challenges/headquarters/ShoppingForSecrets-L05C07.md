@@ -6,15 +6,25 @@ He typically uses one of these three usernames: kazuya, kaz_whizz, kazuya99. We'
 
 **Tip:** The flag is his password.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Forgotten how to SSH? Search for `$ man ssh` on google for some help.
    You might also want to take a look at grep.
    Search for `$ man grep` on google for some information on how to use it.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Run `ls`
 - Run `grep "kazuya" 182k_accounts_rip.txt`
 
 ![image of terminal](/assets/shoppingforsecrets1.png)
+
+</details>

@@ -4,14 +4,24 @@ Agent 707, we think we might have a way to log into a social media account of on
 
 **Tip:** **Get the age correct** and submit the form to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Look at the username, does that give you any hint at what year he might have been born?
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Enter 36 into age and submit.
 
 **`2022 - 1986 = 36`**
 
 ![image of login page](/assets/socialsecret1.png)
+
+</details>

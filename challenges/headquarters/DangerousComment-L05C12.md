@@ -4,12 +4,20 @@ One of the Yakoottees, Haruka, recently created a site where she posts photos of
 
 **Tip**: One of the files has the flag in it.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Try using a semi-colon in the comment box, followed by the code you want to run.
    So, perhaps try ;ls first to get a list of files.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Scroll down to the comment section query and send `;ls`
 
@@ -17,3 +25,5 @@ One of the Yakoottees, Haruka, recently created a site where she posts photos of
 
 - Send `;cat escape_plan.txt`
 - The flag should appear
+
+</details>

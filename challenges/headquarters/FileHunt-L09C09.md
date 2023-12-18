@@ -14,12 +14,20 @@ These are the details you'll need:
 
 **Tip:** Find the file, it contains the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: One of the other agents mentioned you should perhaps try using the "find" command for this,
    you can view more information with "man find".
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Enter your command prompt by running **Windows Key + R** and typing **cmd** Or terminal on Linux
 - Type `ssh [username]@[ip] -p [port number]`
@@ -30,3 +38,5 @@ These are the details you'll need:
 - The flag should appear
 
 `flag: 5iF4fG0vnsRHEdGfzMLSvXyQ`
+
+</details>

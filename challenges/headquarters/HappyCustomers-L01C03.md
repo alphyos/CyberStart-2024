@@ -4,11 +4,19 @@ During our initial analysis of the gang we noticed something strange - they crea
 
 **Tip:** **Decode the message** to get the secret word and use that as the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Could the numbers represent letters somehow? Think about the position of letters in the alphabet.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Set the letters of the alphabet to numbers with “A” as “1” and “Z” as “26”.
 
@@ -19,3 +27,5 @@ During our initial analysis of the gang we noticed something strange - they crea
 - **Sanne Bakker (23, 8, 5, 5, 12) - `[FLAG]`**
 
 - Enter the last word as the flag.
+
+</details>

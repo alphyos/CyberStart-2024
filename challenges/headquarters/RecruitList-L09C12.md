@@ -6,12 +6,20 @@ We've found the login page for it, see if you can get access.
 
 **Tip:** Bypass the login form to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Did you see the comment in the source code suggesting you take a look at "page.phps"?
    Take a look. What does urldecode do? Can you do the opposite of urldecode?
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - In the source code, there is a comment saying that login details are available at `page.phps`
 - Change the url to `https://118.279.0.1/page.phps`
@@ -21,3 +29,5 @@ We've found the login page for it, see if you can get access.
 - The flag should appear
 
 `flag: 9kGvib4hmWT1ffFvaMv1`
+
+</details>

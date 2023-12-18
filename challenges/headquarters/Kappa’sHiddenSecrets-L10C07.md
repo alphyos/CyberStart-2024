@@ -6,15 +6,25 @@ Luckily for us, we think the site is vulnerable to command injection. See if you
 
 **Tip:** Find the file, it contains the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Hmm, one of the other agents has taken a quick look and he thinks all command injection characters are
    filtered except for `$(command)`. He also suggested using `ls` to find the file.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - At the bottom comment section, type the following and hit enter
   - `$(ls ..)` shows you where the flag is located
   - `$(cat ../flag.txt)` gives you the flag
 
 `flag: 0dL6irM1XSgLRbtn3nVD`
+
+</details>

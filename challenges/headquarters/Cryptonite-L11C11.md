@@ -6,11 +6,19 @@ See if you can use it to get access to the server and look for any files that mi
 
 **Tip:** There's a file on the server containing the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Focus more on the -n argument and see if you can take advantage of it.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - To view all possible arguments with Cryptonite, type `cryptonite -h`
 - Type `cryptonite -n;ls`
@@ -18,3 +26,5 @@ See if you can use it to get access to the server and look for any files that mi
 - The flag should appear
 
 `flag: 28ISToBLzwZlTmUqnVep`
+
+</details>

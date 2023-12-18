@@ -8,11 +8,21 @@ You only get one chance per day to complete this timed challenge. Reload the pag
 
 **Tip:** If you get the right code, the agent will give you the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Another agent just mentioned Base64. Try that?
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Copy and paste the given code
 - Decode using [Base64](https://www.base64decode.net/decode/qgv)
+
+</details>

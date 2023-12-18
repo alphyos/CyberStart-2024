@@ -4,12 +4,22 @@ Agent 707, it looks like the gang are trying to raise some money to fund their p
 
 **Tip:** Click on the **part of the suspicious email** that makes you think it's fake and you'll get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Look carefully at the domain names of the sender's email addresses. Notice anything strange?
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 ![image of email](/assets/brokenbanks1.png)
 
 - Click the double k’s in `bankk`
+
+</details>

@@ -6,15 +6,25 @@ As we know it's vulnerable we want to look at other ways to find the gang's file
 
 **Tip:** Find the file to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Looks like this web server is setup to filter out common directory traversal attempts.
    Could you use some character encoding to bypass the filter? CAPEC 79
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Replace the url with the following
   - https://www.easy-filebox.com/u/2374682/user/files..%2F..%2F..%2F..%2F..%2F..%2F..%2F
   - The flag should appear
 
 `flag: Lpa8LauYxLKeUuiUUT6X`
+
+</details>

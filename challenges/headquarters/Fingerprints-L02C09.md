@@ -6,13 +6,23 @@ We've noticed four of the numbers have fingerprints on and we've discovered that
 
 **Tip:** **Get the right code** to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: The fingerprints show us which numbers are used in the correct combination,
    it's just a matter of trying all the combinations with those numbers until you get it right!
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 ![image of the keypad](/assets/fingerprints1.jpg)
 
 - Go through all possible combinations of the digits `2, 4, 5, and 7` in various orders until it finally produces a flag.
+
+</details>

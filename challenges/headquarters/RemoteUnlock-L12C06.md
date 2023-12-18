@@ -6,13 +6,21 @@ They seem to be testing it with a server (which we've pointed services.cyberprot
 
 **Tip:** Send the right answer in time to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Who could possibly answer this question fast enough? Only a computer, probably.
    You should definitely think about programming this one. It shouldn't be too many lines of code in Python.
    Look up socket programming in particular.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Write a program which does the following
 
@@ -38,3 +46,5 @@ print(data.decode("utf-8"))
 ```
 
 `flag: 917035HrQ0PODo#`
+
+</details>

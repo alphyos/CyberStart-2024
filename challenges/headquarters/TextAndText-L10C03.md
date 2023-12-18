@@ -8,16 +8,24 @@ Well, this morning we intercepted an email between the two expecting to see the 
 
 **Tip:** Find the code, that's the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Investigate a way to identify changes between two files.
 ```
+
+</details>
 
 ## Files
 
 - [locks](/assets/textandtext2)
 - [locks_old](/assets/textandtext3)
 
-## Step by Step
+<details><summary>
+
+## Step by Step</summary>
 
 - Download both files
 - Run `diff [file1] [file2]` to get the difference between the files
@@ -26,3 +34,5 @@ Well, this morning we intercepted an email between the two expecting to see the 
 ![image showing the difference](/assets/textandtext1.jpg)
 
 `flag: NCE54L8D`
+
+</details>

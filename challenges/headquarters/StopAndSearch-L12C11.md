@@ -10,12 +10,20 @@ Once this flaw has been fixed we are confident that the trojan robot the gang ha
 
 **Tip:** Submit the payload correctly to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: This page is filtered to prevent normal XSS but you should be able to hex encode the payload.
    Don't forget to browser encode it too!
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - If you use a [hex encoder](https://www.convertstring.com/EncodeDecode/HexEncode) to transform the original payload, it will go through the filter.
 - Type and enter the following:
@@ -23,3 +31,5 @@ Once this flaw has been fixed we are confident that the trojan robot the gang ha
 - After dismissing the alert, you should get the flag.
 
 `flag: 1if06H1L7NJ9xPUy14me`
+
+</details>

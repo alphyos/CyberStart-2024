@@ -4,13 +4,23 @@ Here's an interesting one for you Agent 707 - on the weekend the gang released w
 
 **Tip:** Find the **hidden** clue and it'll lead you to the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Try highlighting the whole page (i.e. select all), does it reveal anything else?
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Highlight the page to find text that says “Go to `/secret.html`”.
 - Entering this at the end of the url gets you the flag.
 
 ![image of what the correct webpage should look like](/assets/racetowhere1.jpg)
+
+</details>

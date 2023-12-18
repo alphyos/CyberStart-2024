@@ -4,13 +4,23 @@ Urgent request - one of our agents is currently at a Slootmaeker hideout and we 
 
 **Tip:** **Get the username**, that's the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Have a quick look online for Linux terminal commands,
    you should be able to find one that tells you which user you're logged in as.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Type `whoami` into the terminal to get the name.
 
 ![image of the command in the terminal](/assets/userwho1.jpg)
+
+</details>

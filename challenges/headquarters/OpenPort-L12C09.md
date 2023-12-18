@@ -6,12 +6,20 @@ We believe they've set up a port running on an IP address that we've pointed ser
 
 **Tip:** Connect to the port to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: You'll want to use nmap for this. Make sure you specify the port range. If it's not coming up,
    remember there are two types of ports. A normal nmap scan will only check for one type of port by default.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Open a terminal and run `nmap -p 19000-20000 -Pn services.cyberprotection.agency`
 - It should list an open port, for me it was `19991`
@@ -20,3 +28,5 @@ We believe they've set up a port running on an IP address that we've pointed ser
 - The flag should appear
 
 `flag: rIT9xIxJ1/78dp8KjN7o`
+
+</details>

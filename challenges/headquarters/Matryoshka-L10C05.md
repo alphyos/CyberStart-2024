@@ -14,11 +14,19 @@ These are the details you'll need:
 
 **Tip:** Find the code word to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Agent, can you find a way to search the man database?
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Open up a Linux terminal
 - Type “`ssh [username]@[ip] -p [port number]`”
@@ -27,3 +35,5 @@ These are the details you'll need:
 - The flag should appear
 
 `flag: 4XAEhDJvZBuine9CCzmzcYmR`
+
+</details>

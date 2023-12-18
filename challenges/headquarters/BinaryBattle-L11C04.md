@@ -6,17 +6,25 @@ The file was taken from the hard drive of the gang member we think has been doin
 
 **Tip:** Input the right password to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Try to run strings against the binary. You should see a lot of possible passwords.
    You could try them each one by one, but wouldn't it be easier to write a simple script that
    will try them all for you?
 ```
 
+</details>
+
 ## Files
 
 - [strings3-x86](/assets/binarybattle1)
 
-## Step by Step
+<details><summary>
+
+## Step by Step</summary>
 
 - Download the file
 - Use `chmod +x [filename]`
@@ -25,3 +33,5 @@ The file was taken from the hard drive of the gang member we think has been doin
 - The flag should show up
 
 `flag: 3rtzdrp0nr3y7qzqiblm7mdw`
+
+</details>

@@ -6,12 +6,20 @@ Our team have created an account with the service and logged in. See if you can 
 
 **Tip:** Billy Johnson's account name is the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: User input can be anything, not just a form field. What would happen if the value of a cookie
    was used to get data from a database. Could it also be used for SQL Injection?
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Start by creating a new cookie with whatever name you desire by opening up inspect element/dev tools and moving to the applications tab
 - The value of this cookie should be `WHERE name = ‘Billy’ OR 1=1`
@@ -22,3 +30,5 @@ Our team have created an account with the service and logged in. See if you can 
 - `Billy Johnson's` account name is in the left column, it will be the flag
 
 `flag: billy_goats_gruff`
+
+</details>

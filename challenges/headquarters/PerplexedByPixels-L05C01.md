@@ -6,13 +6,21 @@ One of the team has already built a comparison tool but he's just been reassigne
 
 **Tip:** Calculate the differences, convert it with the ASCII table, and that's your flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: It looks like they're using the change in rgb values between the pixels to generate a set of numbers,
    which they're then converting to text with the help of an ASCII table. Work out the differences,
    do the conversion and there's your flag.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Click the analyze button which will give you the output below when done.
 
@@ -22,3 +30,5 @@ One of the team has already built a comparison tool but he's just been reassigne
 - The absolute value of this number is what you will type into the column boxes as shown below in the same order of 01, 02, etc from top to bottom.
 
 ![image of ascii converter](/assets/perplexedbypixels2.png)
+
+</details>

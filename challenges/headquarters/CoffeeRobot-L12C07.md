@@ -6,11 +6,19 @@ The problem is, we don't know which server he's keeping the plans on. All we do 
 
 **Tip:** Find the drawings file to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: You might need to look for hidden files to find what you're looking for.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - In the text box at the bottom, type `$(ls -la)`
 - Type `$(ls -la ..)`
@@ -18,3 +26,5 @@ The problem is, we don't know which server he's keeping the plans on. All we do 
 - Type `$(cat ../robot-bank-job/.robot_sketches.txt)`
 
 `flag: GnJRZZdHea3pSVmtwlNH`
+
+</details>

@@ -6,17 +6,25 @@ Can you finish it off so that it runs each line in the dictionary against the en
 
 **Tip:** Decrypt the text, that's the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: You will need to open the dictionary file, loop through each line,
    save the text in the code and run the decryption for each line. We know you can do it Agent 707!
 ```
+
+</details>
 
 ## Files
 
 - [dict.py](/assets/snakesinmotion1.py)
 - [words.txt](/assets/snakesinmotion2.txt)
 
-## Step by Step
+<details><summary>
+
+## Step by Step</summary>
 
 - Download the files
 - Modify the code in the python file to match the following
@@ -64,3 +72,5 @@ with open('words.txt', 'r', encoding='utf-8') as f: # added
 - This should find the correct password `Serenity` and spit out the decrypted text which is the flag
 
 `flag: ozZdCrFTsOMoC4m5FMd`
+
+</details>

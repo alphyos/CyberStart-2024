@@ -9,13 +9,21 @@ These are the details you'll need:
 
 **Tip:** The flag is in the same file as the password.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Older versions of Linux kept hashed passwords in a file that every user account could access.
    You can print the contents of a file to the screen using the cat tool.
    Type $ man cat in the terminal to find out more.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Enter your command promp by running **Windows Key + R** and typing **"cmd"** or terminal on Linux
 - Type `ssh [username]@[ip] -p [port number]`
@@ -23,3 +31,5 @@ These are the details you'll need:
 - Run `cd /etc`
 - Run `cat passwd`
 - The flag should come up as the `first line in passwd`
+
+</details>

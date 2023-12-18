@@ -6,14 +6,24 @@ Check out the login page on his site and see if you can break in.
 
 **Tip:** Log in successfully to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: What happens when you try to log in with any credentials? Look at the URL;
    do you see a way of tricking the site into thinking you are logged in?
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Press the enter button, the url should change significantly
 - Change `loggedin=false` to `loggedin=true` like the image below and press enter again to get the flag
 
 ![image of url](/assets/shinjisdrone1.png)
+
+</details>

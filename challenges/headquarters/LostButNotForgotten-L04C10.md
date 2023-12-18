@@ -6,13 +6,21 @@ Check your email, download the files and see if you can find out what's going on
 
 **Tip:** The flag is in one of the files.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Can we be sure they're all really .gif files? In previous cases the CPA have solved we've seen
    gang members change the extension on files so it looks like something different.
    Perhaps try opening the files in a text editor to see if they are actually all .gifs.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Download all of the gifs.
 - Open up a linux terminal and use “`cd`” to change directories until you get the one with all of the gifs downloaded.
@@ -23,3 +31,5 @@ Check your email, download the files and see if you can find out what's going on
 
 - Either rename the file to end with `.txt` or change the file type some other way.
 - The text file contains the flag.
+
+</details>

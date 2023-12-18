@@ -6,11 +6,19 @@ If you visit the page where it exists the ciphered password is there but it chan
 
 **Tip:** Run the correct script to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: The script needs to look at the page, grab the password, reverse it and then feed it back to log in.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Download the script and open it up in an editor such as VSCode
 - Edit it so the the original response from the page without the code gets reversed and put back into the urls as the code
@@ -30,3 +38,5 @@ response = urllib.request.urlopen(answer)
 response = response.read()
 print(response.decode('utf-8'))
 ```
+
+</details>

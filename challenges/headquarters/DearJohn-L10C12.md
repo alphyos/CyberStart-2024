@@ -8,18 +8,26 @@ Unfortunately, the word list doesn't have the password on there, we think it may
 
 **Tip:** Get access to the database to get the flag!
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Taking a word list and changing it is called word mangling.
    The password for the database server isn’t in the word list we’ve provided, we know that much,
    but if it’s a variant, using John to mangle the words in the wordlist might produce results.
 ```
 
+</details>
+
 ## Files
 
 - [program-x86](/assets/dearjohn1)
 - [words.txt](/assets/dearjohn2.txt)
 
-## Step by Step
+<details><summary>
+
+## Step by Step</summary>
 
 - Download the files
 - Use `john --wordlist=[wordlist name] --rules --stdout > new_words.txt` to generate a mangled wordlist or `--rules=Jumbo` if that does not work
@@ -28,3 +36,5 @@ Unfortunately, the word list doesn't have the password on there, we think it may
 - This will find the correct password `roronoa7` and spit out the flag
 
 `flag: CG3GPtycLfxdzYyi2xp`
+
+</details>

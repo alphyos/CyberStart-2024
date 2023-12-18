@@ -6,11 +6,19 @@ We've received an anonymous tip from one disgruntled gang member about two web p
 
 **Tip:** Change the value of the cookie on the second page correctly to show the codes. The last code is the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: You'll need to automate this to be fast enough. You can use CURL to send cookie values.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Copy the code down below and run it to get the flag
 
@@ -35,3 +43,5 @@ print(resp.content)
 ```
 
 `flag: 7463547834`
+
+</details>

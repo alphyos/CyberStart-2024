@@ -6,12 +6,22 @@ We've managed to get hold of an example output page which we think contains a *
 
 **Tip:** See if you can **convert** the color **RGB numbers** into **letters** using the included **ASCII table** to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: You can see the color combination results in a set of eight RGB numbers.
    Have you tried looking those numbers up on an ASCII table?
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Using a [decimal to ASCII converter](https://onlineasciitools.com/convert-decimal-to-ascii), copy and paste the rgb values (does not matter if the letters “RGB” are included) into the convertor.
   - It should decode to `THE SECRET HAT CODE IS [FLAG]`.
+
+</details>

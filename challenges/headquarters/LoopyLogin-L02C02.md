@@ -4,13 +4,23 @@ Quick piece of analysis for you to do Agent 707. We think there is **something 
 
 **Tip:** Click on the **suspicious thing** to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: When you are shopping online you will often see a padlock which tells you the site is secure.
    What if the site isn't secure?
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Click on the red lock button.
 
 ![picture of red lock](/assets/loopylogin1.png)
+
+</details>

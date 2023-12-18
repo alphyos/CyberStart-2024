@@ -6,11 +6,19 @@ The team have been starting to wonder whether there are other pages that we've n
 
 **Tip:** Find the hidden page to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Hmm, what would make a page invisible from search engines?
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - A way to find pages that are typically **hidden by search engines** is to look for a file called `robots.txt`.
 
@@ -22,3 +30,5 @@ The team have been starting to wonder whether there are other pages that we've n
 ![testtubes.html](/assets/hiddencentrifuge2.png)
 
 `flag: 2B8vYSrQrHq1MPJgh584`
+
+</details>

@@ -6,16 +6,24 @@ Here's a good example: you may remember the Bear Watch site from the previous le
 
 **Tip:** Manipulate the image in some way to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: The message may be hidden in the image itself, you'll probably need to use GIMP for this challenge.
    Try some image manipulation of your own.
 ```
 
+</details>
+
 ## Files
 
 - [bears.6ed65fc2](/asstest/hiddenbear2.jpg)
 
-## Step by Step
+<details><summary>
+
+## Step by Step</summary>
 
 - Download the image and open it up in GIMP
 - Select "Linear Invert" from "Colors"
@@ -24,3 +32,5 @@ Here's a good example: you may remember the Bear Watch site from the previous le
 ![Image in gimp](/assets/hiddenbear1.png)
 
 `flag: Ao39gPOEzwrkojhEqNmtuDKc`
+
+</details>

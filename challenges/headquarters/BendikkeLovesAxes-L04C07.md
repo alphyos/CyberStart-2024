@@ -6,12 +6,20 @@ See if you can find the login page on the blog and use some of the techniques yo
 
 **Tip:** If you successfully log in you'll get the flag!
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: It looks like she may have left herself a password hint in the source code and, luckily for us, the hint she
    mentions is all about what she writes on the blog.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - View the source code and use Ctrl + F to search for `password`.
 
@@ -22,3 +30,5 @@ See if you can find the login page on the blog and use some of the techniques yo
 ![image of post](/assets/bendikkelovesaxes2.png)
 
 - Username: `Thor` Password: `rohT`.
+
+</details>

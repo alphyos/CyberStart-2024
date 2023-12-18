@@ -6,6 +6,10 @@ The elite group have decided to select someone from the rest of the gang by issu
 
 **Tip:** Overflow the buffer to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: You will need to consider how to make the secret read "de4dc0de".
    It can be written in hexadecimal form with "\x" prefixes; for example "\xde\x4d" and so on.
@@ -13,11 +17,15 @@ The elite group have decided to select someone from the rest of the gang by issu
    You may need to look up the difference between Little Endian and Big Endian notation.
 ```
 
+</details>
+
 ## Files
 
 - [program-x86](/assets/steppingup1)
 
-## Step by Step
+<details><summary>
+
+## Step by Step</summary>
 
 - Download the program and navigate to its location within the terminal.
 - Run `chmod +x filename`
@@ -25,3 +33,5 @@ The elite group have decided to select someone from the rest of the gang by issu
   - You’ll notice if you try to run the code in the right seeming order, the `c0` and `4d` get swapped.
 
 `flag: IilDCuiVBmySueH37tB`
+
+</details>

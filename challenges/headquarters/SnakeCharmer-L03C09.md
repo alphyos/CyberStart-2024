@@ -6,13 +6,23 @@ We've heard that the gang is looking for a way to make their passwords more secu
 
 **Tip:** The output from the code is the flag you need.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Running a python script from the terminal is as simple as `$ python filename`
    where filename is the name of the file of course.
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Run the command `python passgen.py`.
 
 ![picture of the terminal output](/assets/snakecharmer1.png)
+
+</details>

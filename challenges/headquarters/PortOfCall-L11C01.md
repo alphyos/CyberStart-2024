@@ -4,11 +4,19 @@ Quick job for you Agent 707. We think the gang have a port running between 14000
 
 **Tip:** Connect to the port to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: You'll want to use nmap for this. Make sure you specify the port range!
 ```
 
-## Step by Step
+</details>
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Open a Linux terminal
 - Run `nmap -p 14000-15000 -Pn services.cyberprotection.agency`
@@ -18,3 +26,5 @@ Quick job for you Agent 707. We think the gang have a port running between 14000
 ![running netcat](/assets/portofcall1.png)
 
 `flag: Dc4GChlyxd3jkTmapRcQ0S`
+
+</details>
