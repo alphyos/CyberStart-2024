@@ -2,13 +2,13 @@
 
 
 
-[🎂 Social Secret - L01 C01](headquarters/SocialSecret-L01C01.md)
+[ 🎂 Social Secret - L01 C01](headquarters/SocialSecret-L01C01.md)
 
-[🏧 Broken Banks - L01 C02](headquarters/BrokenBanks-L01C02.md)
+[ 🏧 Broken Banks - L01 C02](headquarters/BrokenBanks-L01C02.md)
 
-[🎡 Happy Customers - L01 C03](headquarters/HappyCustomers-L01C03.md)
+[ 🎡 Happy Customers - L01 C03](headquarters/HappyCustomers-L01C03.md)
 
-[🚖 Race To Where - L01 C04](headquarters/RaceToWhere-L01C04.md)
+[ 🚖 Race To Where - L01 C04](headquarters/RaceToWhere-L01C04.md)
 
 [🚦 Mixed Messages - L01 C05](headquarters/MixedMessages-L01C05.md)
 

@@ -18,14 +18,16 @@ During our initial analysis of the gang we noticed something strange - they crea
 
 ## Step by Step</summary>
 
-- Set the letters of the alphabet to numbers with “A” as “1” and “Z” as “26”.
+- Set the letters of the alphabet to numbers with “A” as “1” and “Z” as “26”
 
 - **Jan De Jong (20, 8, 5) - The**
 - **Lars Jansen (19, 5, 3, 18, 5, 20) - Secret**
 - **Gerrit Vries (23, 15, 18, 4) - Word**
 - **Merel De Vries (9, 19) - Is**
-- **Sanne Bakker (23, 8, 5, 5, 12) - `[FLAG]`**
+- **Sanne Bakker (23, 8, 5, 5, 12) - `Wheel`**
 
-- Enter the last word as the flag.
+- Enter the last word as the flag
+
+`flag: Wheel`
 
 </details>

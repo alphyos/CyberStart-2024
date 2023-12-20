@@ -18,7 +18,7 @@ Agent 707, we think we might have a way to log into a social media account of on
 
 ## Step by Step</summary>
 
-- Enter 36 into age and submit.
+- Enter 36 into age and submit to get the flag
 
 **`2022 - 1986 = 36`**
 

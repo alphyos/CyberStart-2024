@@ -1,3 +1,5 @@
+# 🖼️ Picture in Picture - L02 C02
+
 When our team gained access to the photographer's photos we found a folder with some photos in it, but the photos seem to be pretty uninteresting from a quick **look**. Have a look at them yourself and see if you can find anything interesting.
 
 **Tip:** The flag is **in the image**.
@@ -7,8 +9,6 @@ When our team gained access to the photographer's photos we found a folder with 
 ```
 
 ## Step by Step
-
----
 
 - Download file on a Linux machine, alternatively, use [Aperi'Solve](https://www.aperisolve.com/) and their strings function 
 - Open terminal and run `strings filename` in the same directory as the file

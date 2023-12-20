@@ -18,8 +18,8 @@ Here's an interesting one for you Agent 707 - on the weekend the gang released w
 
 ## Step by Step</summary>
 
-- Highlight the page to find text that says “Go to `/secret.html`”.
-- Entering this at the end of the url gets you the flag.
+- Highlight the page to find text that says “Go to `/secret.html`”
+- Entering this at the end of the url gets you the flag, which is randomized
 
 ![image of what the correct webpage should look like](/assets/racetowhere1.jpg)
 
