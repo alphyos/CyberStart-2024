@@ -4,12 +4,23 @@ We've found a profile page of a known hacker that we need to get in contact with
 
 **Tip:** The email address is the flag.
 
+**Related Field Manual Entries:** [Hello World](../fieldmanual/HelloWorld.md)
+
+<details><summary>
+
+## Need a hint?</summary>
+
 ```txt
 💡 Hint: Try highlighting the whole page (using your mouse, or CTRL + A) to find text that might be the same color as the 
    background.
 ```
+</details>
 
-## Step by Step
+![image of the challenge](/assets/helloworld.png)
+
+<details><summary>
+
+## Step by Step</summary>
 
 - Hold down right mouse button and drag over the webpage to highlight the text
 
@@ -18,3 +29,13 @@ We've found a profile page of a known hacker that we need to get in contact with
 - The flag is the email, copy and paste it into the submit box
 
 `flag: 1337hax@myaboutpage.com`
+</details>
+
+<details><summary>
+
+## Solution Message</summary>
+
+### $${\color{green}\large\sf{Success!}}$$
+### $${\color{green}\sf{Great \ job \ finding \ the \ email \space address! \ It's \ been \ passed \ on \ for \ further \ investigation.}}$$
+### $${\color{green}\sf{You've \ levelled \ up \ in \ these \ skills:}}$$
+### $${\color{green}\sf{>Observation}}$$
