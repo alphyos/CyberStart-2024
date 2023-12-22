@@ -15,9 +15,9 @@ So what is a virtual machine? Well, a virtual machine is likely to contain a who
 
 With the software installed, you can download the VM image from the appropriate link:
 
-[Download the VMWare virtual machine](https://vm.cyberstart.com/v2/cyberstart-vm-vmware.zip)
+[Download the VMWare virtual machine](https://drive.google.com/file/d/1i3Tu9GMyNalqRMJyT48eR2Kd2cYEUgc7/view?usp=sharing)
 
-[Download the VirtualBox virtual machine](https://vm.cyberstart.com/v2/cyberstart-vm-vbox.zip)
+[Download the VirtualBox virtual machine](https://drive.google.com/file/d/1XH6hJVAyj3sPL7a5VpNn1yY97cQcQCHf/view?usp=sharing)
 
 Once you have downloaded the appropriate zip file, unzip it and load that unzipped VM image into your software. Our CyberStart VM image is Linux based, specifically Ubuntu. When it's up and running you'll see a login screen for `agent` and the password for this account is `agent` for simplicity. However, to ensure you use strong passwords you may want to change this after login.
 
