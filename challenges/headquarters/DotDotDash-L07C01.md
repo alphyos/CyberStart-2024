@@ -10,10 +10,7 @@ We think the Chiquitoos have an insider that works on the ships carrying the shi
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: In Morse code, a quick flash is a dot, a long flash is a dash and a pause is a space.
-   Write out the series of dots and dashes and match it up to the chart to turn them into letters.
-```
+> 💡 Hint: In Morse code, a quick flash is a dot, a long flash is a dash and a pause is a space. Write out the series of dots and dashes and match it up to the chart to turn them into letters.
 
 </details>
 

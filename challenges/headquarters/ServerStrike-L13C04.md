@@ -18,9 +18,7 @@ These are the details you'll need:
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Always easier to work on your own machine
-```
+> 💡 Hint: Always easier to work on your own machine
 
 </details>
 

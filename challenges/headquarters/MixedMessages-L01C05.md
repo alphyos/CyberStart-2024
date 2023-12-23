@@ -12,9 +12,7 @@ I've had one of the agents forward you one of the messages, see if you can **de
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Hmm, it doesn't look like the words are reversed, but have you tried reversing just pairs of letters?
-```
+> 💡 Hint: Hmm, it doesn't look like the words are reversed, but have you tried reversing just pairs of letters?
 
 </details>
 

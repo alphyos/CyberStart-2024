@@ -10,11 +10,7 @@ See if you can put the SQL code in the right order. If you do, the data should a
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: This is a test on SQL injection. You have to get the whole table of information by running the right SQL command, so
-   re-order the parts of the command in the message box and submit the form. Try starting with the single quote character,
-   which will close the speechmarks in the command and then think about what is always true.
-```
+> 💡 Hint: This is a test on SQL injection. You have to get the whole table of information by running the right SQL command, so re-order the parts of the command in the message box and submit the form. Try starting with the single quote character, which will close the speechmarks in the command and then think about what is always true.
 
 </details>
 

@@ -12,10 +12,7 @@ See if you can crack into the Chirp site. If you do you'll see the calls Semyon 
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: You should read up on what extract() does.
-   Can you find a way to set both the $key and $password variables by taking advantage of extract()?
-```
+> 💡 Hint: You should read up on what extract() does. Can you find a way to set both the $key and $password variables by taking advantage of extract()?
 
 </details>
 

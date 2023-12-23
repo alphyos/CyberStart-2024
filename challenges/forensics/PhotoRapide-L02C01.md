@@ -8,9 +8,7 @@ It looks like the photographer took a particular interest in what the employees 
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: It's a high-resolution image, have you tried zooming in and looking at the detail?
-```
+> 💡 Hint: It's a high-resolution image, have you tried zooming in and looking at the detail?
 
 </details>
 

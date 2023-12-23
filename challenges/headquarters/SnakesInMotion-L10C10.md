@@ -10,10 +10,7 @@ Can you finish it off so that it runs each line in the dictionary against the en
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: You will need to open the dictionary file, loop through each line,
-   save the text in the code and run the decryption for each line. We know you can do it Agent 707!
-```
+> 💡 Hint: You will need to open the dictionary file, loop through each line, save the text in the code and run the decryption for each line. We know you can do it Agent 707!
 
 </details>
 
@@ -42,30 +39,30 @@ PADDING = '{'
 encrypted = "uqX82PBZ8pi1fvt4GLHYgLs50ht8OQlrR1KHL2teppQ=" # changed
 
 def decode_aes(c, e):
-    return c.decrypt(base64.b64decode(e)).decode('latin-1').rstrip(PADDING)
+  return c.decrypt(base64.b64decode(e)).decode('latin-1').rstrip(PADDING)
 
 # removed secret = "password"
 
 with open('words.txt', 'r', encoding='utf-8') as f: # added
-    words = f.read().splitlines() # added
-    for secret in words: # added
-        if secret[-1:] == "\n":
-            print("Error, new line character at the end of the string. This will not match!")
-        elif len(secret.encode('utf-8')) >= 32:
-            print("Error, string too long. Must be less than 32 bytes.")
-        else:
-            # create a cipher object using the secret
-            cipher = AES.new(secret.encode('utf-8') + (BLOCK_SIZE - len(secret.encode('utf-8')) % BLOCK_SIZE) * PADDING.encode(), AES.MODE_ECB) # changed
-            # decode the encoded string
-            decoded = decode_aes(cipher, encrypted)
+  words = f.read().splitlines() # added
+  for secret in words: # added
+    if secret[-1:] == "\n":
+    print("Error, new line character at the end of the string. This will not match!")
+    elif len(secret.encode('utf-8')) >= 32:
+    print("Error, string too long. Must be less than 32 bytes.")
+    else:
+    # create a cipher object using the secret
+    cipher = AES.new(secret.encode('utf-8') + (BLOCK_SIZE - len(secret.encode('utf-8')) % BLOCK_SIZE) * PADDING.encode(), AES.MODE_ECB) # changed
+    # decode the encoded string
+    decoded = decode_aes(cipher, encrypted)
 
-            if decoded.startswith('FLAG:'):
-                print("\n")
-                print("Success: "+secret+"\n")
-                print(decoded+"\n")
-                break # added
-            else:
-                print('Wrong password')
+    if decoded.startswith('FLAG:'):
+      print("\n")
+      print("Success: "+secret+"\n")
+      print(decoded+"\n")
+      break # added
+    else:
+      print('Wrong password')
 ```
 
 - Run the script and make sure to change `words.txt` to the actual file name of the word list

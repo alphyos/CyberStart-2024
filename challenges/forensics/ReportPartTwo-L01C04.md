@@ -8,9 +8,7 @@ One of our agents in the field has just put a **packet capture** from the susp
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Try looking up HTTP request methods and follow the 'stream'.
-```
+> 💡 Hint: Try looking up HTTP request methods and follow the 'stream'.
 
 </details>
 

@@ -12,10 +12,7 @@ One of the gang, Sannfred, uses a location check-in site called Circle. Perhaps 
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: It looks like Sannfred has checked in at a few locations, but in one of them he mentions the party. Find that
-   message, from there work out where they are, grab the building number and that's your flag!
-```
+> 💡 Hint: It looks like Sannfred has checked in at a few locations, but in one of them he mentions the party. Find that message, from there work out where they are, grab the building number and that's your flag!
 
 </details>
 

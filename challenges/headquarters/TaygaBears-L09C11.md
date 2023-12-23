@@ -10,10 +10,7 @@ Take a look at them and see if you can spot what it is.
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Take a close look at each of the images using "binwalk" or a hex editor.
-   Do you see anything unusual about them?
-```
+> 💡 Hint: Take a close look at each of the images using "binwalk" or a hex editor. Do you see anything unusual about them?
 
 </details>
 

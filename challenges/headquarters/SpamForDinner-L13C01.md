@@ -10,10 +10,7 @@ We want to spam the booking form for their restaurants, the problem is the form 
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: By searching "seedID" in the source code,
-   you’ll discover a line of code that eerily matches something you would append to a url.
-```
+> 💡 Hint: By searching "seedID" in the source code, you’ll discover a line of code that eerily matches something you would append to a url.
 
 </details>
 

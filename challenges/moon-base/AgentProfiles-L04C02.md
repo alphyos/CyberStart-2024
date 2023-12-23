@@ -4,13 +4,11 @@ The operations team have asked that we start preparing a group of agents that co
 
 Tip: The files live in the /tmp directory and have names such as agent-1.txt, agent-2.txt and so on.
 
-```
-💡 Hint: In Python, the key is proper indentation.
-
-   Remember after a colon ':' the code after belongs to that statement, so it has to be properly indented to show it belongs.
-
-   You can have multiple indentations if there are code blocks within blocks.
-```
+> 💡 Hint: In Python, the key is proper indentation.
+>
+> Remember after a colon ':' the code after belongs to that statement, so it has to be properly indented to show it belongs.
+>
+> You can have multiple indentations if there are code blocks within blocks.
 
 ## Answer
 
@@ -27,6 +25,6 @@ for i in range(20):
 			content = content_file.read()
 			string = string + (content.rstrip())
 			count += 1
-      
+  
 print(string)
 ```

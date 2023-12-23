@@ -10,10 +10,7 @@ Here's a good example: you may remember the Bear Watch site from the previous le
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: The message may be hidden in the image itself, you'll probably need to use GIMP for this challenge.
-   Try some image manipulation of your own.
-```
+> 💡 Hint: The message may be hidden in the image itself, you'll probably need to use GIMP for this challenge. Try some image manipulation of your own.
 
 </details>
 

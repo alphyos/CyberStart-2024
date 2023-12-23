@@ -8,10 +8,7 @@ Those Chiquitoos are a busy gang and they run a number of legitimate and crimina
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Look at the page URL and how it's being used to load the list of scheduled trips.
-   Is there any way you could change that to show the extra trips file?
-```
+> 💡 Hint: Look at the page URL and how it's being used to load the list of scheduled trips. Is there any way you could change that to show the extra trips file?
 
 </details>
 

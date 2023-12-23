@@ -8,10 +8,7 @@ Good news, we've managed to get access to the login page for one of the gang's h
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: We've given you access to a search engine called Moogle. Try searching for the Nethub 5000 and see if
-   you can find a mention of the default username and password online.
-```
+> 💡 Hint: We've given you access to a search engine called Moogle. Try searching for the Nethub 5000 and see if you can find a mention of the default username and password online.
 
 </details>
 

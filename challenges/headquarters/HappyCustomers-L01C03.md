@@ -8,9 +8,7 @@ During our initial analysis of the gang we noticed something strange - they crea
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Could the numbers represent letters somehow? Think about the position of letters in the alphabet.
-```
+> 💡 Hint: Could the numbers represent letters somehow? Think about the position of letters in the alphabet.
 
 </details>
 

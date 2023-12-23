@@ -8,10 +8,7 @@ We've just finished an interview with one of the customers who believed their eq
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Think about where files go when they are deleted.
-   Also think about how you can look for a specific string in a large amount of text using Linux tools.
-```
+> 💡 Hint: Think about where files go when they are deleted. Also think about how you can look for a specific string in a large amount of text using Linux tools.
 
 </details>
 

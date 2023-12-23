@@ -9,11 +9,9 @@ Some instructions for you:
 
 **Tip:** Listen correctly to get the flag.
 
-```
-💡 Hint: You'll need to brush up on your sockets and files for this one.
-
-   Why not try Level 3 Challenges 1 and 2 again?
-```
+> 💡 Hint: You'll need to brush up on your sockets and files for this one.
+>
+> Why not try Level 3 Challenges 1 and 2 again?
 
 ## Answer
 
@@ -38,8 +36,8 @@ while True:
   connection, address = serversocket.accept()
   data = connection.recv(1024).decode()
   if len(data) > 0:
-    with open('/tmp/aliensignallog.txt', 'w') as rec:
-      rec.write(data)
+  with open('/tmp/aliensignallog.txt', 'w') as rec:
+  rec.write(data)
   connection.close()
   break
 

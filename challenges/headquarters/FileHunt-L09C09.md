@@ -18,10 +18,7 @@ These are the details you'll need:
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: One of the other agents mentioned you should perhaps try using the "find" command for this,
-   you can view more information with "man find".
-```
+> 💡 Hint: One of the other agents mentioned you should perhaps try using the "find" command for this, you can view more information with "man find".
 
 </details>
 

@@ -12,11 +12,7 @@ Take a look at the profile, then create the phishing email with the right detail
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Flemming has been very forthcoming on his profile page, leaving lots of information about himself.
-   You just need to find the specific information we're planning to use in the phishing email,
-   fill in the gaps and hit "send".
-```
+> 💡 Hint: Flemming has been very forthcoming on his profile page, leaving lots of information about himself. You just need to find the specific information we're planning to use in the phishing email, fill in the gaps and hit "send".
 
 </details>
 

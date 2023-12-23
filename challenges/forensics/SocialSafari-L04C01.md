@@ -10,10 +10,7 @@ One of the customers who had their laptop hacked was kind enough to let us take 
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Look at the login type to determine if someone logged in from a remote source.
-   Not all remote logins show as type 10 logins, think of different types of sessions and where they would be.
-```
+> 💡 Hint: Look at the login type to determine if someone logged in from a remote source. Not all remote logins show as type 10 logins, think of different types of sessions and where they would be.
 
 </details>
 

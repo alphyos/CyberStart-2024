@@ -10,10 +10,7 @@ Our team have created an account with the service and logged in. See if you can 
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: User input can be anything, not just a form field. What would happen if the value of a cookie
-   was used to get data from a database. Could it also be used for SQL Injection?
-```
+> 💡 Hint: User input can be anything, not just a form field. What would happen if the value of a cookie was used to get data from a database. Could it also be used for SQL Injection?
 
 </details>
 

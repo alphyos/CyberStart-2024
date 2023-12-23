@@ -10,10 +10,7 @@ It said they've found a weakness in the money transfer tool on the Global Bank w
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Did you notice the URL on the successful transfer page?
-   I wonder what would happen if you changed the parameters and submitted it again?
-```
+> 💡 Hint: Did you notice the URL on the successful transfer page? I wonder what would happen if you changed the parameters and submitted it again?
 
 </details>
 

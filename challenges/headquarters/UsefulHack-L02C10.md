@@ -10,10 +10,7 @@ We don't have a username and password combination for any of the gang members, b
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Look up the username and password combinations in the dump from the social media site and
-   see if any work on the Slootmaekers site.
-```
+> 💡 Hint: Look up the username and password combinations in the dump from the social media site and see if any work on the Slootmaekers site.
 
 </details>
 

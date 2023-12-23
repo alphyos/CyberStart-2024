@@ -10,9 +10,7 @@ Why don't you give it a try and see if you can get access.
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: The program was written in C. What is the largest number that can be stored in a regular integer in C?
-```
+> 💡 Hint: The program was written in C. What is the largest number that can be stored in a regular integer in C?
 
 </details>
 

@@ -10,9 +10,7 @@ The team have been starting to wonder whether there are other pages that we've n
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Hmm, what would make a page invisible from search engines?
-```
+> 💡 Hint: Hmm, what would make a page invisible from search engines?
 
 </details>
 

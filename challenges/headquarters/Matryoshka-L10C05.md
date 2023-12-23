@@ -18,9 +18,7 @@ These are the details you'll need:
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Agent, can you find a way to search the man database?
-```
+> 💡 Hint: Agent, can you find a way to search the man database?
 
 </details>
 

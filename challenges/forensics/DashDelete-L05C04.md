@@ -8,10 +8,7 @@ So here's what we know so far – someone gained access to the company's servers
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: The file you are looking for exists in allocated space.
-   Look at how Recycle bin forensics are carried out.
-```
+> 💡 Hint: The file you are looking for exists in allocated space. Look at how Recycle bin forensics are carried out.
 
 </details>
 

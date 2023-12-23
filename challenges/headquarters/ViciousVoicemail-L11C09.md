@@ -10,10 +10,7 @@ Before he went he was able to get access to the private voicemail system the Bul
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: You'll need to work out how to install a program on Linux to do this one.
-   Check out steghide and find out how to install it. Then use it to extract the hidden message.
-```
+> 💡 Hint: You'll need to work out how to install a program on Linux to do this one. Check out steghide and find out how to install it. Then use it to extract the hidden message.
 
 </details>
 

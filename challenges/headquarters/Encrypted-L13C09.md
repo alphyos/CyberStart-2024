@@ -10,9 +10,7 @@ We've tried executing the file and it loads the encrypted access code into memor
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Very stupid encryption method
-```
+> 💡 Hint: Very stupid encryption method
 
 </details>
 

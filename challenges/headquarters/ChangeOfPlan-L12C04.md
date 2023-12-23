@@ -10,10 +10,7 @@ We really need to confirm the exact date they want to send it, but at the moment
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: You'll need to find a way to determine if the output of the text is human readable to check automatically
-   if you got the right answer. Remember, every ASCII character is actually a number.
-```
+> 💡 Hint: You'll need to find a way to determine if the output of the text is human readable to check automatically if you got the right answer. Remember, every ASCII character is actually a number.
 
 </details>
 
@@ -43,33 +40,33 @@ PADDING = '{'
 encrypted = "xpd4OA7GZYDfn4lTMJW/EEqgp26BlgjxsTonc1Elcgo="
 
 def decode_aes(c, e):
-    return c.decrypt(base64.b64decode(e)).decode('latin-1').rstrip(PADDING)
+  return c.decrypt(base64.b64decode(e)).decode('latin-1').rstrip(PADDING)
 
 with open('words.txt', 'r', encoding='utf-8') as f: # added
-    words = f.read().splitlines() # added
-    for secret in words: # added
-        if secret[-1:] == "\n":
-            print("Error, new line character at the end of the string. This will not match!")
-        elif len(secret.encode('utf-8')) >= 32:
-            continue
-        else:
-            # create a cipher object using the secret
-            cipher = AES.new(secret.encode('utf-8') + (BLOCK_SIZE - len(secret.encode('utf-8')) % BLOCK_SIZE) * PADDING.encode(), AES.MODE_ECB) # changed
-            # decode the encoded string
-            decoded = decode_aes(cipher, encrypted)
+  words = f.read().splitlines() # added
+  for secret in words: # added
+    if secret[-1:] == "\n":
+    print("Error, new line character at the end of the string. This will not match!")
+    elif len(secret.encode('utf-8')) >= 32:
+    continue
+    else:
+    # create a cipher object using the secret
+    cipher = AES.new(secret.encode('utf-8') + (BLOCK_SIZE - len(secret.encode('utf-8')) % BLOCK_SIZE) * PADDING.encode(), AES.MODE_ECB) # changed
+    # decode the encoded string
+    decoded = decode_aes(cipher, encrypted)
 
-            # added
-            skip = False
-            for c in decoded:
-                if (ord(c) < 32 or ord(c) > 126):
-                    skip = True
-                    break
+    # added
+    skip = False
+    for c in decoded:
+      if (ord(c) < 32 or ord(c) > 126):
+        skip = True
+        break
 
-            if skip == True:
-                continue
+    if skip == True:
+      continue
 
-            if decoded != '':
-                print('Decoded: '+decoded)
+    if decoded != '':
+      print('Decoded: '+decoded)
 ```
 
 - The decoded string is the flag

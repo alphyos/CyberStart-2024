@@ -10,10 +10,7 @@ As part of our penetration testing we've found a page which might be vulnerable 
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: You must find a way to get the administrator's cookie sent to your web server address,
-   then create the cookie with the right values and refresh the page for access.
-```
+> 💡 Hint: You must find a way to get the administrator's cookie sent to your web server address, then create the cookie with the right values and refresh the page for access.
 
 </details>
 

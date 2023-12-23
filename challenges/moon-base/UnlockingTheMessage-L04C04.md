@@ -1,8 +1,6 @@
 # 🔑 Unlocking the Message - L04 C04
 
-```
-💡 Hint: Try a google search on sending a custom header with urllib.request.
-```
+> 💡 Hint: Try a google search on sending a custom header with urllib.request.
 
 ## Answer
 

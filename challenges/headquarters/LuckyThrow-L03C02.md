@@ -8,10 +8,7 @@ Whilst taking a look around The Choppers' intranet site, one of our agents found
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Sometimes working out a problem just requires a bit of persistence.
-   Try refreshing the page, does anything happen?
-```
+> 💡 Hint: Sometimes working out a problem just requires a bit of persistence. Try refreshing the page, does anything happen?
 
 </details>
 

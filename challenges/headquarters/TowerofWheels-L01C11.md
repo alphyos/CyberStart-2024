@@ -10,9 +10,7 @@ We've mocked up the puzzle for you to try using JavaScript. You can move the whe
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: If you're struggling with the puzzle have a look online for guides on solving a "Tower of Hanoi" puzzle.
-```
+> 💡 Hint: If you're struggling with the puzzle have a look online for guides on solving a "Tower of Hanoi" puzzle.
 
 </details>
 

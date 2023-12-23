@@ -8,11 +8,7 @@ One of the other agents needs your help. He's been trying to open a file we inte
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Take a look at man strings.
-   Can you think of a reason that the string may not show up using the default settings?
-   It may be that you have to use some custom settings with strings.
-```
+> 💡 Hint: Take a look at man strings. Can you think of a reason that the string may not show up using the default settings? It may be that you have to use some custom settings with strings.
 
 </details>
 

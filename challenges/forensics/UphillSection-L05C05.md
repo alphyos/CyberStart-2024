@@ -8,10 +8,7 @@ We've hit a bit of a stumbling block in our investigation and need your urgent h
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Think about the error message and how you can go about fixing the headers.
-   Perhaps there's an open source tool?
-```
+> 💡 Hint: Think about the error message and how you can go about fixing the headers. Perhaps there's an open source tool?
 
 </details>
 

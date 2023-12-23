@@ -11,13 +11,11 @@ Instructions:
 
 **Tip:** Get access to the server using the above instructions to get the flag.
 
-```
-💡 Hint: You will need to use a TCP Socket on this one.
-
-It may be worth reviewing Level 3 Challenge 2.
-
-Don't forget to receive the responses that the server sends!
-```
+> 💡 Hint: You will need to use a TCP Socket on this one.
+>
+> It may be worth reviewing Level 3 Challenge 2.
+>
+> Don't forget to receive the responses that the server sends!
 
 ## Answer
 

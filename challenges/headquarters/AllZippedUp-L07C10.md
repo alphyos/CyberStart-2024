@@ -8,9 +8,7 @@ Agent 707, we need your scripting skills again. One of our field agents has mana
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: We believe the password starts with "Cola" and ends in numbers and upper or lower case characters.
-```
+> 💡 Hint: We believe the password starts with "Cola" and ends in numbers and upper or lower case characters.
 
 </details>
 
@@ -28,13 +26,13 @@ import time
 
 # Function for extracting zip files to test if the password works!
 def extractFile(zip_file, password):
-    try:
-        zip_file.extractall(pwd=password.encode())
-        return True
-    except KeyboardInterrupt:
-        exit(0)
-    except Exception as e:
-        pass
+  try:
+    zip_file.extractall(pwd=password.encode())
+    return True
+  except KeyboardInterrupt:
+    exit(0)
+  except Exception as e:
+    pass
 
 # Main code starts here...
 # The file name of the zip file.
@@ -49,16 +47,16 @@ zip_file = zipfile.ZipFile(zipfilename)
 # We know they always have 3 characters after the first half of the password
 # For every possible combination of 3 letters from alphabet...
 for c in itertools.product(alphabet, repeat=3):
-    # Add the three letters to the first half of the password.
-    password = first_half_password+''.join(c)
-    # Try to extract the file.
-    print("Trying: %s" % password)
-    # If the file was extracted, you found the right password.
-    if extractFile(zip_file, password):
-        print('*' * 20)
-        print('Password found: %s' % password)
-        print('Files extracted...')
-        exit(0)
+  # Add the three letters to the first half of the password.
+  password = first_half_password+''.join(c)
+  # Try to extract the file.
+  print("Trying: %s" % password)
+  # If the file was extracted, you found the right password.
+  if extractFile(zip_file, password):
+    print('*' * 20)
+    print('Password found: %s' % password)
+    print('Files extracted...')
+    exit(0)
 
 # If no password was found by the end, let us know!
 print('Password not found.')

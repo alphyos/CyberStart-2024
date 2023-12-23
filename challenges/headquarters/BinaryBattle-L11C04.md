@@ -10,11 +10,7 @@ The file was taken from the hard drive of the gang member we think has been doin
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Try to run strings against the binary. You should see a lot of possible passwords.
-   You could try them each one by one, but wouldn't it be easier to write a simple script that
-   will try them all for you?
-```
+> 💡 Hint: Try to run strings against the binary. You should see a lot of possible passwords. You could try them each one by one, but wouldn't it be easier to write a simple script that will try them all for you?
 
 </details>
 

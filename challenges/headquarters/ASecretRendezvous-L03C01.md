@@ -10,11 +10,7 @@ Fortunately, we know it uses the **Columnar Transposition Cipher** and have a 
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: This kind of encryption can be tough to crack, but luckily our tool makes it simple.
-   Try dragging the columns around the page until the text makes sense. When you've got it,
-   see if you can find a mention of the city where they're planning to meet - that's the flag!
-```
+> 💡 Hint: This kind of encryption can be tough to crack, but luckily our tool makes it simple. Try dragging the columns around the page until the text makes sense. When you've got it, see if you can find a mention of the city where they're planning to meet - that's the flag!
 
 </details>
 

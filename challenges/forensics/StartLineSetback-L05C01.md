@@ -8,10 +8,7 @@ Well, that wasn't a promising start. On our very first review, we found an image
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: You need to identify the passphrase and use it to extract the hidden file.
-   Can you think of any tools to find the passphrase within a file?
-```
+> 💡 Hint: You need to identify the passphrase and use it to extract the hidden file. Can you think of any tools to find the passphrase within a file?
 
 </details>
 

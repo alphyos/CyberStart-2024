@@ -8,10 +8,7 @@ Well, one thing is for sure, the Yakoottees' scripting language of choice is Pyt
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Did you run the python file without knowing what it does? Oops.
-   Maybe just take a look at the source code first.
-```
+> 💡 Hint: Did you run the python file without knowing what it does? Oops. Maybe just take a look at the source code first.
 
 </details>
 

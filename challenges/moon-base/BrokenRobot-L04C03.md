@@ -14,17 +14,13 @@ Good luck agent!
 
 Tip: Navigate the robot back to base to get the flag.
 
-```
-💡 Hint: First you need to import the module with 'import robot'.
-
-   Next you need to call the movement functions within the robot library.
-
-   We did this with other libraries before. Remember the 're' library from regular expressions?
-
-   The format is: libraryname.functionname()
-
-
-```
+> 💡 Hint: First you need to import the module with 'import robot'.
+>
+> Next you need to call the movement functions within the robot library.
+>
+> We did this with other libraries before. Remember the 're' library from regular expressions?
+>
+> The format is: libraryname.functionname()
 
 ## Answer
 
@@ -32,8 +28,8 @@ Tip: Navigate the robot back to base to get the flag.
 import robot
 
 for i in range(4):
-	robot.down()
+  robot.down()
 for i in range(7):
-	robot.right()
+  robot.right()
 robot.up()
 ```

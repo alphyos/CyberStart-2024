@@ -8,9 +8,7 @@ One of the graphic designers also works as a photographer and usually posts his 
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Look for a number base that doesn't belong.
-```
+> 💡 Hint: Look for a number base that doesn't belong.
 
 </details>
 

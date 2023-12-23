@@ -8,9 +8,7 @@ The team in New York have been reviewing some of the design work created by the 
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: What properties of the image could have been changed to reduce the visibility of a hidden message?
-```
+> 💡 Hint: What properties of the image could have been changed to reduce the visibility of a hidden message?
 
 </details>
 

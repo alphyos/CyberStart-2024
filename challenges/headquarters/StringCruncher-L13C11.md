@@ -8,11 +8,7 @@ We've discovered a web page used by the gang which seems to just generate some s
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Use a Base64 decoder (https://www.base64decode.org/),
-   an XOR Calculator (https://xor.pw/#),
-   and ASCII Code Converter (https://www.rapidtables.com/convert/number/hex-to-ascii.html).
-```
+> 💡 Hint: Use a [Base64 decoder](https://www.base64decode.org/), an [XOR Calculator](https://xor.pw/#), and [ASCII Code Converter](https://www.rapidtables.com/convert/number/hex-to-ascii.html).
 
 </details>
 

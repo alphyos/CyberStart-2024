@@ -10,9 +10,7 @@ Tip: Extract the file to the /tmp directory to get the flag.
 
 **Tip:** Extract the file to the /tmp directory to get the flag.
 
-```
-💡 Hint: Trying all the items in an array sounds like a job for a for loop!
-```
+> 💡 Hint: Trying all the items in an array sounds like a job for a for loop!
 
 ## Answer
 
@@ -53,10 +51,10 @@ possiblePasswordList = [
 
 with ZipFile('/tmp/alien-sample-42.zip') as zf:
   for password in possiblePasswordList:
-    try:
-      zf.extractall(pwd=bytes(password,'utf-8'), path='/tmp')
-      print(f"password found: {password}")
-      break
-    except:
-      print("wrong password")
+  try:
+  zf.extractall(pwd=bytes(password,'utf-8'), path='/tmp')
+  print(f"password found: {password}")
+  break
+  except:
+  print("wrong password")
 ```

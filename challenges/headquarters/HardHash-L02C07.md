@@ -8,9 +8,7 @@ Agent D from our cryptography department has just sent me this **hash** she in
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Try searching for the hash in Google, the original text for this hash might be listed online somewhere!
-```
+> 💡 Hint: Try searching for the hash in Google, the original text for this hash might be listed online somewhere!
 
 </details>
 

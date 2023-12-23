@@ -5,9 +5,7 @@ Write a script which can connect to the server localhost:10000 over TCP, and sen
 
 **Tip:** Download, decompress and print the string to get the flag.
 
-```
-💡 Hint: The string is compressed with gzip. Perhaps there's a module available that can decompress it?
-```
+> 💡 Hint: The string is compressed with gzip. Perhaps there's a module available that can decompress it?
 
 ## Answer
 
@@ -32,10 +30,10 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
   data = s.recv(1024)
   
   with open('/tmp/test.gzip', 'wb') as file:
-    file.write(data)
+  file.write(data)
   
   with gzip.open('/tmp/test.gzip', 'rb') as f:
-    file_content = f.read()
-    
+  file_content = f.read()
+  
   print(file_content)
 ```

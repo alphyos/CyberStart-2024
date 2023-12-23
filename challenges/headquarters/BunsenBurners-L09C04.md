@@ -10,11 +10,7 @@ We've created an account for you and made a test forum page called "Hack Trick".
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: The technique you need to use is called Cross Site Scripting (XSS),
-   and involves finding a way to run some JavaScript code on the computer of any user who views the page.
-   Think about how you would do it if you were building the website yourself?
-```
+> 💡 Hint: The technique you need to use is called Cross Site Scripting (XSS), and involves finding a way to run some JavaScript code on the computer of any user who views the page. Think about how you would do it if you were building the website yourself?
 
 </details>
 

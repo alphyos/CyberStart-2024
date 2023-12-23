@@ -8,10 +8,7 @@ One of the Yakoottees, Haruka, recently created a site where she posts photos of
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Try using a semi-colon in the comment box, followed by the code you want to run.
-   So, perhaps try ;ls first to get a list of files.
-```
+> 💡 Hint: Try using a semi-colon in the comment box, followed by the code you want to run. So, perhaps try ;ls first to get a list of files.
 
 </details>
 

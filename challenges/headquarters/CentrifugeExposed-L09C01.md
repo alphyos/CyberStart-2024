@@ -12,10 +12,7 @@ We've just had a bit of good news. When making an update to the site Alexei made
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: This code we recovered is looking for a cookie with a certain name and value.
-   Find out what it is and create it, then refresh the page.
-```
+> 💡 Hint: This code we recovered is looking for a cookie with a certain name and value. Find out what it is and create it, then refresh the page.
 
 </details>
 

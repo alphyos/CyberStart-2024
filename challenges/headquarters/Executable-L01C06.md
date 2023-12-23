@@ -8,10 +8,7 @@ Agent 707, quick question for you. One of the team sent me a screenshot of her f
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: If there are any file extensions you don't recognize why not try
-   googling them to see whether they are executables.
-```
+> 💡 Hint: If there are any file extensions you don't recognize why not try googling them to see whether they are executables.
 
 </details>
 

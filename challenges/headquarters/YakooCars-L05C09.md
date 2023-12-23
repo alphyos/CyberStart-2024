@@ -12,10 +12,7 @@ We think only the boss Yaka Matsu should have access. Take a look and see if you
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: If the page is saying a cookie user is expected, maybe you need to create one for the boss Yaka Matsu?
-   Oh, and don't forget that the cookie name "user" will probably need to be all lower case.
-```
+> 💡 Hint: If the page is saying a cookie user is expected, maybe you need to create one for the boss Yaka Matsu? Oh, and don't forget that the cookie name "user" will probably need to be all lower case.
 
 </details>
 

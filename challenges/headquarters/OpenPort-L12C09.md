@@ -10,10 +10,7 @@ We believe they've set up a port running on an IP address that we've pointed ser
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: You'll want to use nmap for this. Make sure you specify the port range. If it's not coming up,
-   remember there are two types of ports. A normal nmap scan will only check for one type of port by default.
-```
+> 💡 Hint: You'll want to use nmap for this. Make sure you specify the port range. If it's not coming up, remember there are two types of ports. A normal nmap scan will only check for one type of port by default.
 
 </details>
 

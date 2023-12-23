@@ -12,10 +12,7 @@ To help narrow our investigative efforts, we need to know which gang member is b
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Think about the traits of a spammer - they typically send a huge volume of emails.
-   Is there a user who appears to send way more emails than other legitimate users?
-```
+> 💡 Hint: Think about the traits of a spammer - they typically send a huge volume of emails. Is there a user who appears to send way more emails than other legitimate users?
 
 </details>
 

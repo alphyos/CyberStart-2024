@@ -8,10 +8,7 @@ We have an undercover agent in one of the Slootmaekers bike shops, posing as a b
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Simply replace whatever each letter in the message is with whatever letter the key tells you to change.
-   For example, if the key shows A = S, change all A's in the messages to S's.
-```
+> 💡 Hint: Simply replace whatever each letter in the message is with whatever letter the key tells you to change. For example, if the key shows A = S, change all A's in the messages to S's.
 
 </details>
 

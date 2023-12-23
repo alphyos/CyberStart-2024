@@ -10,10 +10,7 @@ Take a look at the site and the images. You can download the images, they're in 
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Take a look at the images in a hex editor and you'll find the file header information is missing.
-   See if you can recover it.
-```
+> 💡 Hint: Take a look at the images in a hex editor and you'll find the file header information is missing. See if you can recover it.
 
 </details>
 

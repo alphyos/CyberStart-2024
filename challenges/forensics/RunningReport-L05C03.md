@@ -8,9 +8,7 @@ Ok agent, it's time to start putting together a draft of the report we'll send o
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: What would an attacker need to do before attacking a machine?
-```
+> 💡 Hint: What would an attacker need to do before attacking a machine?
 
 </details>
 

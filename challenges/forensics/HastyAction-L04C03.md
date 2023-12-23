@@ -10,9 +10,7 @@ Ok Agent 707, slight change of plan with our investigation! Our team in Africa d
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Look at the recent documents folder on the user profile. Are there any suspicious looking files?
-```
+> 💡 Hint: Look at the recent documents folder on the user profile. Are there any suspicious looking files?
 
 </details>
 

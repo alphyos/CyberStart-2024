@@ -10,10 +10,7 @@ Fortunately we've been able to recover some source code for it. Take a look at t
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Looking at the source code, what does eval() do? What are the requirements for getting the flag,
-   can you make the if statement true without knowing the value of firstNum?
-```
+> 💡 Hint: Looking at the source code, what does eval() do? What are the requirements for getting the flag, can you make the if statement true without knowing the value of firstNum?
 
 </details>
 
@@ -27,17 +24,17 @@ Fortunately we've been able to recover some source code for it. Take a look at t
 clientsock.send("Welcome to Maths_Server 1.0\n")
 
 try:
-    clientsock.send("Enter the first number, so I can EVALuate it:\n")
-    firstNum = eval(clientsock.recv(1024))
-    firstNum = firstNum + firstNum + ord(flag[4]) + ord(flag[8]) + ord(flag[5])
-    clientsock.send("Enter the second number, so I can EVALuate it:\n")
-    secondNum = eval(clientsock.recv(1024))
-    if secondNum == firstNum:
-        clientsock.send("The flag is: " + flag + "\n")
-        firstNum = 0
-        secondNum = 0
+  clientsock.send("Enter the first number, so I can EVALuate it:\n")
+  firstNum = eval(clientsock.recv(1024))
+  firstNum = firstNum + firstNum + ord(flag[4]) + ord(flag[8]) + ord(flag[5])
+  clientsock.send("Enter the second number, so I can EVALuate it:\n")
+  secondNum = eval(clientsock.recv(1024))
+  if secondNum == firstNum:
+    clientsock.send("The flag is: " + flag + "\n")
+    firstNum = 0
+    secondNum = 0
 except:
-    pass
+  pass
 
 clientsock.close()
 ```

@@ -2,10 +2,7 @@
 
 Are you any good at **math** Agent 707? Well, computers certainly are, and you can use programming to do all kinds of clever things. Let's start you off with the basics, using programming to do some **simple calculations.**
 
-```
-💡 Hint: Make sure you read the challenge carefully and print the challenge results.
-   Doing the wrong calculation will obviously give you the wrong answer.
-```
+> 💡 Hint: Make sure you read the challenge carefully and print the challenge results. Doing the wrong calculation will obviously give you the wrong answer.
 
 ## Answer
 
@@ -26,14 +23,14 @@ ch4 = 33 / 6
 ch5 = 2 ** 6
 
 # CHALLENGE 6: Save 0.33 to a variable called ch6_1, and save 5 to a
-#              variable called ch6_2. Multiply ch6_1 with ch6_2 and save
-#              the result to a variable called ch6.
+#      variable called ch6_2. Multiply ch6_1 with ch6_2 and save
+#      the result to a variable called ch6.
 ch6_1 = 0.33
 ch6_2 = 5
 ch6 = ch6_1 * ch6_2
 
 # CHALLENGE 7: Print out the following variables in order:
-#              ch1, ch2, ch3, ch4, ch5, ch6
+#      ch1, ch2, ch3, ch4, ch5, ch6
 print(ch1)
 print(ch2)
 print(ch3)

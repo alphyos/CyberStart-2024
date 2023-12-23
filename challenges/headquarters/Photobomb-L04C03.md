@@ -8,10 +8,7 @@ Our team has been monitoring The Choppers' web traffic and it seems they've been
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Perhaps try opening the image in a text editor or using your local terminal to look for strings in the file.
-   If there's a secret message in there, those will be great ways to find it.
-```
+> 💡 Hint: Perhaps try opening the image in a text editor or using your local terminal to look for strings in the file. If there's a secret message in there, those will be great ways to find it.
 
 </details>
 

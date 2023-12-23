@@ -8,9 +8,7 @@ Agent 707, we think we might have a way to log into a social media account of on
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Look at the username, does that give you any hint at what year he might have been born?
-```
+> 💡 Hint: Look at the username, does that give you any hint at what year he might have been born?
 
 </details>
 

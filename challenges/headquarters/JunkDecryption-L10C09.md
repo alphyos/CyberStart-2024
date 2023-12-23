@@ -10,10 +10,7 @@ Here's what we have: a decryption program which takes a string as an argument, b
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: The decryption program only takes in the string as an argument. What could the picture mean,
-   and can you think of a way to use it without passing it as an argument to the program?
-```
+> 💡 Hint: The decryption program only takes in the string as an argument. What could the picture mean, and can you think of a way to use it without passing it as an argument to the program?
 
 </details>
 
@@ -24,9 +21,9 @@ Here's what we have: a decryption program which takes a string as an argument, b
 - On your Linux terminal, download the files provided and run the following commands
   - `sudo chmod +x executablefilename`
   - `sudo sudo timedatectl set-time 2015-08-20`
-    - This is because the provided calendar picture is of the date `August 20th, 2015`
+  - This is because the provided calendar picture is of the date `August 20th, 2015`
   - `./executablefilename NXIS24@ul{}mzVKV`
-    - Replace the last item with whatever your included string is in the challenge
+  - Replace the last item with whatever your included string is in the challenge
 - The flag should appear
 
 `flag: HadouKEN[^_^]`

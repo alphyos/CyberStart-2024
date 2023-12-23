@@ -8,9 +8,7 @@ When our team gained access to the photographer's photos we found a folder with 
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Some tools in Linux can show if a string of data has been added to a file.
-```
+> 💡 Hint: Some tools in Linux can show if a string of data has been added to a file.
 
 </details>
 

@@ -8,9 +8,7 @@ Quick job for you Agent 707. We think the gang have a port running between 14000
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: You'll want to use nmap for this. Make sure you specify the port range!
-```
+> 💡 Hint: You'll want to use nmap for this. Make sure you specify the port range!
 
 </details>
 

@@ -13,11 +13,7 @@ These are the details you'll need:
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Older versions of Linux kept hashed passwords in a file that every user account could access.
-   You can print the contents of a file to the screen using the cat tool.
-   Type $ man cat in the terminal to find out more.
-```
+> 💡 Hint: Older versions of Linux kept hashed passwords in a file that every user account could access. You can print the contents of a file to the screen using the cat tool. Type $ man cat in the terminal to find out more.
 
 </details>
 

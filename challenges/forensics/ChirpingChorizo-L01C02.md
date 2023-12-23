@@ -8,9 +8,7 @@ As soon as our agents knew which of the employees might be suspects in the case 
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Try opening the file in a media player. Do they mention any codes or numbers in the call?
-```
+> 💡 Hint: Try opening the file in a media player. Do they mention any codes or numbers in the call?
 
 </details>
 

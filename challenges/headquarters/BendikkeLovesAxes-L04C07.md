@@ -10,10 +10,7 @@ See if you can find the login page on the blog and use some of the techniques yo
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: It looks like she may have left herself a password hint in the source code and, luckily for us, the hint she
-   mentions is all about what she writes on the blog.
-```
+> 💡 Hint: It looks like she may have left herself a password hint in the source code and, luckily for us, the hint she mentions is all about what she writes on the blog.
 
 </details>
 

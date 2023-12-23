@@ -8,9 +8,7 @@ Tip: Good LUKS
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Googling "LUKS vulnerability" may prove to be useful.
-```
+> 💡 Hint: Googling "LUKS vulnerability" may prove to be useful.
 
 </details>
 

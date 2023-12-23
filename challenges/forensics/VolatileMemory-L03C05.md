@@ -8,9 +8,7 @@ When our team in New York came across a couple of PC's they thought might have b
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: After identifying the correct profile use Volatility to identify the process lists to see the flag.
-```
+> 💡 Hint: After identifying the correct profile use Volatility to identify the process lists to see the flag.
 
 </details>
 

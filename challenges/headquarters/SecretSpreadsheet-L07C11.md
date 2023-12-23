@@ -10,9 +10,7 @@ If you visit the page where it exists the ciphered password is there but it chan
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: The script needs to look at the page, grab the password, reverse it and then feed it back to log in.
-```
+> 💡 Hint: The script needs to look at the page, grab the password, reverse it and then feed it back to log in.
 
 </details>
 

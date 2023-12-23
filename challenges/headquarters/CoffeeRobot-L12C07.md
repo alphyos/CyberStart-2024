@@ -10,9 +10,7 @@ The problem is, we don't know which server he's keeping the plans on. All we do 
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: You might need to look for hidden files to find what you're looking for.
-```
+> 💡 Hint: You might need to look for hidden files to find what you're looking for.
 
 </details>
 

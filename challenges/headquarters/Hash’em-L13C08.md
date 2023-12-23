@@ -8,10 +8,7 @@ Agent 707, we've managed to get physical access to a router the gang are using o
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Some previous command injection bypasses still work and
-   information on "shadowing" can be found here: https://erev0s.com/blog/cracking-etcshadow-john/
-```
+> 💡 Hint: Some previous command injection bypasses still work and information on "shadowing" can be found [here](https://erev0s.com/blog/cracking-etcshadow-john/)
 
 </details>
 

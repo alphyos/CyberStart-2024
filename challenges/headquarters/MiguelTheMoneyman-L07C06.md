@@ -12,10 +12,7 @@ Create a web server with the terminal using Python, then finish off the email we
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: You need to find out the command to set up a web server with Python from the command line.
-   When you do it correctly you'll get an IP address to add to the email.
-```
+> 💡 Hint: You need to find out the command to set up a web server with Python from the command line. When you do it correctly you'll get an IP address to add to the email.
 
 </details>
 

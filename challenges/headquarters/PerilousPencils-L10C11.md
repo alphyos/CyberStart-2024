@@ -12,9 +12,7 @@ Have a look at this page in particular which the gang member was looking at. Any
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Consider looking at the images in a hex editor or with a binary extracting tool.
-```
+> 💡 Hint: Consider looking at the images in a hex editor or with a binary extracting tool.
 
 </details>
 
@@ -33,9 +31,9 @@ Have a look at this page in particular which the gang member was looking at. Any
 - Running `strings image` on images 2 and 3 will reveal the password segments towards the top of strings
   - Combined password is `Vidanya_Das`
   - Extract the zip data to reveal an executable file
-    - Run `sudo chmod +x executable`
-    - Run `./executable`
-    - When prompted for the password, type `Vidanya_Das`
+  - Run `sudo chmod +x executable`
+  - Run `./executable`
+  - When prompted for the password, type `Vidanya_Das`
 - After some time, the flag should appear
 
 `flag: f1bVHxhlqR1pSkfAeao`

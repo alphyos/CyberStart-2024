@@ -10,11 +10,7 @@ We have logged in as a random test user that we created and have gone to an old 
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Can you find an ID for the logged-in user?
-   You’ll need to cycle through all the possible values and check which account you’re logged in as,
-   to try to find Darren’s account (thedazman). It’s possible to automate this with CURL or Python.
-```
+> 💡 Hint: Can you find an ID for the logged-in user? You’ll need to cycle through all the possible values and check which account you’re logged in as, to try to find Darren’s account (thedazman). It’s possible to automate this with CURL or Python.
 
 </details>
 

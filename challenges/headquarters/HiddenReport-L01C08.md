@@ -10,10 +10,7 @@ Have a look at our account page on the site, it allows you to **generate a repo
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Try creating your report first. Is there anything about the URL you could potentially
-   change to see other users reports?
-```
+> 💡 Hint: Try creating your report first. Is there anything about the URL you could potentially change to see other users reports?
 
 </details>
 

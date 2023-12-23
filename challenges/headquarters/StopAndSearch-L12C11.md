@@ -14,10 +14,7 @@ Once this flaw has been fixed we are confident that the trojan robot the gang ha
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: This page is filtered to prevent normal XSS but you should be able to hex encode the payload.
-   Don't forget to browser encode it too!
-```
+> 💡 Hint: This page is filtered to prevent normal XSS but you should be able to hex encode the payload. Don't forget to browser encode it too!
 
 </details>
 

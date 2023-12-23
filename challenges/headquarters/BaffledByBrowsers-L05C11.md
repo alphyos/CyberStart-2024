@@ -10,11 +10,7 @@ Our field agent, who is working for the Yakoottees undercover, thinks it might b
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Do you know much about browser agents? Each browser sends a user agent to each web page it visits.
-   This user agent tells the website which browser you are using. If you can figure out how to change it,
-   you might be able to make the page think you're using the browser that the Yakoottees use.
-```
+> 💡 Hint: Do you know much about browser agents? Each browser sends a user agent to each web page it visits. This user agent tells the website which browser you are using. If you can figure out how to change it, you might be able to make the page think you're using the browser that the Yakoottees use.
 
 </details>
 

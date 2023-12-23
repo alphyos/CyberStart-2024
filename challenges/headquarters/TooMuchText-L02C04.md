@@ -8,10 +8,7 @@ Ok, this is really weird, one of the gang just emailed every other gang member a
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: It's a lot of text, but have you tried just searching it for the words "secret" or "code" -
-   sometimes the simplest things work!
-```
+> 💡 Hint: It's a lot of text, but have you tried just searching it for the words "secret" or "code" - sometimes the simplest things work!
 
 </details>
 

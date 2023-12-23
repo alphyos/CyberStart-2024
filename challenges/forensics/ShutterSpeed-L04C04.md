@@ -8,9 +8,7 @@ We have a quick and urgent job for you, Agent 707. One of our team in the field 
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Did you know steghide has an extract feature?
-```
+> 💡 Hint: Did you know steghide has an extract feature?
 
 </details>
 

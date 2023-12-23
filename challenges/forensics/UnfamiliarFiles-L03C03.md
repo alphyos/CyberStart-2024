@@ -8,9 +8,7 @@ Here's a strange one for you, agent. Our team was able to recover a hard drive o
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Did you know Linux has a built-in file identification command called 'File'?
-```
+> 💡 Hint: Did you know Linux has a built-in file identification command called 'File'?
 
 </details>
 

@@ -10,9 +10,7 @@ We've received an anonymous tip from one disgruntled gang member about two web p
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: You'll need to automate this to be fast enough. You can use CURL to send cookie values.
-```
+> 💡 Hint: You'll need to automate this to be fast enough. You can use CURL to send cookie values.
 
 </details>
 

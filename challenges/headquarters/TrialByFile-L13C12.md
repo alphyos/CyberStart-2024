@@ -8,10 +8,7 @@ Agent 707, we've got what we think might be your toughest test yet. We've interc
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: The program has code to prevent it from being debugged. Can you find a bypass?
-   Reverse engineering the binary could also be a good start
-```
+> 💡 Hint: The program has code to prevent it from being debugged. Can you find a bypass? Reverse engineering the binary could also be a good start
 
 </details>
 
@@ -30,7 +27,7 @@ Agent 707, we've got what we think might be your toughest test yet. We've interc
 
 ```c
 long ptrace(int request, int pid, void addr, voiddata) {
-    return 0;
+  return 0;
 }
 ```
 

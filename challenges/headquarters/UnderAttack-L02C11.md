@@ -8,9 +8,7 @@ It looks like part of the heist is underway, they're trying to hack the Amsterda
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: The password setting is a little weak isn't it? Try changing a setting to make it more secure.
-```
+> 💡 Hint: The password setting is a little weak isn't it? Try changing a setting to make it more secure.
 
 </details>
 

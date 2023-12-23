@@ -8,10 +8,7 @@ Remember the QR code that the Yakoottees printed on a T-shirt? You might have be
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: You need to decipher each frame individually to get the combined code.
-   Try searching for an online tool that will let you split the gif apart into different images.
-```
+> 💡 Hint: You need to decipher each frame individually to get the combined code. Try searching for an online tool that will let you split the gif apart into different images.
 
 </details>
 

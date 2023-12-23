@@ -12,9 +12,7 @@ You only get one chance per day to complete this timed challenge. Reload the pag
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Another agent just mentioned Base64. Try that?
-```
+> 💡 Hint: Another agent just mentioned Base64. Try that?
 
 </details>
 

@@ -8,12 +8,7 @@ As part of our work helping the New York branch, we took on the task of monitori
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Have you tried using a tool called 'Wireshark'?
-   It has a follow stream option which can be helpful in identifying traffic.
-   There's also an option to find specific packets.
-   Perhaps try searching for the string "flag" and see would you find.
-```
+> 💡 Hint: Have you tried using a tool called 'Wireshark'? It has a follow stream option which can be helpful in identifying traffic. There's also an option to find specific packets. Perhaps try searching for the string "flag" and see would you find.
 
 </details>
 

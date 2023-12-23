@@ -4,14 +4,11 @@ The team on Earth are getting a little concerned, they want to know which countr
 
 **Tip:** Generate the valid xml file with Panama as the third country to get the flag.
 
-```
-💡 Hint: Remember, each element has to have a name attribute and the third element has to be Panama.
-
-   It should look like this:
-   >
-
-       <country name="Panama">Panama</country>
-```
+> 💡 Hint: Remember, each element has to have a name attribute and the third element has to be Panama.
+>
+> It should look like this: >
+>
+>   <country name="Panama">Panama</country>
 
 ## Answer
 

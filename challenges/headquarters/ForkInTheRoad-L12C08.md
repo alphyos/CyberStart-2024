@@ -10,10 +10,7 @@ Here's one example we want your help with specifically. Remember the encryption 
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Have a search on how to execute a fork bomb. Once you have the command,
-   you should know several methods by now on how to execute a command on the target.
-```
+> 💡 Hint: Have a search on how to execute a fork bomb. Once you have the command, you should know several methods by now on how to execute a command on the target.
 
 </details>
 

@@ -10,10 +10,7 @@ We think we might have a way in. The bottling plant has a website and there is a
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: What other characters can be used instead of semi-colons to perform a command injection? Think about pipes.
-   Oh, and we now know the file you need to find is called "cola_recipe.txt".
-```
+> 💡 Hint: What other characters can be used instead of semi-colons to perform a command injection? Think about pipes. Oh, and we now know the file you need to find is called "cola_recipe.txt".
 
 </details>
 

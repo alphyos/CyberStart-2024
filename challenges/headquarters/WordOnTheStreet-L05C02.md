@@ -8,9 +8,7 @@ We've been monitoring the Yakoottees for a while now, ever since we first came a
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Is it actually a zip file? Have you tried changing the extension?
-```
+> 💡 Hint: Is it actually a zip file? Have you tried changing the extension?
 
 </details>
 

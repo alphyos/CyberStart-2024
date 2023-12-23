@@ -8,10 +8,7 @@ Agent 707, thanks to your efforts in finding the gang member leading the effort 
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: This program suffers from a buffer overflow vulnerability.
-   You should know by now what causes a buffer overflow so you'll have to fix it.
-```
+> 💡 Hint: This program suffers from a buffer overflow vulnerability. You should know by now what causes a buffer overflow so you'll have to fix it.
 
 </details>
 
@@ -30,10 +27,10 @@ int main()
 
   strcpy(command, pictures);
   if (strcmp(command, "take_pictures") == 0) {
-    printf("%s\n", "CLICK_PHOTO_TAKEN");
-    take_photo = 1;
+  printf("%s\n", "CLICK_PHOTO_TAKEN");
+  take_photo = 1;
   } else {
-    printf("%s\n", "SEG_FAULT_NO_PHOTO");
+  printf("%s\n", "SEG_FAULT_NO_PHOTO");
   }
   return 0;
 }

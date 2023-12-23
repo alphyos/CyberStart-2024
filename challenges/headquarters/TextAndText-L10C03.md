@@ -12,9 +12,7 @@ Well, this morning we intercepted an email between the two expecting to see the 
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Investigate a way to identify changes between two files.
-```
+> 💡 Hint: Investigate a way to identify changes between two files.
 
 </details>
 

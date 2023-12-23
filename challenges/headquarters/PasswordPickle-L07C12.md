@@ -8,12 +8,7 @@ Hmm, these Chiquitoos are clever. We've intercepted a program that takes a passw
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: It seems the password is time sensitive; you must enter it under a certain time limit or
-   else the program will not allow you in.
-   Try to find a command that will output whatever you type back to you.
-   Then see what happens when you pipe that command into the program.
-```
+> 💡 Hint: It seems the password is time sensitive; you must enter it under a certain time limit or else the program will not allow you in. Try to find a command that will output whatever you type back to you. Then see what happens when you pipe that command into the program.
 
 </details>
 

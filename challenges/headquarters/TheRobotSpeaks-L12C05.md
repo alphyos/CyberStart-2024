@@ -10,9 +10,7 @@ We think the LCD display might be used as a way to display secret messages and a
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: You'll want to check that all the assembly instructions are valid instructions.
-```
+> 💡 Hint: You'll want to check that all the assembly instructions are valid instructions.
 
 </details>
 
@@ -29,24 +27,24 @@ SnipLen: equ $-Snippet
 section .text
 global _start
 _start:
-        nop
-        mov ecx,Snippet
-        mov edx,SnipLen
-        mov eax,6
+    nop
+    mov ecx,Snippet
+    mov edx,SnipLen
+    mov eax,6
 DoMore: add byte [ecx],al
-        inc ecx
-        inc eax
-        dec edx
-        jnz DoMore
-        mov eax,4
-        mov ebx,1
-        sub ecx,SnipLen
-        mov edx,SnipLen
-        int 80H
-        mov eax,1
-        mov ebx,0
-        int 80H
-        nop
+    inc ecx
+    inc eax
+    dec edx
+    jnz DoMore
+    mov eax,4
+    mov ebx,1
+    sub ecx,SnipLen
+    mov edx,SnipLen
+    int 80H
+    mov eax,1
+    mov ebx,0
+    int 80H
+    nop
 ```
 
 `flag: zrh8v8kmBVNL8zE8EUUV`

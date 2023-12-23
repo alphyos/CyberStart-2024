@@ -8,11 +8,7 @@ Quick task for you Agent 707, one of the gang, Lars De Vries, has written a post
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: The broken image seems to be missing a file extension.
-   Try adding some common image file extensions and see if you can get it to show.
-   Your browser has "Dev Tools" and an "Element Inspector", within it, that can help with this.
-```
+> 💡 Hint: The broken image seems to be missing a file extension. Try adding some common image file extensions and see if you can get it to show. Your browser has "Dev Tools" and an "Element Inspector", within it, that can help with this.
 
 </details>
 

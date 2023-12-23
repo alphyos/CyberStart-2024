@@ -8,10 +8,7 @@ Here's a weird one Agent 707, there's now a **link** on the Slootmaekers login
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: How about looking at the source code of the site to see where the link is meant to be pointing to?
-   You could then copy and paste it into the browser window URL field.
-```
+> 💡 Hint: How about looking at the source code of the site to see where the link is meant to be pointing to? You could then copy and paste it into the browser window URL field.
 
 </details>
 

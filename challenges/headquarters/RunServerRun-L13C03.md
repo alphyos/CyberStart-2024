@@ -8,9 +8,7 @@ Quick task for you, we've obtained details of another TCP server the gang are us
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Think about how to output data from one command to create a new file with data.
-```
+> 💡 Hint: Think about how to output data from one command to create a new file with data.
 
 </details>
 

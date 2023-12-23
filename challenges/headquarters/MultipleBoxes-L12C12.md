@@ -10,10 +10,7 @@ As we know it's vulnerable we want to look at other ways to find the gang's file
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Looks like this web server is setup to filter out common directory traversal attempts.
-   Could you use some character encoding to bypass the filter? CAPEC 79
-```
+> 💡 Hint: Looks like this web server is setup to filter out common directory traversal attempts. Could you use some character encoding to bypass the filter? CAPEC 79
 
 </details>
 

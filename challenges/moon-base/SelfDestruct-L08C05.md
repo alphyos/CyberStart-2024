@@ -6,13 +6,11 @@ You need to write a script which makes HTTP requests to the server http://127.0.
 
 **Tip:** Make the numbers match and read the response, that's the flag!
 
-```
-💡 Hint: First make the connection and view the HTML response.
-
-   Is there something you could match against so that you know it has failed?
-
-   Match against it, and as soon as that string doesn't appear in the response, print out the HTML.
-```
+> 💡 Hint: First make the connection and view the HTML response.
+>
+> Is there something you could match against so that you know it has failed?
+>
+> Match against it, and as soon as that string doesn't appear in the response, print out the HTML.
 
 ## Answer
 
@@ -38,6 +36,6 @@ while yes:
   list = resp.split("\n")
 
   if list[21] == list[24]:
-    print(resp)
-    yes = False
+  print(resp)
+  yes = False
 ```

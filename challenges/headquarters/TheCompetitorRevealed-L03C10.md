@@ -10,12 +10,7 @@ We know it uses a letter **Substitution Cipher** and luckily we have some **F
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Keep trying different letters until you have a word that makes sense.
-   A common approach with Frequency Analysis is to try two and three letter words first -
-   they are likely to be words such as: is, and, the, are. Once you have those and
-   some letters unraveled, things might start to become clearer.
-```
+> 💡 Hint: Keep trying different letters until you have a word that makes sense. A common approach with Frequency Analysis is to try two and three letter words first - they are likely to be words such as: is, and, the, are. Once you have those and some letters unraveled, things might start to become clearer.
 
 </details>
 

@@ -17,10 +17,7 @@ Username: [given username] Password: [given password] IP Address: [given ip] Por
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: If the gang uses the terminal to connect to their botnet, they may have typed the password in there.
-   Maybe look in the Linux command history?
-```
+> 💡 Hint: If the gang uses the terminal to connect to their botnet, they may have typed the password in there. Maybe look in the Linux command history?
 
 </details>
 

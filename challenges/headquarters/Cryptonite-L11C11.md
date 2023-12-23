@@ -10,9 +10,7 @@ See if you can use it to get access to the server and look for any files that mi
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Focus more on the -n argument and see if you can take advantage of it.
-```
+> 💡 Hint: Focus more on the -n argument and see if you can take advantage of it.
 
 </details>
 

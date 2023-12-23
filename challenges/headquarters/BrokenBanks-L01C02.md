@@ -8,9 +8,7 @@ Agent 707, it looks like the gang are trying to raise some money to fund their p
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Look carefully at the domain names of the sender's email addresses. Notice anything strange?
-```
+> 💡 Hint: Look carefully at the domain names of the sender's email addresses. Notice anything strange?
 
 </details>
 

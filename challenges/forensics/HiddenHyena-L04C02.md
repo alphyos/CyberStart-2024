@@ -8,9 +8,7 @@ Our team in Kenya decided to take a page out of the hackers playbook and try sen
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Find packet?
-```
+> 💡 Hint: Find packet?
 
 </details>
 

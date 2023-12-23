@@ -8,9 +8,7 @@ Our agent on the ground noticed a USB key discarded outside The Yakoottees' gara
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Are you sure it's a Jpeg?
-```
+> 💡 Hint: Are you sure it's a Jpeg?
 
 </details>
 

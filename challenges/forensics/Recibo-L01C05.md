@@ -8,12 +8,7 @@ Agent 707, we think the employee in question has been using the digital receipts
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Typically a file is hashed when collected as evidence so that if it is
-   tampered with later it is easy to prove that the file has changed.
-   When a file is changed, even by a single byte, the mathematical hashing value also changes,
-   identify this new value and enter as a flag.
-```
+> 💡 Hint: Typically a file is hashed when collected as evidence so that if it is tampered with later it is easy to prove that the file has changed. When a file is changed, even by a single byte, the mathematical hashing value also changes, identify this new value and enter as a flag.
 
 </details>
 

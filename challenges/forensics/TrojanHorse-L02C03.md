@@ -8,10 +8,7 @@ Whilst in the shop the photographer asked to use one of the staffs Windows PC's 
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Have you heard of the 'Windows Registry'? It dictates what software Windows
-   runs at startup for the local machine. Find out where these are stored to solve this challenge.
-```
+> 💡 Hint: Have you heard of the 'Windows Registry'? It dictates what software Windows runs at startup for the local machine. Find out where these are stored to solve this challenge.
 
 </details>
 

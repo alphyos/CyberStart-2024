@@ -10,10 +10,7 @@ We've managed to get hold of an example output page which we think contains a *
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: You can see the color combination results in a set of eight RGB numbers.
-   Have you tried looking those numbers up on an ASCII table?
-```
+> 💡 Hint: You can see the color combination results in a set of eight RGB numbers. Have you tried looking those numbers up on an ASCII table?
 
 </details>
 

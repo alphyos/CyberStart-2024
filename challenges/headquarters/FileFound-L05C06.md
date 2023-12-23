@@ -8,9 +8,7 @@ Whilst monitoring one of the gang, Ryosuke, we came across a file that he posted
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Need help figuring out why the file won't open? Try going to the terminal and typing `$ man file`.
-```
+> 💡 Hint: Need help figuring out why the file won't open? Try going to the terminal and typing `$ man file`.
 
 </details>
 

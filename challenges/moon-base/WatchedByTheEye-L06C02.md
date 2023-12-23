@@ -8,11 +8,7 @@ Test your script by hiding the text "alieneye" in the file.
 
 **Tip:** Hide the text "alieneye" in the file to get the flag.
 
-```
-💡 Hint: This one is easier than it sounds. Don't get thrown off that it's an image file.
-   
-   Treat it like a text file. Remember you want to add text to the end of the file, not overwrite what's already there!
-```
+> 💡 Hint: This one is easier than it sounds. Don't get thrown off that it's an image file.  Treat it like a text file. Remember you want to add text to the end of the file, not overwrite what's already there!
 
 ## Answer
 

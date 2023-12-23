@@ -8,11 +8,7 @@ After we initially spoke to the owner of the small business as part of our team'
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Look for account names logged in around that time that don't appear to be normal.
-   Could the file you're analyzing need to be converted from evtx to xml?
-   Grep can be helpful for searching through logs.
-```
+> 💡 Hint: Look for account names logged in around that time that don't appear to be normal. Could the file you're analyzing need to be converted from evtx to xml? Grep can be helpful for searching through logs.
 
 </details>
 

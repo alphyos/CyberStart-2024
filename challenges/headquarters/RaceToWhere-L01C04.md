@@ -8,9 +8,7 @@ Here's an interesting one for you Agent 707 - on the weekend the gang released w
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Try highlighting the whole page (i.e. select all), does it reveal anything else?
-```
+> 💡 Hint: Try highlighting the whole page (i.e. select all), does it reveal anything else?
 
 </details>
 

@@ -10,10 +10,7 @@ Check out the login page on his site and see if you can break in.
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: What happens when you try to log in with any credentials? Look at the URL;
-   do you see a way of tricking the site into thinking you are logged in?
-```
+> 💡 Hint: What happens when you try to log in with any credentials? Look at the URL; do you see a way of tricking the site into thinking you are logged in?
 
 </details>
 

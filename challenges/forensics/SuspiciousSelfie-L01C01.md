@@ -8,10 +8,7 @@ Our agents have gained access to the employees work phone and downloaded a bunch
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Can you see any text in the photo?
-   Keep in mind that the word 'password' is sometimes shortened to 'pw'.
-```
+> 💡 Hint: Can you see any text in the photo? Keep in mind that the word 'password' is sometimes shortened to 'pw'.
 
 </details>
 

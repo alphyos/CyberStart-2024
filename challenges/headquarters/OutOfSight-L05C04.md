@@ -8,10 +8,7 @@ Well, that's a bit of luck. We've managed to get our hands on some details that 
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: There is a hidden directory on the server, try searching for `$ man ls` on
-   Google to see how to view hidden directories.
-```
+> 💡 Hint: There is a hidden directory on the server, try searching for `$ man ls` on Google to see how to view hidden directories.
 
 </details>
 

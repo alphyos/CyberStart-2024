@@ -8,9 +8,7 @@ We have come across a site, which we believe is run by one of the Chiquitoo gang
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Netcat can be used to listen on a port. Type $ nc -h to see how to run the command.
-```
+> 💡 Hint: Netcat can be used to listen on a port. Type $ nc -h to see how to run the command.
 
 </details>
 

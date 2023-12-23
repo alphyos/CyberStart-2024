@@ -10,10 +10,7 @@ It's not a great site and the security is average at best. Look at the login pag
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: SHA1 hashed passwords are not reversible but a lot of the hashes for commonly used passwords have been put
-   online. Maybe we got lucky and they are using a simple password?
-```
+> 💡 Hint: SHA1 hashed passwords are not reversible but a lot of the hashes for commonly used passwords have been put online. Maybe we got lucky and they are using a simple password?
 
 </details>
 

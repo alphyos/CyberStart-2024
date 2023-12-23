@@ -10,10 +10,7 @@ Luckily for us, we think the site is vulnerable to command injection. See if you
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Hmm, one of the other agents has taken a quick look and he thinks all command injection characters are
-   filtered except for `$(command)`. He also suggested using `ls` to find the file.
-```
+> 💡 Hint: Hmm, one of the other agents has taken a quick look and he thinks all command injection characters are filtered except for `$(command)`. He also suggested using `ls` to find the file.
 
 </details>
 

@@ -10,10 +10,7 @@ There's something odd about this page. The T-shirt for sale doesn't seem to be d
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: It's the QR code! Read it to get the flag. Oh, and if you don't have a QR code reader use zbarimg,
-   type man zbarimg to get started.
-```
+> 💡 Hint: It's the QR code! Read it to get the flag. Oh, and if you don't have a QR code reader use zbarimg, type man zbarimg to get started.
 
 </details>
 

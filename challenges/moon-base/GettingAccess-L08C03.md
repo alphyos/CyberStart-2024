@@ -5,10 +5,7 @@ The page is at http://127.0.0.1:8082/humantechconfig?file=human.conf, write a sc
 
 **Tip:** Get to the root directory and the HTTP response will contain the flag.
 
-```
-💡 Hint: The directory traversal is in the form:
-   127.0.0.1:8082/humantechconfig?file=../human.conf
-```
+> 💡 Hint: The directory traversal is in the form: 127.0.0.1:8082/humantechconfig?file=../human.conf
 
 ## Answer
 

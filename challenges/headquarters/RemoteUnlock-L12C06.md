@@ -10,11 +10,7 @@ They seem to be testing it with a server (which we've pointed services.cyberprot
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Who could possibly answer this question fast enough? Only a computer, probably.
-   You should definitely think about programming this one. It shouldn't be too many lines of code in Python.
-   Look up socket programming in particular.
-```
+> 💡 Hint: Who could possibly answer this question fast enough? Only a computer, probably. You should definitely think about programming this one. It shouldn't be too many lines of code in Python. Look up socket programming in particular.
 
 </details>
 

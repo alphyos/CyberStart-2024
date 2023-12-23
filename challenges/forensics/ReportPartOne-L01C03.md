@@ -8,9 +8,7 @@ One of the things our agents did whilst in the field was to get a **packet capt
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Check out a tool called Wireshark, it can help you follow the 'HTTP stream'.
-```
+> 💡 Hint: Check out a tool called Wireshark, it can help you follow the 'HTTP stream'.
 
 </details>
 

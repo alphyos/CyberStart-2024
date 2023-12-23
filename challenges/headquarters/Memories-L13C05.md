@@ -8,9 +8,7 @@ Agent 707, we've intercepted a file sent between two gang members and it's confu
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: http://www.anonhack.in/2022/03/the-binary-exploitation-stack-based-buffer-overflow/
-```
+> 💡 Hint: [http://www.anonhack.in/2022/03/the-binary-exploitation-stack-based-buffer-overflow/](http://www.anonhack.in/2022/03/the-binary-exploitation-stack-based-buffer-overflow/)
 
 </details>
 

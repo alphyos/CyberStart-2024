@@ -8,9 +8,7 @@ Ok, this is annoying. Our undercover agent has just sent us a file he managed to
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Perhaps use other reverse engineering methods to examine the program.
-```
+> 💡 Hint: Perhaps use other reverse engineering methods to examine the program.
 
 </details>
 

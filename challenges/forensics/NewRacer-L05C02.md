@@ -8,11 +8,7 @@ The plot thickens. It seems someone has indeed compromised the company's servers
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: The SAM registry hive holds the password hashes.
-   Think about which tools can be used to gain hashes from the registry hives,
-   and online tools that can subsequently be used to crack the hashes.
-```
+> 💡 Hint: The SAM registry hive holds the password hashes. Think about which tools can be used to gain hashes from the registry hives, and online tools that can subsequently be used to crack the hashes.
 
 </details>
 

@@ -8,9 +8,7 @@ Well, this is embarrassing. It seems the team over in Paris captured the **runn
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Try `volatility -f <filename>`, but with which plugin?
-```
+> 💡 Hint: Try `volatility -f <filename>`, but with which plugin?
 
 </details>
 

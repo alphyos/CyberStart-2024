@@ -8,9 +8,7 @@ You're now well aware of the Slootmaekers supposedly legit business, the Bike Fa
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Did you see the user= parameter in the URL? Try changing it to something else.
-```
+> 💡 Hint: Did you see the user= parameter in the URL? Try changing it to something else.
 
 </details>
 
