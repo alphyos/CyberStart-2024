@@ -18,8 +18,8 @@ The plot thickens. It seems someone has indeed compromised the company's servers
 
 ## Files
 
-[Hives.zip](/assets/newracer1.zip)
-[words.txt](/assets/newracer2.txt)
+- [Hives.zip](/assets/newracer1.zip)
+- [words.txt](/assets/newracer2.txt)
 
 <details><summary>
 
