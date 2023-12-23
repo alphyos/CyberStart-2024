@@ -28,11 +28,25 @@
 
   - ### [2.3.2 Console]() </details>
 
-## 2.4 Asking For Help
+## 2.4 Manipulating URLs
 
-## 2.5 Security Awareness
+## 2.5 Web requests and HTTP
 
-## 2.6 Using The Virtual Machine
+## 2.6 Command line web requests and curl
+
+## 2.7 Web plug-ins
+
+## 2.8 Cookies and sessions
+
+## 2.9 SQL injection
+
+## 2.10 Command injection
+
+## 2.11 Cross site scripting
+
+## 2.12 Filters in web applications
+
+## 2.13 OSINT and Robots
 
 </details><details><summary>
 
