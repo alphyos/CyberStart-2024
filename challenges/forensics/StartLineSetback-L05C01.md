@@ -17,7 +17,7 @@ Well, that wasn't a promising start. On our very first review, we found an image
 
 ## Files
 
-[runner.jpg](/assets/startlinesetback1.jpg)
+- [runner.jpg](/assets/startlinesetback1.jpg)
 
 <details><summary>
 
