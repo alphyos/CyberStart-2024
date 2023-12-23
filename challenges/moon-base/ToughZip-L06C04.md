@@ -1,4 +1,4 @@
-# 🦹‍♂️ Tough Zip - L06 C05
+# 🦹‍♂️ Tough Zip - L06 C04
 
 So, remember those zip files from the previous level? Well, they're still sending them, thousands in fact, and it looks like they've improved the password protection too.
 
