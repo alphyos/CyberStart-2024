@@ -8,12 +8,35 @@ We've found one post that we believe contains an important **secret**, and we n
 
 **Tip:** The secret is the flag.
 
-```
-💡 Hint: The last word looks like "The" reversed. What happens if we try reversing the whole message?
-```
+**Related Field Manual Entries:** [Mixed Up Messages](../fieldmanual/MixedUpMessages8.1.2.md)
 
-## Step by Step
+<details><summary>
 
-- The message is reversed, putting this into a [reverse text generator](https://www.textfixer.com/tools/reverse-text-generator.php) will produce the flag.
+## Need a hint?</summary>
+
+> 💡 Hint: The last word looks like "The" reversed. What happens if we try reversing the whole message?
+
+</details>
+
+![image of the challenge](/assets/mixedupmessages.png)
+
+<details><summary>
+
+## Step by Step</summary>
+
+- The message is reversed, putting this into a [reverse text generator](https://www.textfixer.com/tools/reverse-text-generator.php) will produce the flag
 - The message is as follows:
     - The time to launch our attack is now! Gather all resources and prepare. Commence plans when I post code word "`time4hackattack`". Good luck!
+
+`flag: time4hackattack`
+</details>
+
+<details><summary>
+
+## Solution Message</summary>
+
+### $${\color{green}\large\sf{Success!}}$$
+### $${\color{green}\sf{Nice work uncovering their secret code word! Now our agents can be ready knowing what signal to look for, and can stop the cyber attack from taking place!}}$$
+### $${\color{green}\sf{You've \ levelled \ up \ in \ these \ skills:}}$$
+### $${\color{green}\sf{>Cryptography}}$$
+### $${\color{green}\sf{>Encryption/Decryption}}$$
