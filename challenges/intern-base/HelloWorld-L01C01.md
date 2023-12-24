@@ -4,16 +4,14 @@ We've found a profile page of a known hacker that we need to get in contact with
 
 **Tip:** The email address is the flag.
 
-**Related Field Manual Entries:** [Hello World](../fieldmanual/HelloWorld8.1.1.md)
+**Related Field Manual Entries:** [Hello World](../fieldmanual/HelloWorld.8.1.1.md)
 
 <details><summary>
 
 ## Need a hint?</summary>
 
-```txt
-💡 Hint: Try highlighting the whole page (using your mouse, or CTRL + A) to find text that might be the same color as the 
-   background.
-```
+> 💡 Hint: Try highlighting the whole page (using your mouse, or CTRL + A) to find text that might be the same color as the background.
+
 </details>
 
 ![image of the challenge](/assets/helloworld.png)
