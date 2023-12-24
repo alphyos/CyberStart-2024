@@ -20,18 +20,38 @@ User-agent: *`
 
 The result is then output to the screen. If we want, we can also save this into a file. For example, if we wanted to save the **cyberstart.com** home page in to a file called **cs.html**, we would execute:
 
-```$ curl https://cyberstart.com > cs.html
+$ curl https://cyberstart.com > cs.html
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-100 39832  100 39832    0     0   303k      0 --:--:-- --:--:-- --:--:--  303k```
+100 39832  100 39832    0     0   303k      0 --:--:-- --:--:-- --:--:--  303k
 
 
 One of the major benefits of `curl` and other command line tools is that they can be scripted in advanced and powerful ways. Below we give an example of brute forcing a user id using curl to send the requests. This is done with a bash loop trying numbers 1 to 100 under variable $i:
 
 `$ for i in {1..100} do curl http://127.0.0.1/demo/login.php?uid=$i done
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-<title>404 Not Found</title>
+!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+html><head>
+title>404 Not Found</title>
 ...`
 
 The $i is replaced with the value of i each time the counter increases, from 1 to 100. In this way we make a request for each potential value and see the output on the screen. This is a simple version of brute forcing (trying lots of values to see if you can guess one that works)!
+
+# wget
+
+This tool has lots of the same benefits of curl but also behaves a little differently:
+
+$ wget https://cyberstart.com
+
+Resolving cyberstart.com (cyberstart.com)... 75.2.264.5
+Connecting to cyberstart.com (cyberstart.com)|75.2.264.5|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 39832 (39K) [text/html]
+Saving to: ‘index.html’
+
+index.html    100%[======================>]  38.90K  --.-KB/s    in 0.03s   
+
+‘index.html’ saved [39832/39832]
+
+By default `wget` will save the file (in this case as the original name - `index.html`), whereas `curl` will output it to screen by default. Both are very powerful and great for getting content from URLs, especially in scripting situations. To find out about the abilities and features of either, be sure to look at the man pages - `man curl` and `man wget`.
+
+>It is worth reading through common examples of `curl` and `wget` beyond parameter manipulation, such as how to send cookies. It is really valuable in more advanced challenges, but can also be useful if you end up on a system with no graphical user interface and need to download a file!
