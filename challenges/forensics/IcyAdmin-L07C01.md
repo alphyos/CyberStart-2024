@@ -21,7 +21,7 @@ Ok agent, first up we need to recover the NTLM hash of the administrator account
 ## Step by Step</summary>
 
 - Download the file and extract
-- You can figure out the profile by using `volatility -f filename image info` and confirming using `volatility -f filename --profile=(profile) kdbgscan`
+- You can figure out the profile by using `volatility -f filename imageinfo` and confirming using `volatility -f filename --profile=(profile) kdbgscan`
 - Run `volatility -f filename --profile=Win81U1x64 hashdump > hash.txt`
 - The administrator hash is as follows:
   - aad3b435b51404eeaad3b435b51404ee:`fc525c9683e8fe067095ba2ddc971889`:::

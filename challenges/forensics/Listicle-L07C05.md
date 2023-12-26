@@ -20,10 +20,18 @@ As part of the final report we're producing for the team, they've asked us to ma
 
 ## Step by Step</summary>
 
-- merry christmas
+- Dowload the file and extract it
+- You can figure out the profile by using `volatility -f filename imageinfo`
+- To get the mimikatz plugin for volatility (version 2.6.1), copy the text from [https://raw.githubusercontent.com/dfirfpi/hotoloti/master/volatility/mimikatz.py](https://raw.githubusercontent.com/dfirfpi/hotoloti/master/volatility/mimikatz.py)
+- Paste it in your editor and save it as `mimikatz.py`
+- Move it into the `/plugins` directory of your volatility install
+- For the VM provided by cyberstart this may be `/opt/volatility/volatility/plugins/`
+- To move the file run `sudo mv mimikatz.py /path/to/volatility/plugins/`
+- Now executing `volatility -f filename --profile=Win7SP0x64 mimikatz` should get you the passord
+- In case of import errors, make sure to install `construct, pycrypto and pycryptodome` via pip
 
-![https://cdn.discordapp.com/attachments/1092605685113552897/1092622250303303731/Screenshot_2023-04-04-02-29-56-447-edit_cn.wps.moffice_eng.jpg?ex=652de3c4&is=651b6ec4&hm=73c5b1c4e96564ee6999f51d01ef77c30d8b1a4ff17d4a161ac85291bf56d83c&](https://cdn.discordapp.com/attachments/1092605685113552897/1092622250303303731/Screenshot_2023-04-04-02-29-56-447-edit_cn.wps.moffice_eng.jpg?ex=652de3c4&is=651b6ec4&hm=73c5b1c4e96564ee6999f51d01ef77c30d8b1a4ff17d4a161ac85291bf56d83c&)
+![image of mimikatz result](/assets/listicle1.jpg)
 
-`flag: `
+`flag: M1m1Katz_0wn1ng`
 
 </details>
