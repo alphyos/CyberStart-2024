@@ -4,13 +4,13 @@
 All typos... are within the source text
 ```
 
-# [Intern Base 🕐](#-intern-base)![ui-base-intern-cover 6b9a82c9](https://github.com/alphyos/CyberStart-2023/assets/116646389/e11384b0-95f1-4aea-92d7-17244e8e8a1e)
+# [Intern Base 🕐](#intern-base--1)![ui-base-intern-cover 6b9a82c9](https://github.com/alphyos/CyberStart-2023/assets/116646389/e11384b0-95f1-4aea-92d7-17244e8e8a1e)
 
-# [Headquarters🚀](#-headquarters)![ui-base-headquarters-cover 4468c3a2](https://github.com/alphyos/CyberStart-2023/assets/116646389/bc6f13b0-0a7b-439e-9d35-3d2bb051beda)
+# [Headquarters🚀](#headquarters-1)![ui-base-headquarters-cover 4468c3a2](https://github.com/alphyos/CyberStart-2023/assets/116646389/bc6f13b0-0a7b-439e-9d35-3d2bb051beda)
 
-# [Moon Base 🌕](#-moon-base)![ui-base-moon-cover 5604e4de](https://github.com/alphyos/CyberStart-2023/assets/116646389/6d5e40ac-237d-4d43-9554-18eea92da5bc)
+# [Moon Base 🌕](#moon-base--1)![ui-base-moon-cover 5604e4de](https://github.com/alphyos/CyberStart-2023/assets/116646389/6d5e40ac-237d-4d43-9554-18eea92da5bc)
 
-# [Forensics 🔎](#-forensics)![ui-base-forensics-cover 6b96895a](https://github.com/alphyos/CyberStart-2023/assets/116646389/72932ee9-ca4e-4415-a9d1-8be1968a1ae0)
+# [Forensics 🔎](#forensics--1)![ui-base-forensics-cover 6b96895a](https://github.com/alphyos/CyberStart-2023/assets/116646389/72932ee9-ca4e-4415-a9d1-8be1968a1ae0)
 
 
 # Intern Base ![ui-game-base-intern-bg-sky-01 d82fbbe7](https://github.com/alphyos/CyberStart-2023/assets/116646389/dfde10d0-8e61-46c1-87b6-55996b5ddcce)
