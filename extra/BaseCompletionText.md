@@ -18,7 +18,7 @@ Get a feel for what it's like to work in cyber security. Experience challenges o
 
 ## Level 1 - Amsterdam - A RUNNING START ![ui-game-base-intern-level-bg-1 e3f23a8b](https://github.com/alphyos/CyberStart-2023/assets/116646389/ba763a90-1d28-40a2-af90-0a26a0aca6da)
 > What a remarkable job, intern! I've received high praise from the Dutch agency's director regarding your skills and effort. Not only did you help clear up the backlog you also saved a fridge full of sandwiches! Keep up the great work!
-
+>
 ![ui-game-intern-level-1 7b08f8f1](https://github.com/alphyos/CyberStart-2023/assets/116646389/2ad1e144-60ed-4fd0-8827-cf6c926f92b2)
 
 ## Level 2 - Tokyo - NEW ENCOUNTERS ![ui-game-base-intern-level-bg-2 b96025df](https://github.com/alphyos/CyberStart-2023/assets/116646389/95b5be2d-fb74-4c95-82a7-245e8bd5eb3b)
@@ -132,6 +132,7 @@ Learn how to write your own scripts and programmes and help a research facility 
 
 ## Level 2 - Moon Base - MASTERCLASS ![ui-game-base-moon-level-bg-2 1f3e171c](https://github.com/alphyos/CyberStart-2023/assets/116646389/494b094f-377c-4e31-b6ed-cb97c12b181f)
 > More excellent work agent, you're setting a very high standard and catching the attention of the other agents. Time to head to the next level to learn about sockets, ASCII, regex and more advanced topics.
+> 
 ![ui-game-moon-level-2 e675b8e1](https://github.com/alphyos/CyberStart-2023/assets/116646389/4f9c5ac2-c7e6-498d-b568-2b19597ba789)
 
 ## Level 3 - Moon Base - GETTING READY ![ui-game-base-moon-level-bg-3 276d112b](https://github.com/alphyos/CyberStart-2023/assets/116646389/3db1362c-0a54-421f-9e9b-1281e9308b15)
@@ -178,7 +179,6 @@ Reconstruct timelines and analyse evidence as a Detective Constable investigatin
 > Good work. With your help, we've managed to build up a strong case against the photographer and warn other local businesses in Paris that he's been involved with. Looks like you need a tougher case to get your teeth into! Head over to the next level.
 >
 ![ui-game-forensics-level-2 1c27ebf0](https://github.com/alphyos/CyberStart-2023/assets/116646389/e3742fa5-f0dd-410c-b287-8d419b0e9891)
-
 
 ## Level 3 - Forensics Case - NEW YORK ![ui-game-base-forensics-level-bg-3 4643600f](https://github.com/alphyos/CyberStart-2023/assets/116646389/b52764bb-7644-4198-9ee9-a8a072ef8201)
 > Great work agent! It turns out the gang was bigger than we thought and up to all sorts of no good. Designers that can hack, who would have thought it!
