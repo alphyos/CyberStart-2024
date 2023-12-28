@@ -4,13 +4,21 @@ Agent 707, there's another quick task I need your help with. One of the agents i
 
 **Tip:** Open the file to get the flag.
 
+<details><summary>
+
+## Need a hint?</summary>
+
 > 💡 Hint: Within most file types there is a header which is a sequence of bytes near the start of the file. It helps act as a signature to identify the type of data contained within the rest of the file. The file header is also sometimes known as the "magic bytes" of a file. Search online for this, or "hex headers" to find out more and try adding those bytes back into the zip file.
+
+</details>
 
 ## Files
 
 - [masterkey-x86](/assets/corruptedcorruption2.zip)
 
-## Step by Step
+<details><summary>
+
+## Step by Step</summary>
 
 - Download the zip file on a Linux System
 - Use a hex editor such as HxD or [hexed.it](https://hexed.it/) to prepend bytes to the start of the zip file
@@ -22,3 +30,5 @@ Agent 707, there's another quick task I need your help with. One of the agents i
 - There is a program in the extracted zip, run `sudo chmod +x filename`
 - Run it using `./filename` in the terminal
 - The flag should show up after some time
+
+</details>
