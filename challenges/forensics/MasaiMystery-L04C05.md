@@ -25,7 +25,7 @@ We've just finished an interview with one of the customers who believed their eq
 - After waiting some time for the ingest to finish, make a keyword search for `flag:` as a substring match
 - There are only two matches, the second one of them is the correct flag
 
-![autopsy view of things](/assets/masaimyster2.jpg)
+![autopsy view of things](/assets/masaimystery2.jpg)
 
 `flag: Gr3p15th3friendyf1nd3r`
 
