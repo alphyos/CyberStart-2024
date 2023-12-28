@@ -14,6 +14,8 @@ Tip: Get the right PIN code to get the flag. All we know at the moment is that i
 >
 > The PIN code was originally 4096. When the code was 4096 the number of times the code was entered in the past was 0. So your solution needs to add the code to the number of times the PIN code was entered, then add 1 to the number of times the code was entered, and repeat that 5521 times to get the correct result.
 
+</details>
+
 <details><summary>
 
 ## Step by Step</summary>
