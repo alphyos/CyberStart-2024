@@ -14,7 +14,9 @@ We think the Chiquitoos have an insider that works on the ships carrying the shi
 
 </details>
 
-## Step By Step
+<details><summary>
+
+## Step by Step</summary>
 
 `.... .. ... / .. ... / --. --- -. --.. .- .-.. . --.. / . -..- .--. .-.. --- .-. .. -. --. / . -. - .-. -.-- / --- .--. - .. --- -. ... / .- -... --- .- .-. -.. / ... .... .. .--. / -.-. .- .-.. .-.. . -.. / . ... -.-. .- -... .- .-. / --- ...- . .-.`
 
