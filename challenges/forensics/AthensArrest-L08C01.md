@@ -33,7 +33,7 @@ We're trying to piece together the communications that have been happening betwe
   - Decode any encoded strings from Base64
 - The following completed report should look like the following
 
-![completed report](athensarrest1.png)
+![completed report](/assets/athensarrest1.png)
 
 `flag: AoDvaBV7Fp89Sa4BQjxK`
 
