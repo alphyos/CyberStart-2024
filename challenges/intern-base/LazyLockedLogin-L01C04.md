@@ -40,7 +40,7 @@ We've found where you can access the homehub settings along with the sign in det
 ## Solution Message</summary>
 
 ### $${\color{green}\large\sf{Success!}}$$
-### $${\color{green}\sf{Well done! By using the document inspector to look through the form’s source code, you managed to find a vulnerability that you could exploit in order to bypass the login; without the need of a technicians laptop!}}$$
+### $${\color{green}\sf{Well \ done! \ By \ using \ the \ document \ inspector \ to \ look \ through \ the \ form’s \ source \ code, \ you \ managed \ to \ find \ a \ vulnerability \ that \ you \ could \ exploit \ in \ order \ to \ bypass \ the \ login; \ without \ the \ need \ of \ a \ technicians \ laptop!}}$$
 ### $${\color{green}\sf{You've \ levelled \ up \ in \ these \ skills:}}$$
 ### $${\color{green}\sf{>Browser Dev Tools Use}}$$
 ### $${\color{green}\sf{>Code Analysis}}$$
