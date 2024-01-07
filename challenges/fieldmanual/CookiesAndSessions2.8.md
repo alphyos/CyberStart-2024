@@ -18,7 +18,7 @@ This information is retained in the browser between page loads and even computer
 
 Sometimes however, we want to store some sensitive information. There are industry recognised approaches such as `JWT` (JSON Web Token) where you can encrypt, to some degree, the sensitive data. It's not bulletproof by any means, but useful to mask sensitive data from the vast majority.
 
-# Session cookies
+# Session Cookies
 
 There's also the well-used approach of a **session cookie**. This cookie contains only a unique reference, which is available for every page request made to the server. The server has a record of that ID and sensitive data is recorded against it, keeping the data on the server-side away from prying eyes.
 
