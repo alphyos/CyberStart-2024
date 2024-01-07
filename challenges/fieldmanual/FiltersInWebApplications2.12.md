@@ -1,11 +1,11 @@
 ### WEB
-# Filters in web applications
+# Filters In Web Applications
 
 <div align="center">
-  <video src="" width="800" />
+  <video src="https://github.com/alphyos/CyberStart-2023/assets/116646389/0905ce36-225d-4840-a49f-472f111b96a8" width="800" />
 </div>
 
-# Keeping user input clean
+# Keeping User Input Clean
 
 In this chapter of the field manual we have learned about many ways that incorrectly processed inputs can lead web applications to unintended consequences. Command injection, SQL injection and even XSS are often the result of attackers taking advantage of overly permissive inputs & outputs.
 
@@ -16,3 +16,5 @@ It is beyond the scope of this course to cover the development and language spec
 From an attackers point of view, lots of creativity is maybe needed, almost to the point of being artistic. If you're attacking your own software, it can be a good idea to consider "crystal box" testing, which is where you have the code input or output points on screen as well as the site in a browser and try to be creative to get around the code, by abusing and bypassing the logic you see.
 
 There are great tools out there also to help probe each input and output point in your site, trying many thousands of variations, but remember: an automated tool may not really replicate the creativity and ingenuity of a human. Manual testing is also highly recommended - as you code, plus in regular security testing sessions.
+
+### <div dir="rtl">[→ Next: 2.13 OSINT and Robots](OSINTAndRobots2.13.md)
