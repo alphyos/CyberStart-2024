@@ -1,5 +1,5 @@
 ## WEB
-# Cookies and sessions
+# Cookies And Sessions
 
 <div align="center">
  <video src="https://github.com/alphyos/CyberStart-2023/assets/116646389/1cc849d3-0ef3-40c5-ae05-07f94006a1c7" width="800" />
@@ -28,4 +28,4 @@ Of course, if an attacker could get the session ID for a user they could set tha
 
 The session information by default tends to be in a file on the server, but could also be in server memory or a database. All are viable storage means and have their pros and cons. The main feature of these approaches is that the sensitive data is on the server and not kept in the browser at all. As we know from the [client and server side](TheClientAndServerSide2.2) field manual module, the server side has higher trust because users can't directly tamper with it.
 
-### <div dir="rtl">[→ Next: 2.8 SQL Injection](SQLInjection2.9.md)
+### <div dir="rtl">[→ Next: 2.9 SQL Injection](SQLInjection2.9.md)
