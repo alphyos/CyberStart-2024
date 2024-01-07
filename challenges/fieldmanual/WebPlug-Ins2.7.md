@@ -2,10 +2,10 @@
 # Web plug-ins
 
 <div align="center">
-| <video src="" width="800" />
+ <video src="https://github.com/alphyos/CyberStart-2023/assets/116646389/17dba6f1-a49b-4123-acc7-2d37c4501a18" width="800" />
 </div>
 
-# Customising your browser
+# Customising Your Browser
 
 The modern browser is a miracle of technology with all kinds of amazing features, even hidden ones you may not use day to day like the developer tools. However, there is also an ecosystem of capabilities designed to allow you to extend your browser in ways that may benefit you generally, or for specific cyber security disciplines.
 
@@ -14,3 +14,5 @@ These extra capabilities are known as **plugins** or **extenions** and can add s
 By searching other tools you can find plug-ins which will change how your data is displayed, find URLs to manipulate, extract GIFs, de-obfuscate JavaScript, and much more. The extension ecosystem certainly is powerful!
 
 >All that said, do keep security in mind when installing plug-ins. A browser plug-in could access your personal information or track you. Malicious plug-ins do exist, though they are more commonly found by installing them from broader Internet locations, instead of the 'store' provided by a given browser. Even then, using a plug-in which is popular and widely validated is prudent. If you are unsure, running a test in a Virtual Machine is a good way to experiment safely.
+
+### <div dir="rtl">[→ Next: 2.8 Cookies And Sessions](CookiesAndSessions2.8.md)
