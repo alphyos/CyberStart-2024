@@ -59,3 +59,6 @@ index.html    100%[======================>]  38.90K  --.-KB/s    in 0.03s
 By default `wget` will save the file (in this case as the original name - `index.html`), whereas `curl` will output it to screen by default. Both are very powerful and great for getting content from URLs, especially in scripting situations. To find out about the abilities and features of either, be sure to look at the man pages - `man curl` and `man wget`.
 
 >It is worth reading through common examples of `curl` and `wget` beyond parameter manipulation, such as how to send cookies. It is really valuable in more advanced challenges, but can also be useful if you end up on a system with no graphical user interface and need to download a file!
+
+### <div dir="rtl">[→ Next: 2.7 Web Plug-Ins](WebPlug-Ins2.7.md)
+
