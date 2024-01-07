@@ -1,11 +1,11 @@
 ### CRYPTOGRAPHY
-# Password complexity
+# Password Complexity
 
 <div align="center">
-  <video src="" width="800" />
+  <video src="https://github.com/alphyos/CyberStart-2023/assets/116646389/a93c83be-8565-4248-8f39-cc9e4d541c1e" width="800" />
 </div>
 
-# Passwords are everywhere
+# Passwords Are Everywhere
 
 Passwords are used in websites, apps, devices, tools and many other contexts. While new authentication mechanisms like touch-based or face recognition are gaining in popularity because of their usability, passwords are still everywhere and likely will be for some time in the future.
 
@@ -19,7 +19,7 @@ When a user sets a password there is the danger of password re-use, where the sa
 
 Even if your password hasn't been breached, often what may seem like a strong password can be easy for the cyber criminals to break with powerful and fast automated tools. These tools often crack encrypted passwords offline with brute force methods, or guess the password with login attempts, often aided with lists of common passwords. Humans commonly think they are being clever and unique, but actually find they're being staggeringly predictable and actually making life easy for cyber criminals.
 
-# Breaking passwords
+# Breaking Passwords
 
 There's a lot of assumptions made about how computers crack passwords and depending on the situation the implementation can vary. Most people, when they first encounter the idea of a password being cracked by a computer, think of it as trying sequences one after the other until success, e.g.
 
@@ -35,19 +35,21 @@ You can search online for password strength tools. Try a few out, you might be s
 
 These days, cracking a weak password is made even simpler with easy access to tools such as [Hashcat](https://hashcat.net/hashcat/) and [John the Ripper](https://www.openwall.com/john/).
 
-# Quickly generating passwords on Linux
+# Quickly Generating Passwords on Linux
 
 We'd recommend using a password manager to store all your passwords. Simply set one master password for the app and let it take care of the rest. A good password manager will generate the complex passwords for you, to avoid you creating any that are weak. However, if you need generate a quick secure credential and perhaps also specify the properties, you could use a Linux tool like `pwgen`. Some example properties provided to it may be:
 
-`pwgen -s 12 1 - Generates one password of 12 characters
-pwgen -s 16 1 - Generates one password of 16 characters
-pwgen -y -s 12 1 - Generates one password of 12 characters, including the use of symbols
-pwgen -s 16 12 - Generates 12 passwords of 16 characters`
+- `pwgen -s 12 1` - Generates one password of 12 characters
+- `pwgen -s 16 1` - Generates one password of 16 characters
+- `pwgen -y -s 12 1` - Generates one password of 12 characters, including the use of symbols
+- `pwgen -s 16 12` - Generates 12 passwords of 16 characters`
 
 `pwgen` does support the ability to pick sequences that are likely 'pronounceable' to make it easier to read them out, or memorise them if you really must. It's quite a popular tool and with a lot of options for customising to your liking.
 
 However, the latest advice in the industry is to avoid very hard to type passwords and instead use a "passphrase" (a collection of 4-5 randomly picked words). The "xkcd" series of comics summed up this thinking nicely [xkcd password](https://xkcd.com/936/) strength. You could take a look at [pwgen-passphrase](https://pypi.org/project/pwgen-passphrase/) which can return a number of words that are hard to guess and easy to remember if you need to generate a passphrase.
 
-# Forced password resets
+# Forced Password Resets
 
 It's starting to become industry accepted best practice to avoid enabling forced resets (eg every 30/60/90 days the user must set a new password). People are busy and also predictable, so if they've a password of `b1cycLe3`, it's likely next time they'll use `b1cycLe4`, or perhaps the name of the company or service, or the name of their pet, or the current season and year. Password resets are implemented with good intention but it has been found they don't really make a difference to security and, if anything, lower it.
+
+### <div dir="rtl">[→ Next: 3.3.1 Substitution Ciphers](SubstitutionCiphers3.3.1.md)
