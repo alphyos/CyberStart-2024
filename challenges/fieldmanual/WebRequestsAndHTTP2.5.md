@@ -28,4 +28,4 @@ Modifying a GET request is often as easy as modifying it in the browser address 
 
 Note that whilst we can modify the data being sent via GET or POST, a good web application should assume that tampering will occur and handle the exceptions. Unfortunately, that does not always happen and can lead to security flaws!
 
-### <div dir="rtl">[→ Next: 2.4 Command Line Web Requests And Curl](CommandLineWebRequestsAndCurl.6.md)
+### <div dir="rtl">[→ Next: 2.6 Command Line Web Requests And Curl](CommandLineWebRequestsAndCurl.6.md)
