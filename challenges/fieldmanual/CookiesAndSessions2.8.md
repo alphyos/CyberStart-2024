@@ -2,10 +2,10 @@
 # Cookies and sessions
 
 <div align="center">
-| <video src="" width="800" />
+ <video src="https://github.com/alphyos/CyberStart-2023/assets/116646389/1cc849d3-0ef3-40c5-ae05-07f94006a1c7" width="800" />
 </div>
 
-# Want a cookie?
+# Want a Cookie?
 
 Cookies and sessions can seem daunting, but with the basics understood the workings really make sense.
 
@@ -26,4 +26,6 @@ For PHP based sites, you'll commonly find a cookie with a name of `PHPSESSID` an
 
 Of course, if an attacker could get the session ID for a user they could set that in their browser cookie, reload the page and take on the same state as the user; logged in and able to access their account, for example. To prevent this from happening a long, unique session ID is needed. There's plenty of server side logic that could also be implemented including changing the session ID on page requests and enforcing high security standards.
 
-The session information by default tends to be in a file on the server, but could also be in server memory or a database. All are viable storage means and have their pros and cons. The main feature of these approaches is that the sensitive data is on the server and not kept in the browser at all. As we know from the [client and server side]() field manual module, the server side has higher trust because users can't directly tamper with it.
+The session information by default tends to be in a file on the server, but could also be in server memory or a database. All are viable storage means and have their pros and cons. The main feature of these approaches is that the sensitive data is on the server and not kept in the browser at all. As we know from the [client and server side](TheClientAndServerSide2.2) field manual module, the server side has higher trust because users can't directly tamper with it.
+
+### <div dir="rtl">[→ Next: 2.8 SQL Injection](SQLInjection2.9.md)
