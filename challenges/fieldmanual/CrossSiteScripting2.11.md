@@ -1,5 +1,5 @@
 ## WEB
-# Cross site scripting
+# Cross Site Scripting
 
 <div align="center">
  <video src="https://github.com/alphyos/CyberStart-2023/assets/116646389/9f1402b2-b229-4163-b1ca-36abf864d7cb" width="800" />
