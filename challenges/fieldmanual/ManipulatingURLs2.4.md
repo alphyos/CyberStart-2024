@@ -26,3 +26,5 @@ Of course, we can also change other parts of the URL. What about changing `/logi
 > You can manually manipulate URLs, but you can also script it to find more interesting pages or conditions. A tool that can try common directory locations and manipulate URLs is called [DirBuster](https://www.kali.org/tools/dirbuster/) (by OWASP). You can also use a tool like [Burp](https://portswigger.net/burp) which can use patterns or wordlists to guess. This is a more advanced skill, but useful in the higher levels of CyberStart.
 
 Remember that running tools and guessing how to manipulate URLs requires permission. If you do this on a website without permission **you could be breaking a local computer crime law!**
+
+### <div dir="rtl">[→ Next: 2.5 Web Requests And HTTP](WebRequestsAndHTTP2.5.md)
