@@ -1,8 +1,9 @@
+
 ## WEB
-# Web requests and HTTP
+# Web Requests And HTTP
 
 <div align="center">
-| <video src="" width="800" />
+ <video src="https://github.com/alphyos/CyberStart-2023/assets/116646389/055972b3-c1d1-4052-a833-efa5be45ed44" width="800" />
 </div>
 
 # HTTP
@@ -26,3 +27,5 @@ Modifying a GET request is often as easy as modifying it in the browser address 
 >If you want to try a more advanced tool, take a look at [Burp](https://portswigger.net/burp) or [ZAP](https://owasp.org/www-project-zap/) (Zed Attack Proxy). These enable you to modify data on the way out from your browser, or on the way back from the server. They are a bit more versatile than using only your browser.
 
 Note that whilst we can modify the data being sent via GET or POST, a good web application should assume that tampering will occur and handle the exceptions. Unfortunately, that does not always happen and can lead to security flaws!
+
+### <div dir="rtl">[→ Next: 2.4 Command Line Web Requests And Curl](CommandLineWebRequestsAndCurl.6.md)
