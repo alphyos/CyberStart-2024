@@ -2,10 +2,10 @@
 # Introduction
 
 <div align="center">
-  <video src="" width="800" />
+  <video src="https://github.com/alphyos/CyberStart-2023/assets/116646389/e61efe92-c509-4128-819d-308b56dce540" width="800" />
 </div>
 
-# Welcome to the wonderful world of cryptography!
+# Welcome to The Wonderful World of Cryptography!
 
 In this section we will be making and breaking codes along with exploring tools and concepts to help reveal passwords, find flaws in encrypted information, and look into how data makes its way across the internet securely.
 
@@ -15,10 +15,12 @@ Cryptography is a fascinating and vast subject area, but you'll be able to get q
 
 Some terminology you may find helpful as you proceed:
 
-1. Encryption. A process and method which takes plaintext and produces ciphertext that can be sent to another party, or stored. This often requires a key.
-2. Decryption. A process and method which takes ciphertext, and produces plaintext. This often requires a key to be shared so that you can retrieve the plaintext data.
-3. Key. A piece of information (typically a string of letters, numbers etc) which is used as part of an encryption and decryption process. Depending on the cipher, different requirements may exist for the key in size or structure. Sometimes different keys are used to encrypt/decrypt, which we will learn about later.
-4. Cipher. An algorithm for performing encryption or decryption. Essentially a recipe that can be followed to produce the result. The cipher typically requires a key and the combination can transform plaintext to ciphertext, or back.
-5. Hashing. This is where a plaintext input has a hashing algorithm applied to it, to produce a fixed length output of seemingly random, but always repeatable output if you follow the same steps. Most commonly used to validate data such as identity.
+- **Encryption**. A process and method which takes plaintext and produces ciphertext that can be sent to another party, or stored. This often requires a key.
+- **Decryption.** A process and method which takes ciphertext, and produces plaintext. This often requires a key to be shared so that you can retrieve the plaintext data.
+- **Key.** A piece of information (typically a string of letters, numbers etc) which is used as part of an encryption and decryption process. Depending on the cipher, different requirements may exist for the key in size or structure. Sometimes different keys are used to encrypt/decrypt, which we will learn about later.
+- **Cipher.** An algorithm for performing encryption or decryption. Essentially a recipe that can be followed to produce the result. The cipher typically requires a key and the combination can transform plaintext to ciphertext, or back.
+- **Hashing.** This is where a plaintext input has a hashing algorithm applied to it, to produce a fixed length output of seemingly random, but always repeatable output if you follow the same steps. Most commonly used to validate data such as identity.
 
 During our journey in the chapter we'll also discuss weaknesses in some areas of encryption, common misunderstandings people often fall into and how to make good choices in cryptography. Let's start by looking at password complexity in the next section.
+
+### <div dir="rtl">[→ Next: 3.2 Password Complexity](PasswordComplexity3.2.md)
