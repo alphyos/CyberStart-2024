@@ -1,11 +1,11 @@
 ### WEB
-# OSINT and Robots
+# OSINT And Robots
 
 <div align="center">
-  <video src="" width="800" />
+  <video src="https://github.com/alphyos/CyberStart-2023/assets/116646389/f383bf7c-9969-4dad-8bf3-c945ab3494be" width="800" />
 </div>
 
-# Seek and ye might find
+# Seek And ye Might Find
 
 Open Source Intelligence, or OSINT for short, is the use of open source (or publicly available) resources to collect intelligence. Using social media sites, such as LinkedIn, to get information about employees at a company would be one example. Another may be using the careers pages at a site to see what technologies they list and learn about their infrastructure. Perhaps you found some relevant information in the [Wayback Machine](https://archive.org/web/), in an old archived version of a company website.
 
@@ -15,14 +15,18 @@ The `robots.txt` file on a website (eg `https://example.com/robots.txt`) is used
 
 Here is an example `robots.txt`
 
-`User-agent: *
+```txt
+User-agent: *
 Allow: /registration
 Disallow: /admin-management.php
 Disallow: /admin
 Disallow: /email`
+```
 
 This is useful information to a search engine, however, it could also be **really** useful information to an attacker. Some of these pages might be intended to be hidden from the public and might reveal useful information. Perhaps a backup directory with poorly protected files, or some further intelligence to prime another attack.
 
 If these pages need to be online they should be adequately protected; especially as they've been noted in an easily accessible list, commonly used by hackers. Backup directories, forgotten experiments and lesser known services can all be found here, so a potential goldmine for attackers. While it may not provide a vulnerability or sensitive information immediately, it may lead to something more serious.
 
 Hopefully you can see why it's important that as security defenders we can get the same intelligence as the cyber criminals to see what our exposure is! Thinking like a hacker may just stop a hacker.
+
+### <div dir="rtl">[→ Next: 3.1 Introduction](Introduction3.1.md)
