@@ -44,5 +44,5 @@ All that said, we hope you find the CyberStart Field Manual useful and good luck
 
 <div align="center">
 
-| [Next: 1.02 - Challenges →](https://play.cyberstart.com/field-manual/8f973f20-d7eb-11eb-ba1c-0242ac140009) |
+| [Next: 1.02 - Challenges →](Challenges1.2.md) |
 |-|
