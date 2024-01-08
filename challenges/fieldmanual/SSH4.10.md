@@ -53,7 +53,7 @@ At this point, we can do anything that the `mainuser` could do via a terminal on
 
 Another argument worth noting is `-i`. This allows us to provide a **private key** file related to the user we're attempting to ssh into, for example:
 
-```
+```console
 $ ssh -i key.pem mainuser@172.16.6.4
 ```
 
@@ -62,5 +62,7 @@ It's worthwhile looking into these SSH key files if you want to SSH into
  servers regularly, as they provide a higher level of security than
 typed passwords.
 
-[← Previous: 4.09 - Stopping program execution](https://play.cyberstart.com/field-manual/8fbecfe0-d7eb-11eb-8e19-0242ac140009)
-[Next: 4.11 - The grep command →](https://play.cyberstart.com/field-manual/8fc12286-d7eb-11eb-b542-0242ac140009)
+<div align="center">
+
+[← Previous: 4.09 - Stopping program execution](StoppingProgramExecution4.9.md) | [Next: 4.11 - The grep command →](TheGrepCommand4.11.md)
+:-|-:

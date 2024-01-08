@@ -44,7 +44,7 @@ access binary files, find security weaknesses and more.
 
 A common way to run a Linux operating system without needing a
 separate machine, or repurposing an existing one, is using a Virtual
-Machine. Check out the [CyberStart virtual machine](https://play.cyberstart.com/field-manual/8f99f5da-d7eb-11eb-b0e8-0242ac140009)
+Machine. Check out the [CyberStart virtual machine](UsingTheVirtualMachine1.6.md)
  for a great place to get started with this. You can also explore
 running your own choice of Linux distro such as Ubuntu or Arch Linux for
  greater customisation.

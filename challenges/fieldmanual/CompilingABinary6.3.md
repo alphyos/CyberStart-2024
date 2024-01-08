@@ -56,7 +56,7 @@ Here we've compiled our code, passing in our C file as the first argument and th
  It should only take a spilt second to create the compiled file, which
 is full of machine code a Linux system can run. You can run `file test` to see, much like the initial example, that it's an ELF type file suitable for 64-bit machines and is dynamically linked.
 
-You may need to add execute permissions to the file (see [Linux permissions](https://play.cyberstart.com/field-manual/8fbbbdf0-d7eb-11eb-9d1f-0242ac140009) if you need help). With your executable file ready to run, simply call `./test`
+You may need to add execute permissions to the file (see [Linux permissions](LinuxPermissions4.7.md) if you need help). With your executable file ready to run, simply call `./test`
  to execute it and see your message! Congratulations, you've just
 created, compiled and ran your own binary in no time at all. Search
 online for more tutorials on the C language and indeed other great

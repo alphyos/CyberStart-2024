@@ -19,7 +19,7 @@ Specifically, we need to convert the colour **RBG numbers** into letters, using 
 Typically, RGB numbers are a way of representing a particular colour, with values from 0-255 for the **r**ed, **g**reen and **b**lue
  values. However, given that they're really just number values and
 numbers could translate to letters, they could also be used to hide
-data, for example [ASCII](https://play.cyberstart.com/field-manual/8faa18d4-d7eb-11eb-aa93-0242ac140009) character reference codes.
+data, for example [ASCII](Ascii3.5.1.md) character reference codes.
 
 In the challenge we're given an ASCII table, showing us a range of
 characters and their corresponding decimal, binary, octal and hex. Of

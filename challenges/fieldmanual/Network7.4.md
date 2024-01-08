@@ -53,5 +53,7 @@ gives analysts even more options when dealing with log files, as custom
 rules can be created to focus on specific network activity, improving
 the overall value of the investigation.
 
-[← Previous: 7.03 - Steganography](https://play.cyberstart.com/field-manual/675ba65a-fde1-11ec-b939-0242ac120002)
-[Next: 7.05 - Memory →](https://play.cyberstart.com/field-manual/7ec662f8-fde1-11ec-b939-0242ac120002)
+<div align="center">
+
+[← Previous: 7.03 - Steganography](Steganography7.3.md) | [Next: 7.05 - Memory →](Memory7.5.md)
+:-|-:

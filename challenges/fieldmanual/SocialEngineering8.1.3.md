@@ -53,5 +53,7 @@ attempts produced more efficiently!
 
 Passwords continue to be one of the greatest entry points for malicious actors.
 
-[← Previous: 8.01.02 - Mixed Up Messages](https://play.cyberstart.com/field-manual/e8c1b490-0e87-11ec-82a8-0242ac130003)
-[Next: 8.01.04 - Lazy Locked Login →](https://play.cyberstart.com/field-manual/22ebe910-0e88-11ec-82a8-0242ac130003)
+<div align="center">
+
+[← Previous: 8.01.02 - Mixed Up Messages](MixedUpMessages8.1.2.md) | [Next: 8.01.04 - Lazy Locked Login →](LazyLockedLogin8.1.4.md)
+:-|-:

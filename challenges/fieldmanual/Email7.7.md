@@ -34,7 +34,7 @@ CyberChef, a tool developed by GCHQ. To learn more about Base64, visit
 that section of the Field Manual to understand this encoding format
 better.
 
-For more information on Base64, check out the [Base64 and Base32](https://play.cyberstart.com/field-manual/8faf58c6-d7eb-11eb-a4e2-0242ac140009) page in the Cryptography chapter.
+For more information on Base64, check out the [Base64 and Base32](Base64AndBase323.5.5.md) page in the Cryptography chapter.
 
 <div align="center">
 

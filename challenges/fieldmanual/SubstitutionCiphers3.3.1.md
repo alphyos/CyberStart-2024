@@ -84,5 +84,7 @@ this inside knowledge of the plaintext is called a **crib** and tools online may
 > These ciphers are not the strongest, but they are a wonderful
 > introduction to making and breaking codes before you need more maths.
 
-[← Previous: 3.02 - Password complexity](https://play.cyberstart.com/field-manual/54e63ffc-0e8c-11ec-82a8-0242ac130003)
-[Next: 3.03.02 - Caesar or ROT ciphers →](https://play.cyberstart.com/field-manual/8fa4a304-d7eb-11eb-9c47-0242ac140009)
+<div align="center">
+
+[← Previous: 3.02 - Password complexity](PasswordComplexity3.2.md) | [Next: 3.03.02 - Caesar or ROT ciphers →](CaesarOrRotCiphers3.3.2.md)
+:-|-:

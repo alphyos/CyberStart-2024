@@ -34,5 +34,7 @@ to scan a QR code. That is great on some devices. However, some devices
 won't read all QR code types. For example, iPhones will only read URLs
 and not show text. If you run in to this, try using another app instead.
 
-[← Previous: 3.05.02 - Hexadecimal](https://play.cyberstart.com/field-manual/8fab6bbc-d7eb-11eb-b696-0242ac140009)
-[Next: 3.05.04 - Morse code →](https://play.cyberstart.com/field-manual/8fae65ba-d7eb-11eb-b338-0242ac140009)
+<div align="center">
+
+[← Previous: 3.05.02 - Hexadecimal](Hexadecimal3.5.2.md) | [Next: 3.05.04 - Morse code →](MorseCode3.5.4.md)
+:-|-:

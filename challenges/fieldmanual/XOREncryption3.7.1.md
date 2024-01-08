@@ -64,5 +64,5 @@ helps make things a lot simpler, but the fundamentals are the same!
 
 <div align="center">
 
-[← Previous: 3.06 - Encoding vs encryption](https://play.cyberstart.com/field-manual/8fb100e0-d7eb-11eb-8c2b-0242ac140009) | [Next: 3.07.02 - Symmetric encryption →](https://play.cyberstart.com/field-manual/8fb39f12-d7eb-11eb-aa59-0242ac140009)
+[← Previous: 3.06 - Encoding vs encryption](EncodingVsEncryption3.6.md) | [Next: 3.07.02 - Symmetric encryption →](SymmetricEncryption3.7.2.md)
 :-|-:

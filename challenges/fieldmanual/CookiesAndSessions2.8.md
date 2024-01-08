@@ -74,7 +74,7 @@
  viable storage means and have their pros and cons. The main
  feature of these approaches is that the sensitive data is on the
  server and not kept in the browser at all. As we know from
- [the client and server side](https://play.cyberstart.com/field-manual/8f9b4dc2-d7eb-11eb-ae1f-0242ac140009)
+ [the client and server side](TheClientAndServerSide2.2.md)
  field manual module, the server side has higher trust because
  users can't directly tamper with it.
 

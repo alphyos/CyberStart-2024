@@ -13,7 +13,7 @@ them a lot! Basically, a variable is just a reference to a container
 storing some kind of information. They're a way we can say to our
 program "hey, store this data so I can interact with it later".
 
-A variable can contain lots of different *types* of data. We're going to look at those in more detail in the [Data types](https://play.cyberstart.com/field-manual/8fc88b98-d7eb-11eb-b851-0242ac140009) page, but for now lets try and understand the basic uses of variables and some neat things you can do with them!
+A variable can contain lots of different *types* of data. We're going to look at those in more detail in the [Data types](DataTypes5.4.md) page, but for now lets try and understand the basic uses of variables and some neat things you can do with them!
 
 ```py
 # Counter
@@ -96,5 +96,7 @@ just grabs everything after the starting point!
 > contain. A great habit to build is naming variables descriptively:
 > seeing the variable `address` provides much more information than `x`. Name descriptively right from the start of your programming journey, it's a good habit to start with!
 
-[← Previous: 5.02 - Running python programs](https://play.cyberstart.com/field-manual/8fc688ca-d7eb-11eb-84c6-0242ac140009)
-[Next: 5.04 - Data types →](https://play.cyberstart.com/field-manual/8fc88b98-d7eb-11eb-b851-0242ac140009)
+<div align="center">
+
+[← Previous: 5.02 - Running python programs](RunningPythonPrograms5.2.md) | [Next: 5.04 - Data types →](DataTypes5.4.md)
+:-|-:

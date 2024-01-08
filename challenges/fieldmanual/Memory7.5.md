@@ -61,5 +61,5 @@ evidence more than once and get the same result).
 
 <div align="center">
 
-[← Previous: 7.04 - Network](Network7.4.md)[Next: 7.06.01 - Disk forensics →](DiskForensics7.6.1.md)
+[← Previous: 7.04 - Network](Network7.4.md) | [Next: 7.06.01 - Disk forensics →](DiskForensics7.6.1.md)
 :-|-:

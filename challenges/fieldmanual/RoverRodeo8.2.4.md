@@ -16,7 +16,7 @@ Additionally, we are introduced to the browser developer tools in order to inter
 
 If we look at the **Email** tab we're given some additional context as well as instructions to open the browser's developer tools; specifically the **Console**. We need to use the console to complete this challenge, so let's open it!
 
-> For more information check out the [Console](https://play.cyberstart.com/field-manual/8fe93ace-a868-11ed-afa1-0242ac120002) page!
+> For more information check out the [Console](Console2.3.2.md) page!
 
 Note that the email also tells us how to get started interacting with the rover - the command `rover.help()`. With the Console open, we can run this command and are provided with an overview of the available commands: `rover.move(<spaces>)`, `rover.turn(<direction>, <times>)` and `rover.drill()`.
 
@@ -54,5 +54,7 @@ the core building blocks of larger and more complicated programming
 projects, and better understanding these tools will be a great addition
 to your coding journey!
 
-[← Previous: 8.02.03 - Galactic Greetings](https://play.cyberstart.com/field-manual/abda13c8-0e88-11ec-82a8-0242ac130003)
-[Next: 8.03.01 - Social Secret →](https://play.cyberstart.com/field-manual/cebaf72c-0e88-11ec-82a8-0242ac130003)
+<div align="center">
+
+[← Previous: 8.02.03 - Galactic Greetings](GalacticGreetings8.2.3.md) | [Next: 8.03.01 - Social Secret →](SocialSecret8.3.1.md)
+:-|-:

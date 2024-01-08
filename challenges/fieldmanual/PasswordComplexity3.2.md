@@ -20,7 +20,7 @@ recommended practices change from time to time, yet people hold on to
 outdated ideas such as a 'strong 8-character password' when this is no
 longer effective and hasn't been for years now.
 
-> You can use strong encryption like AES-256 (see [Symmetric encryption](https://play.cyberstart.com/field-manual/8fb39f12-d7eb-11eb-aa59-0242ac140009)); but if the password is weak (such as `password123`) then you have little security due to a poor choice of password.
+> You can use strong encryption like AES-256 (see [Symmetric encryption](SymmetricEncryption3.7.2.md)); but if the password is weak (such as `password123`) then you have little security due to a poor choice of password.
 
 Using a common password, for example *Password123*, is another
  big problem. Using data gathered from many previous hacks and breaches,
@@ -112,5 +112,7 @@ pet, or the current season and year. Password resets are implemented
 with good intention but it has been found they don't really make a
 difference to security and, if anything, lower it.
 
-[← Previous: 3.01 - Introduction](https://play.cyberstart.com/field-manual/c078b80a-0e8a-11ec-82a8-0242ac130003)
-[Next: 3.03.01 - Substitution ciphers →](https://play.cyberstart.com/field-manual/8fa39d06-d7eb-11eb-9277-0242ac140009)
+<div align="center">
+
+[← Previous: 3.01 - Introduction](Introduction3.1.md) | [Next: 3.03.01 - Substitution ciphers →](SubstitutionCiphers3.3.1.md)
+:-|-:

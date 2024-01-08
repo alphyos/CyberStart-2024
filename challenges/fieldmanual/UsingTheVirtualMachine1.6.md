@@ -33,9 +33,9 @@
  With the software installed, you can download the VM image from
  the appropriate link:
 
-[Download the VMWare virtual machine](https://vm.cyberstart.com/v2/cyberstart-vm-vmware.zip)
+[Download the VMWare virtual machine](https://drive.google.com/file/d/1i3Tu9GMyNalqRMJyT48eR2Kd2cYEUgc7/view?usp=sharing)
 
-[Download the VirtualBox virtual machine](https://vm.cyberstart.com/v2/cyberstart-vm-vbox.zip)
+[Download the VirtualBox virtual machine](https://drive.google.com/file/d/1XH6hJVAyj3sPL7a5VpNn1yY97cQcQCHf/view?usp=sharing)
 
  Once you have downloaded the appropriate zip file, unzip it and
  load that unzipped VM image into your software. Our CyberStart VM
@@ -65,5 +65,7 @@
  machine, be sure to check out our
  [FAQ page](https://help.cyberstart.com/help).
 
-[← Previous: 1.05 - Security awareness](https://play.cyberstart.com/field-manual/8f99482e-d7eb-11eb-b746-0242ac140009)
-[Next: 2.01 - Introduction to web applications →](https://play.cyberstart.com/field-manual/8f9a99d6-d7eb-11eb-8abc-0242ac140009)
+<div align="center">
+
+[← Previous: 1.05 - Security awareness](SecurityAwareness1.5.md) | [Next: 2.01 - Introduction to web applications →](IntroductionToWebApplications2.1.md)
+:-|-:

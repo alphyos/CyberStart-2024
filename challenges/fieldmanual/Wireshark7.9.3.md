@@ -33,5 +33,5 @@ Here are some useful Wireshark filters:
 
 <div align="center">
 
-[← Previous: 7.09.02 - Steghide](https://play.cyberstart.com/field-manual/993adf40-0108-11ed-b939-0242ac120002) | [Next: 7.09.04 - Tcpdump →](https://play.cyberstart.com/field-manual/368c9658-0109-11ed-b939-0242ac120002)
+[← Previous: 7.09.02 - Steghide](Steghide7.9.2.md) | [Next: 7.09.04 - Tcpdump →](Tcpdump7.9.4.md)
 :-|-:

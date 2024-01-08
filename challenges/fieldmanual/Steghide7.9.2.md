@@ -73,5 +73,7 @@ All provide similar functions in examining images for embedded data
 and extraction. These tools can also be used to embed your own secret
 files into images.
 
-[← Previous: 7.09.01 - Tools](https://play.cyberstart.com/field-manual/007a3f76-0108-11ed-b939-0242ac120002)
-[Next: 7.09.03 - Wireshark →](https://play.cyberstart.com/field-manual/f6967fa0-0108-11ed-b939-0242ac120002)
+<div align="center">
+
+[← Previous: 7.09.01 - Tools](Tools7.9.1.md) | [Next: 7.09.03 - Wireshark →](Wireshark7.9.3.md)
+:-|-:

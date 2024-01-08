@@ -18,7 +18,7 @@ offset, to find a decrypted reference starting with the word "**BAR**". We can s
 A Caesar Cipher is a particular method of encrypting text where the
 letters are 'shifted' by a particular offset, ie a number. For example,
 if we started with the letter A and an offset of 2, it becomes C. For
-more information, check out the [Caesar or ROT ciphers](https://play.cyberstart.com/field-manual/8fa4a304-d7eb-11eb-9c47-0242ac140009) page of the Field Manual.
+more information, check out the [Caesar or ROT ciphers](CaesarOrRotCiphers3.3.2.md) page of the Field Manual.
 
 We could decrypt these references manually: working out each
 individual letter based on the offset (the quantity). We could also
@@ -40,5 +40,7 @@ first glance doesn't appear suspicious but these data items have another
 very effective, it can appear innocent and not even be a suspected way
 to send data, but is far from what it appears to be.
 
-[← Previous: 8.03.06 - Executable](https://play.cyberstart.com/field-manual/6ab82c3a-0e89-11ec-82a8-0242ac130003)
-[Next: 8.03.08 - Hidden Report →](https://play.cyberstart.com/field-manual/a3c9a8fa-0e89-11ec-82a8-0242ac130003)
+<div align="center">
+
+[← Previous: 8.03.06 - Executable](Executable8.3.6.md) | [Next: 8.03.08 - Hidden Report →](HiddenReport8.3.8.md)
+:-|-:

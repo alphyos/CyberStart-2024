@@ -56,5 +56,7 @@ This subject is undoubtedly one that requires more structured
 analysis and maths than other areas of cyber security, but it is also a
 supporting pillar of the modern world!
 
-[← Previous: 3.03.04 - The Atbash cipher](https://play.cyberstart.com/field-manual/8fa65bfe-d7eb-11eb-bc6b-0242ac140009)
-[Next: 3.04.01 - Introduction to hashing →](https://play.cyberstart.com/field-manual/8fa8fec2-d7eb-11eb-9cd0-0242ac140009)
+<div align="center">
+
+[← Previous: 3.03.04 - The Atbash cipher](TheAtbashCipher3.3.4.md) | [Next: 3.04.01 - Introduction to hashing →](IntroductionToHashing3.4.1.md)
+:-|-:

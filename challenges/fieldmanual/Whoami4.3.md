@@ -68,5 +68,7 @@ the highest access rights on the system.
 
 Unlike a regular users' home directory (under `/home` as detailed above), you'll often find the root users' home directory as its own directory simply named `root`, at the root of the file system - `/root`.
 
-[← Previous: 4.02 - Executing commands](https://play.cyberstart.com/field-manual/8fb65a2c-d7eb-11eb-86fb-0242ac140009)
-[Next: 4.04 - Listing with ls →](https://play.cyberstart.com/field-manual/8fb874ba-d7eb-11eb-b539-0242ac140009)
+<div align="center">
+
+[← Previous: 4.02 - Executing commands](ExecutingCommands4.2.md) | [Next: 4.04 - Listing with ls →](ListingWithLs4.4.md)
+:-|-:

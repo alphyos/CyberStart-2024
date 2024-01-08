@@ -63,5 +63,7 @@ slow update cycle.
 
 Considering the age of this cipher, given the right implementation it can still be surprisingly secure!
 
-[← Previous: 3.03.02 - Caesar or ROT ciphers](https://play.cyberstart.com/field-manual/8fa4a304-d7eb-11eb-9c47-0242ac140009)
-[Next: 3.03.04 - The Atbash cipher →](https://play.cyberstart.com/field-manual/8fa65bfe-d7eb-11eb-bc6b-0242ac140009)
+<div align="center">
+
+[← Previous: 3.03.02 - Caesar or ROT ciphers](CaesarOrRotCiphers3.3.2.md) | [Next: 3.03.04 - The Atbash cipher →](TheAtbashCipher3.3.4.md)
+:-|-:

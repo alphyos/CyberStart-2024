@@ -26,7 +26,7 @@ variations across a site to find obscure vulnerable areas.
 
 ## Session hijacking
 
-With proof of a vulnerability and if the site has a [session cookie](https://play.cyberstart.com/field-manual/8f9e3c44-d7eb-11eb-98f3-0242ac140009),
+With proof of a vulnerability and if the site has a [session cookie](CookiesAndSessions2.8.md),
  an attacker could craft a link to provide to a victim somehow (perhaps
 via email or messenger), which includes injected code to steal their
 session cookie value; and so will be able to 'hijack' their session. To

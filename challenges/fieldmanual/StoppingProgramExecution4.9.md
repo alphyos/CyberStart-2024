@@ -54,5 +54,7 @@ A common kill command you'll see to stop a stubborn process is `kill -9 <process
 
 If you're curious, you can view available signals with the `kill -l` command.
 
-[← Previous: 4.08 - Running programs](https://play.cyberstart.com/field-manual/8fbdb7fe-d7eb-11eb-8381-0242ac140009)
-[Next: 4.10 - SSH →](https://play.cyberstart.com/field-manual/8fbfeb14-d7eb-11eb-926e-0242ac140009)
+<div align="center">
+
+[← Previous: 4.08 - Running programs](RunningPrograms4.8.md) | [Next: 4.10 - SSH →](Ssh4.10.md)
+:-|-:

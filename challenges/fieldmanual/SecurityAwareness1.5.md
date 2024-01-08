@@ -48,5 +48,7 @@ backup and restore your data so you don't need to pay them?
 > friends and family is a great way to practice explaining cyber security
 > concepts and help them be safer online!
 
-[← Previous: 1.04 - Asking for help](https://play.cyberstart.com/field-manual/8f987df4-d7eb-11eb-948b-0242ac140009)
-[Next: 1.06 - Using the virtual machine →](https://play.cyberstart.com/field-manual/8f99f5da-d7eb-11eb-b0e8-0242ac140009)
+<div align="center">
+
+[← Previous: 1.04 - Asking for help](AskingForHelp1.4.md) | [Next: 1.06 - Using the virtual machine →](UsingTheVirtualMachine1.6.md)
+:-|-:

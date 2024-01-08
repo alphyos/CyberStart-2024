@@ -16,7 +16,7 @@ symbols, emojis and formatting.
 Unicode can be implemented by different character encodings, such as
 the very popular UTF-8. This is just a subset of what Unicode offers,
 but is commonly used as a mechanism of encoding data to display or
-transmit. It can be thought of like [ASCII](https://play.cyberstart.com/field-manual/field-manual/8faa18d4-d7eb-11eb-aa93-0242ac140009)
+transmit. It can be thought of like [ASCII](Ascii3.5.1.md)
  but has significantly greater flexibility and supports a huge array of
 simple and complex characters. To put this into context, while ASCII
 provides a maximum of 256 character codes, UTF-8 can encode all
@@ -42,5 +42,7 @@ suits your use case.
 
 Simply put - UTF-8 is part of Unicode standards, and is a lot like ASCII but caters for a far bigger range of characters!
 
-[← Previous: 3.05.05 - Base64 and Base32](https://play.cyberstart.com/field-manual/8faf58c6-d7eb-11eb-a4e2-0242ac140009)
-[Next: 3.06 - Encoding vs encryption →](https://play.cyberstart.com/field-manual/8fb100e0-d7eb-11eb-8c2b-0242ac140009)
+<div align="center">
+
+[← Previous: 3.05.05 - Base64 and Base32](Base64AndBase323.5.5.md) | [Next: 3.06 - Encoding vs encryption →](EncodingVsEncryption3.6.md)
+:-|-:

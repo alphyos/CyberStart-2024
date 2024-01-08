@@ -13,7 +13,7 @@ Viewing a file as the 0s and 1s would make it much too long, however,
  (a CLI tool). We can learn a lot from looking at the raw hex of a file.
  One of the things we can find information on is the file header.
 
-For more information of hexadecimal encoding, check out the [Hexadecimal](https://play.cyberstart.com/field-manual/8fab6bbc-d7eb-11eb-b696-0242ac140009) page in the Cryptography section.
+For more information of hexadecimal encoding, check out the [Hexadecimal](Hexadecimal3.5.2.md) page in the Cryptography section.
 
 ## File headers
 

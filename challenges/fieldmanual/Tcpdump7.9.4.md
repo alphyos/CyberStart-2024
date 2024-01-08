@@ -34,5 +34,7 @@ selective by adding command line arguments to filter and so reduce
 traffic, or output to a file for later analysis. Another good tip may be
  to pipe the output to `grep`, so you can not only filter but also highlight data, eg: `sudo tcpdump | grep "search_term_here"`
 
-[← Previous: 7.09.03 - Wireshark](https://play.cyberstart.com/field-manual/f6967fa0-0108-11ed-b939-0242ac120002)
-[Next: 7.09.05 - Volatility →](https://play.cyberstart.com/field-manual/7abc78c0-0109-11ed-b939-0242ac120002)
+<div align="center">
+
+[← Previous: 7.09.03 - Wireshark](Wireshark7.9.3.md) | [Next: 7.09.05 - Volatility →](Volatility7.9.5.md)
+:-|-:

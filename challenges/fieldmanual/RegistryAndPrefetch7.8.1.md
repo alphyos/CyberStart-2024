@@ -63,5 +63,7 @@ searching online for more information regarding these. For now, be aware
  that the location of a key, subkey or value may be different when
 looking at the hives from a forensic perspective.
 
-[← Previous: 7.07 - Email](https://play.cyberstart.com/field-manual/a1de3266-fde1-11ec-b939-0242ac120002)
-[Next: 7.08.02 - Prefetch →](https://play.cyberstart.com/field-manual/6a9afb54-0106-11ed-b939-0242ac120002)
+<div align="center">
+
+[← Previous: 7.07 - Email](Email7.7.md) | [Next: 7.08.02 - Prefetch →](Prefetch7.8.2.md)
+:-|-:

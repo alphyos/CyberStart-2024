@@ -41,5 +41,7 @@ But the key point to note here is that - what *you* see isn't all a *computer*
 work with, and it's that hidden data that can lead to all kinds of
 unseen bypasses and trickery!
 
-[← Previous: 8.03.03 - Happy Customers](https://play.cyberstart.com/field-manual/01d584ce-0e89-11ec-82a8-0242ac130003)
-[Next: 8.03.05 - Mixed Messages →](https://play.cyberstart.com/field-manual/4ecd5df6-0e89-11ec-82a8-0242ac130003)
+<div align="center">
+
+[← Previous: 8.03.03 - Happy Customers](HappyCustomers8.3.3.md) | [Next: 8.03.05 - Mixed Messages →](MixedMessages8.3.5.md)
+:-|-:

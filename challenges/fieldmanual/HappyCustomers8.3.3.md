@@ -19,7 +19,7 @@ have a number of customers followed by a sequence of numbers. The fact
 that these numbers never go above 26 is interesting, as there are 26
 letters in the alphabet.
 
-it's possible we're looking at a simple substitution cipher, where for example the letter A is *substituted* for 1, B for 2, and so on through to Z and 26. You can read more on the subject in the [Substitution ciphers](https://play.cyberstart.com/field-manual/8fa39d06-d7eb-11eb-9277-0242ac140009) page of the Field Manual.
+it's possible we're looking at a simple substitution cipher, where for example the letter A is *substituted* for 1, B for 2, and so on through to Z and 26. You can read more on the subject in the [Substitution ciphers](SubstitutionCiphers3.3.1.md) page of the Field Manual.
 
 Let's try swapping back the numbers to the corresponding letters
 based on the assumption above (1 = A, 2 = B, 3 = C etc). Alternatively,

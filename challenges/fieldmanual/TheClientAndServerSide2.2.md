@@ -61,5 +61,7 @@ application you access, but it can be if flaws are found!
 > developer tools only changes this for you and hasn't bypassed the server
 > side security!
 
-[← Previous: 2.01 - Introduction to web applications](https://play.cyberstart.com/field-manual/8f9a99d6-d7eb-11eb-8abc-0242ac140009)
-[Next: 2.03.01 - Dev tools introduction →](https://play.cyberstart.com/field-manual/8f9bd120-d7eb-11eb-b132-0242ac140009)
+<div align="center">
+
+[← Previous: 2.01 - Introduction to web applications](IntroductionToWebApplications2.1.md) | [Next: 2.03.01 - Dev tools introduction →](DevToolsIntroduction2.3.1.md)
+:-|-:

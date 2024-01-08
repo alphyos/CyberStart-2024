@@ -51,5 +51,7 @@ Hopefully you can see why it's important that as security defenders
 we can get the same intelligence as the cyber criminals to see what our
 exposure is! Thinking like a hacker may just stop a hacker.
 
-[← Previous: 2.12 - Filters in web applications](https://play.cyberstart.com/field-manual/8fa01690-d7eb-11eb-81eb-0242ac140009)
-[Next: 3.01 - Introduction →](https://play.cyberstart.com/field-manual/c078b80a-0e8a-11ec-82a8-0242ac130003)
+<div align="center">
+
+[← Previous: 2.12 - Filters in web applications](FiltersInWebApplications2.12.md) | [Next: 3.01 - Introduction →](Introduction3.1.md)
+:-|-:

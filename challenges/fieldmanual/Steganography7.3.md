@@ -54,5 +54,7 @@ continually and more increasingly being used in cyber attacks. Attackers
  are using steganography to inject malicious content into files, in
 order to evade modern day security defences.
 
-[← Previous: 7.02.02 - File integrity and hashes](https://play.cyberstart.com/field-manual/57f24c8c-fde1-11ec-b939-0242ac120002)
-[Next: 7.04 - Network →](https://play.cyberstart.com/field-manual/72794be6-fde1-11ec-b939-0242ac120002)
+<div align="center">
+
+[← Previous: 7.02.02 - File integrity and hashes](FileIntegrityAndHashes7.2.2.md) | [Next: 7.04 - Network →](Network7.4.md)
+:-|-:

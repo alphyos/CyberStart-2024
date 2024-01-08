@@ -29,5 +29,7 @@ option. If an SSD was present then Prefetch was off. In later version of
  Windows, this was changed so that the system could calculate the
 performance of the SSD before deciding if Prefetch was needed.
 
-[← Previous: 7.08.01 - Registry and prefetch](https://play.cyberstart.com/field-manual/a82a131a-fde1-11ec-b939-0242ac120002)
-[Next: 7.08.03 - Event logs and log files →](https://play.cyberstart.com/field-manual/acc4d57c-fde1-11ec-b939-0242ac120002)
+<div align="center">
+
+[← Previous: 7.08.01 - Registry and prefetch](RegistryAndPrefetch7.8.1.md) | [Next: 7.08.03 - Event logs and log files →](EventLogsAndLogFiles7.8.3.md)
+:-|-:

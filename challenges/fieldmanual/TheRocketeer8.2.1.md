@@ -59,5 +59,7 @@ even get to sensitive data, logic and endpoints that they wouldn't
 otherwise have. This can lead to security bypasses, data theft and far
 worse!
 
-[← Previous: 8.01.04 - Lazy Locked Login](https://play.cyberstart.com/field-manual/22ebe910-0e88-11ec-82a8-0242ac130003)
-[Next: 8.02.02 - First Contact →](https://play.cyberstart.com/field-manual/811b38a6-0e88-11ec-82a8-0242ac130003)
+<div align="center">
+
+[← Previous: 8.01.04 - Lazy Locked Login](LazyLockedLogin8.1.4.md) | [Next: 8.02.02 - First Contact →](FirstContact8.2.2.md)
+:-|-:

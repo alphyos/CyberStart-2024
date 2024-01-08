@@ -108,5 +108,7 @@ variations as you're working 'blind'.
 > can expedite this hunting and exploitation process, and even automate
 > much of the process to build more advanced SQL injection inputs.
 
-[← Previous: 2.08 - Cookies and sessions](https://play.cyberstart.com/field-manual/8f9e3c44-d7eb-11eb-98f3-0242ac140009)
-[Next: 2.10 - Command injection →](https://play.cyberstart.com/field-manual/8f9f21e0-d7eb-11eb-9ae7-0242ac140009)
+<div align="center">
+
+[← Previous: 2.08 - Cookies and sessions](CookiesAndSessions2.8.md) | [Next: 2.10 - Command injection →](CommandInjection2.10.md)
+:-|-:

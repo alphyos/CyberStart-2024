@@ -34,5 +34,7 @@ We've really just covered some basics of hashing with the above and
 previous pages of the Field Manual and highly encourage you to research
 more online about this fascinating and critical area of cryptography!
 
-[← Previous: 3.04.02 - Collisions and poor use](https://play.cyberstart.com/field-manual/5b1d071b-d7eb-11eb-89e6-0242ac140009)
-[Next: 3.05.01 - ASCII →](https://play.cyberstart.com/field-manual/8faa18d4-d7eb-11eb-aa93-0242ac140009)
+<div align="center">
+
+[← Previous: 3.04.02 - Collisions and poor use](CollisionsAndPoorUse3.4.2.md) | [Next: 3.05.01 - ASCII →](Ascii3.5.1.md)
+:-|-:

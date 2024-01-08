@@ -9,7 +9,7 @@
 ## Automating tasks
 
 Finally, let's take a look at some scripting on Linux! This provides a
- pretty rich set of capabilities, and as you learn more about [Programming](https://play.cyberstart.com/field-manual/8fc594ba-d7eb-11eb-b20b-0242ac140009),
+ pretty rich set of capabilities, and as you learn more about [Programming](IntroductionToProgramming5.1.md),
  writing better scripts quickly will also become a lot easier. It's
 beyond the scope of this field manual to teach you about scripting
 overall; there's lots of different types and already many useful
@@ -40,7 +40,7 @@ done
 
 The first line here just tells Linux what tool this script is intended to work with, in this case `/bin/bash`.
 
-The next line states we need to loop through numbers 1 to 100, each time setting the number to the variable `i`. Next, we say for each of those iterations we want to print out some debug info, and use [netcat](https://play.cyberstart.com/field-manual/8fc23310-d7eb-11eb-8b90-0242ac140009) to connect to `127.0.0.1` with the port number provided as the variable `i`.
+The next line states we need to loop through numbers 1 to 100, each time setting the number to the variable `i`. Next, we say for each of those iterations we want to print out some debug info, and use [netcat](Netcat4.12.md) to connect to `127.0.0.1` with the port number provided as the variable `i`.
 
 So, the first attempt would be `nc 127.0.0.1 1`, then `nc 127.0.0.1 2` and so on.
 
@@ -70,5 +70,7 @@ with much less effort.
 > security in particular, but also comes in very handy for life in
 > general!
 
-[← Previous: 4.13 - Reading history](https://play.cyberstart.com/field-manual/8fc35358-d7eb-11eb-b062-0242ac140009)
-[Next: 5.01 - Introduction to programming →](https://play.cyberstart.com/field-manual/8fc594ba-d7eb-11eb-b20b-0242ac140009)
+<div align="center">
+
+[← Previous: 4.13 - Reading history](ReadingHistory4.13.md) | [Next: 5.01 - Introduction to programming →](IntroductionToProgramming5.1.md)
+:-|-:

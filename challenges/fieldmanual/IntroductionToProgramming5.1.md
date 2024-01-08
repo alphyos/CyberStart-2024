@@ -45,7 +45,7 @@ So what kind of things could you do with these new programming
 skills? Well, let's say you have a zip file secured with a password, but
  you can't quite remember what it is. You could write a simple program
 to iterate and try a bunch of passwords instead of doing it manually.
-You could create a program to scrape content from websites to gather [open source intelligence](https://play.cyberstart.com/field-manual/8fa15b22-d7eb-11eb-bd75-0242ac140009)
+You could create a program to scrape content from websites to gather [open source intelligence](OsintAndRobots2.13.md)
  for a pentest you're working on. Or perhaps you need to be able to
 encrypt data and transmit it between two systems using sound!
 Programming opens up a world of creativity and possibilities.

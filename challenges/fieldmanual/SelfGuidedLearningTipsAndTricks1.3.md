@@ -62,5 +62,7 @@ learning scan over it from time to time.
 > challenge is what makes it rewarding. Countless others have solved that
 > challenge before you, and you can too!
 
-[← Previous: 1.02 - Challenges](https://play.cyberstart.com/field-manual/8f973f20-d7eb-11eb-ba1c-0242ac140009)
-[Next: 1.04 - Asking for help →](https://play.cyberstart.com/field-manual/8f987df4-d7eb-11eb-948b-0242ac140009)
+<div align="center">
+
+[← Previous: 1.02 - Challenges](Challenges1.2.md) | [Next: 1.04 - Asking for help →](AskingForHelp1.4.md)
+:-|-:

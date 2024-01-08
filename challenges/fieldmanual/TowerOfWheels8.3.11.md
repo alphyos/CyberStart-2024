@@ -68,5 +68,7 @@ will, piece by piece. It's well worth spending time getting good at
 JavaScript and the developer tools - with so much online today, it'll
 open up a world of endless possibilities.
 
-[← Previous: 8.03.10 - Horrible Hats](https://play.cyberstart.com/field-manual/ce7c2bd6-0e89-11ec-82a8-0242ac130003)
-[Next: 8.03.12 - Binary Bike Lock →](https://play.cyberstart.com/field-manual/09abb3c0-0e8a-11ec-82a8-0242ac130003)
+<div align="center">
+
+[← Previous: 8.03.10 - Horrible Hats](HorribleHats8.3.10.md) | [Next: 8.03.12 - Binary Bike Lock →](BinaryBikeLock8.3.12.md)
+:-|-:

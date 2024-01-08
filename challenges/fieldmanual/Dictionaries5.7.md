@@ -34,7 +34,7 @@ james
 lyne
 ```
 
-In the example code we can see the structure of a dictionary. It's similar to the [Lists and tuples](https://play.cyberstart.com/field-manual/8fca838a-d7eb-11eb-93b2-0242ac140009)
+In the example code we can see the structure of a dictionary. It's similar to the [Lists and tuples](ListsAndTuples5.6.md)
  we've already looked at, though it's spread over a few lines to make it
  easier to read. Each item is still separated by a comma, however each
 item contains two components separated by a colon, for example `"firstname": "james"`. These are the **key** (firstname) and **value** (james).

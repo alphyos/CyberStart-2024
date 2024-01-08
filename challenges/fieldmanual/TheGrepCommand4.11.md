@@ -70,5 +70,7 @@ file.txt: Last line of file to complete our example.
 
 This will show 1 line after and 2 lines before, and you can change it as you like!
 
-[← Previous: 4.10 - SSH](https://play.cyberstart.com/field-manual/8fbfeb14-d7eb-11eb-926e-0242ac140009)
-[Next: 4.12 - Netcat →](https://play.cyberstart.com/field-manual/8fc23310-d7eb-11eb-8b90-0242ac140009)
+<div align="center">
+
+[← Previous: 4.10 - SSH](Ssh4.10.md) | [Next: 4.12 - Netcat →](Netcat4.12.md)
+:-|-:

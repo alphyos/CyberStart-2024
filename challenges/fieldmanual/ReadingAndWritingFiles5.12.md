@@ -126,5 +126,7 @@ you to continue your learning by searching for more knowledge online;
 there's so many great resources to learn from and so much to learn. Have
  fun and keep learning!
 
-[← Previous: 5.11 - Modules](https://play.cyberstart.com/field-manual/8fcf541e-d7eb-11eb-af45-0242ac140009)
-[Next: 6.01 - Introduction to binaries →](https://play.cyberstart.com/field-manual/8fe3a086-d7eb-11eb-b2fc-0242ac140009)
+<div align="center">
+
+[← Previous: 5.11 - Modules](Modules5.11.md) | [Next: 6.01 - Introduction to binaries →](IntroductionToBinaries6.1.md)
+:-|-:

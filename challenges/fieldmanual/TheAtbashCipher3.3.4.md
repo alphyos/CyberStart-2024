@@ -8,7 +8,7 @@
 
 ## A mirrored position cipher
 
-The Atbash cipher is a monoalphabetic substitution cipher and simply a variation of what we discussed with [Substitution ciphers](https://play.cyberstart.com/field-manual/8fa39d06-d7eb-11eb-9277-0242ac140009).
+The Atbash cipher is a monoalphabetic substitution cipher and simply a variation of what we discussed with [Substitution ciphers](SubstitutionCiphers3.3.1.md).
  The way this cipher works is that each ciphertext character position is
  at the mirror opposite position of the regular alphabet, meaning `A` in your plaintext would map to `Z` in the ciphertext, `B` would map to `Y` and so on. Here's the full mapping:
 
@@ -36,5 +36,7 @@ looking for certain words and this may well evade those checks. It's a
 simple solution that could still be effective and sometimes the simplest
  solutions could be the best.
 
-[← Previous: 3.03.03 - The Arnold cipher](https://play.cyberstart.com/field-manual/8fa5644c-d7eb-11eb-96ff-0242ac140009)
-[Next: 3.03.05 - Taking it further →](https://play.cyberstart.com/field-manual/8fa75d4c-d7eb-11eb-94ff-0242ac140009)
+<div align="center">
+
+[← Previous: 3.03.03 - The Arnold cipher](TheArnoldCipher3.3.3.md) | [Next: 3.03.05 - Taking it further →](TakingItFurther3.3.5.md)
+:-|-:

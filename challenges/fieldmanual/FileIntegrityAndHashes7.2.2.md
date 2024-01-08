@@ -24,7 +24,7 @@ change by even one bit, the hash produced by the hashing algorithm will
 change drastically, in what is known as the 'avalanche effect'.
 
 MD5, SHA1, SHA-256 are a few examples of common hashing algorithms
-you may come across. For more information on hashing, check out the [Hashing](https://play.cyberstart.com/field-manual/8fa8fec2-d7eb-11eb-9cd0-0242ac140009) page in the Cryptography section.
+you may come across. For more information on hashing, check out the [Hashing](IntroductionToHashing3.4.1.md) page in the Cryptography section.
 
 ## Hash Collisions and forensics
 

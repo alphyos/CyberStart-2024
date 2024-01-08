@@ -36,5 +36,7 @@ volatile memory dumps. It does not, however, currently have acquisition
 capabilities and other tools are required in order to first acquire
 these memory dumps for investigation.
 
-[← Previous: 7.09.04 - Tcpdump](https://play.cyberstart.com/field-manual/368c9658-0109-11ed-b939-0242ac120002)
-[Next: 7.09.06 - Autopsy →](https://play.cyberstart.com/field-manual/babc498c-0109-11ed-b939-0242ac120002)
+<div align="center">
+
+[← Previous: 7.09.04 - Tcpdump](Tcpdump7.9.4.md) | [Next: 7.09.06 - Autopsy →](Autopsy7.9.6.md)
+:-|-:

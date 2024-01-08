@@ -88,5 +88,7 @@ can be run from the command line and how to place it within the path, so
  it can be ran from anywhere. Next up - let's look at some common
 programming aspects, starting with variables.
 
-[← Previous: 5.01 - Introduction to programming](https://play.cyberstart.com/field-manual/8fc594ba-d7eb-11eb-b20b-0242ac140009)
-[Next: 5.03 - Variables →](https://play.cyberstart.com/field-manual/8fc782c0-d7eb-11eb-9054-0242ac140009)
+<div align="center">
+
+[← Previous: 5.01 - Introduction to programming](IntroductionToProgramming5.1.md) | [Next: 5.03 - Variables →](Variables5.3.md)
+:-|-:

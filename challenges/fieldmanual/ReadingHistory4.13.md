@@ -59,5 +59,7 @@ find?
 
 > Fun fact! If you don't want a command to appear in the history you can prefix it with a space.
 
-[← Previous: 4.12 - Netcat](https://play.cyberstart.com/field-manual/8fc23310-d7eb-11eb-8b90-0242ac140009)
-[Next: 4.14 - Scripting →](https://play.cyberstart.com/field-manual/8fc474b8-d7eb-11eb-8cc8-0242ac140009)
+<div align="center">
+
+[← Previous: 4.12 - Netcat](Netcat4.12.md) | [Next: 4.14 - Scripting →](Scripting4.14.md)
+:-|-:

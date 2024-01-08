@@ -39,7 +39,7 @@ bash: ./custombinary: Permission denied
 
 Often if this is the first time you're trying to execute a custom
 binary file, you'll receive a permissions error similar to the above. As
- we've covered in the [Linux permissions](https://play.cyberstart.com/field-manual/8fbbbdf0-d7eb-11eb-9d1f-0242ac140009) section, you'll need to give this file executable permissions:
+ we've covered in the [Linux permissions](LinuxPermissions4.7.md) section, you'll need to give this file executable permissions:
 
 ```console
 $ chmod +x custombinary
@@ -94,7 +94,9 @@ root           5  0.0  0.0      0     0 ?        I<   09:56   0:00 [netns]
 
 In the example here we can see the user the process belongs to, the **process ID (PID)**, performance information, as well as the command that is running if available.
 
-> The process ID is particularly useful if you need to [stop a program that is currently running](https://play.cyberstart.com/field-manual/8fbecfe0-d7eb-11eb-8e19-0242ac140009).
+> The process ID is particularly useful if you need to [stop a program that is currently running](StoppingProgramExecution4.9.md).
 
-[← Previous: 4.07 - Linux permissions](https://play.cyberstart.com/field-manual/8fbbbdf0-d7eb-11eb-9d1f-0242ac140009)
-[Next: 4.09 - Stopping program execution →](https://play.cyberstart.com/field-manual/8fbecfe0-d7eb-11eb-8e19-0242ac140009)
+<div align="center">
+
+[← Previous: 4.07 - Linux permissions](LinuxPermissions4.7.md) | [Next: 4.09 - Stopping program execution →](StoppingProgramExecution4.9.md)
+:-|-:

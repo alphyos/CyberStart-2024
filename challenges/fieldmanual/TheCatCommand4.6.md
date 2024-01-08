@@ -43,7 +43,7 @@ $ cat /bin/ping
 
 As with most commands, you can get more information from the manual: `man cat`. This will show the various arguments available, such as the useful `-s` to suppress repeated empty lines. Most of the time, however, it's just a quick and easy way to print data.
 
-Note that much like [Changing directories](https://play.cyberstart.com/field-manual/8fb97a90-d7eb-11eb-9f69-0242ac140009), you can use this **relative** to your current directory as above for the 'text' and 'text2' files, or for an **absolute** reference to a file such as the ping example.
+Note that much like [Changing directories](ChangingDirectoriesWithCd4.5.md), you can use this **relative** to your current directory as above for the 'text' and 'text2' files, or for an **absolute** reference to a file such as the ping example.
 
 Finally, the output from the `cat` command (along with many other commands) can passed along to another command, or saved into another file.
 
@@ -63,5 +63,7 @@ May the force be with you
 I'll be back
 ```
 
-[← Previous: 4.05 - Changing directories with cd](https://play.cyberstart.com/field-manual/8fb97a90-d7eb-11eb-9f69-0242ac140009)
-[Next: 4.07 - Linux permissions →](https://play.cyberstart.com/field-manual/8fbbbdf0-d7eb-11eb-9d1f-0242ac140009)
+<div align="center">
+
+[← Previous: 4.05 - Changing directories with cd](ChangingDirectoriesWithCd4.5.md) | [Next: 4.07 - Linux permissions →](LinuxPermissions4.7.md)
+:-|-:

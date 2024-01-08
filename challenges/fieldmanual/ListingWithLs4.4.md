@@ -20,7 +20,7 @@ Depending on the contents of the directory you should see a series of
  different types of items shown. For example, a directory will have a
 different colour than a file, and yet another colour for an *executable* file. This is interesting but there's more information we can see.
 
-> Don't forget you can double-tab to autocomplete, as covered in the [Executing commands](https://play.cyberstart.com/field-manual/8fb65a2c-d7eb-11eb-86fb-0242ac140009) page.
+> Don't forget you can double-tab to autocomplete, as covered in the [Executing commands](ExecutingCommands4.2.md) page.
 
 There's many arguments we can provide to customise the `ls` command - if we pass the `-a` argument to the command, we can see some hidden files that weren't shown before:
 
@@ -55,7 +55,7 @@ drwxrwxr-x  2 mainuser mainuser  4096 Sep  5 09:49 dir1
 This shows us the permissions associated with these files (the first
 column of d, r, w, x and -) as well as the file size (the 5th column,
 for example 76744 bytes). For more information on the file permission
-letters and what it all means, check out the [Linux permissions](https://play.cyberstart.com/field-manual/8fbbbdf0-d7eb-11eb-9d1f-0242ac140009) section of the Field Manual.
+letters and what it all means, check out the [Linux permissions](LinuxPermissions4.7.md) section of the Field Manual.
 
 As we provided multiple arguments with `-al`, we can still see the hidden file as well as long listing format. It's covering both as requested.
 

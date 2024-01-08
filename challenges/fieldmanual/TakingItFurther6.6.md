@@ -29,5 +29,7 @@ There are also some books we would recommend if you are really interested in thi
 > introducing more content and video guides all the time! The key with
 > binary exploitation is not to give up - it is a tough skill to master!
 
-[← Previous: 6.05 - Buffer overflows](https://play.cyberstart.com/field-manual/8fe8a90a-d7eb-11eb-9ace-0242ac140009)
-[Next: 7.01 - Introduction to forensics →](https://play.cyberstart.com/field-manual/426eb562-fde1-11ec-b939-0242ac120002)
+<div align="center">
+
+[← Previous: 6.05 - Buffer overflows](BufferOverflows6.5.md) | [Next: 7.01 - Introduction to forensics →](IntroductionToForensics7.1.md)
+:-|-:

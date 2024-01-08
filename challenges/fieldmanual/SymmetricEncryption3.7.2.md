@@ -51,5 +51,7 @@ enter aes-256-cbc decryption password:
 
 Note we added the -d and of course you will also need the same passphrase!
 
-[← Previous: 3.07.01 - XOR encryption](https://play.cyberstart.com/field-manual/8fb2cccc-d7eb-11eb-9a39-0242ac140009)
-[Next: 3.07.03 - Asymmetric encryption →](https://play.cyberstart.com/field-manual/8fb487ec-d7eb-11eb-a506-0242ac140009)
+<div align="center">
+
+[← Previous: 3.07.01 - XOR encryption](XorEncryption3.7.1.md) | [Next: 3.07.03 - Asymmetric encryption →](AsymmetricEncryption3.7.3.md)
+:-|-:

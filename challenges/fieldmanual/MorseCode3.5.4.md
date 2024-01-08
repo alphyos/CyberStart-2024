@@ -31,5 +31,7 @@ decoded manually using a lookup table, pen and paper, but alternatively,
  there are numerous tools available to help you decode it, and even some
  Python modules!
 
-[← Previous: 3.05.03 - QR codes and barcodes](https://play.cyberstart.com/field-manual/8facd10a-d7eb-11eb-a4ed-0242ac140009)
-[Next: 3.05.05 - Base64 and Base32 →](https://play.cyberstart.com/field-manual/8faf58c6-d7eb-11eb-a4e2-0242ac140009)
+<div align="center">
+
+[← Previous: 3.05.03 - QR codes and barcodes](QrCodesAndBarcodes3.5.3.md) | [Next: 3.05.05 - Base64 and Base32 →](Base64AndBase323.5.5.md)
+:-|-:

@@ -40,5 +40,7 @@ certainly is powerful!
 > and widely validated is prudent. If you are unsure, running a test in a
 > Virtual Machine is a good way to experiment safely.
 
-[← Previous: 2.06 - Command line web requests and curl](https://play.cyberstart.com/field-manual/8f9d3e16-d7eb-11eb-9813-0242ac140009)
-[Next: 2.08 - Cookies and sessions →](https://play.cyberstart.com/field-manual/8f9e3c44-d7eb-11eb-98f3-0242ac140009)
+<div align="center">
+
+[← Previous: 2.06 - Command line web requests and curl](CommandLineWebRequestsAndCurl2.6.md) | [Next: 2.08 - Cookies and sessions →](CookiesAndSessions2.8.md)
+:-|-:

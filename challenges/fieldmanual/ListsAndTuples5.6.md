@@ -32,7 +32,7 @@ If we just print out the variable `interesting` we would see `[19, 'string', 3, 
 In fact, for all we know it could just be a string! However, with the
 next line we can see something a bit more meaningful.
 
-We print `interesting[3]`, which (as briefly mentioned in the [Variables](https://play.cyberstart.com/field-manual/8fc782c0-d7eb-11eb-9054-0242ac140009) page) asks for the value at **index 3**. As noted before, the index starts at 0, and so the value printed here would be `1337`.
+We print `interesting[3]`, which (as briefly mentioned in the [Variables](Variables5.3.md) page) asks for the value at **index 3**. As noted before, the index starts at 0, and so the value printed here would be `1337`.
 
 Note that the items inside the list remain in the order we provided
 them in. They're not being automatically sorted in any particular order.

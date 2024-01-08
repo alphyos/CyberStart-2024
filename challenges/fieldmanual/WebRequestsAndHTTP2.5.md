@@ -16,7 +16,7 @@ HTTP follows a client-server model: where a client will send a
 request to a server and wait until it receives a response. It was also a
  stateless protocol, meaning that HTTP itself did not maintain any data
 between individual requests. State has since been added with the
-inclusion of [Cookies](https://play.cyberstart.com/field-manual/8f9e3c44-d7eb-11eb-98f3-0242ac140009), which allow a web browser and web server to persist data between requests.
+inclusion of [Cookies](CookiesAndSessions2.8.md), which allow a web browser and web server to persist data between requests.
 
 The protocol includes different **methods** that can change the way a client and server will interpret the request.
 
@@ -62,5 +62,7 @@ Note that whilst we can modify the data being sent via GET or POST, a
  the exceptions. Unfortunately, that does not always happen and can lead
  to security flaws!
 
-[← Previous: 2.04 - Manipulating URLs](https://play.cyberstart.com/field-manual/8f9c459c-d7eb-11eb-b2bb-0242ac140009)
-[Next: 2.06 - Command line web requests and curl →](https://play.cyberstart.com/field-manual/8f9d3e16-d7eb-11eb-9813-0242ac140009)
+<div align="center">
+
+[← Previous: 2.04 - Manipulating URLs](ManipulatingUrls2.4.md) | [Next: 2.06 - Command line web requests and curl →](CommandLineWebRequestsAndCurl2.6.md)
+:-|-:

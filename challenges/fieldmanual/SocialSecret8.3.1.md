@@ -49,5 +49,7 @@ doing reconnaissance, but there's a lot of tools out there that can help
  automate the process too, so a hacker can quickly gain a profile of the
  victim. Don't make it easy for them!
 
-[← Previous: 8.02.04 - Rover Rodeo](https://play.cyberstart.com/field-manual/789ab952-ade9-11ed-afa1-0242ac120002)
-[Next: 8.03.02 - Broken Banks →](https://play.cyberstart.com/field-manual/f2860f0c-0e88-11ec-82a8-0242ac130003)
+<div align="center">
+
+[← Previous: 8.02.04 - Rover Rodeo](RoverRodeo8.2.4.md) | [Next: 8.03.02 - Broken Banks →](BrokenBanks8.3.2.md)
+:-|-:
