@@ -36,5 +36,7 @@ to meddle with, plus perhaps comments left by the developers which might
 > very useful whether we are testing an application to find a way in, or
 > understanding how a cyber criminal distributed some malicious code!
 
-[← Previous: 2.02 - The client and server side](https://play.cyberstart.com/field-manual/8f9b4dc2-d7eb-11eb-ae1f-0242ac140009)
-[Next: 2.03.02 - Console →](https://play.cyberstart.com/field-manual/8fe93ace-a868-11ed-afa1-0242ac120002)
+<div align="center">
+
+[← Previous: 2.02 - The client and server side](TheClientAndServerSide2.2.md) | [Next: 2.03.02 - Console →](Console2.3.2.md)
+:-|-:

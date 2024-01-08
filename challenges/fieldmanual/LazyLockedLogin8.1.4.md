@@ -75,5 +75,7 @@ meddling with the interface), plus also server-side security too, in
 order to stop them actually actioning something you don't to happen also
  on your server. Quite simply think - client-side security for *robust interfaces* and server-side security to provide the *real security*. This challenge shows as a demo what happens if you only have client-side security ...it's simply not enough!
 
-[← Previous: 8.01.03 - Social Engineering](https://play.cyberstart.com/field-manual/11bd01ce-0e88-11ec-82a8-0242ac130003)
-[Next: 8.02.01 - The Rocketeer →](https://play.cyberstart.com/field-manual/67608bf0-0e88-11ec-82a8-0242ac130003)
+<div align="center">
+
+[← Previous: 8.01.03 - Social Engineering](SocialEngineering8.1.3.md) | [Next: 8.02.01 - The Rocketeer →](TheRocketeer8.2.1.md)
+:-|-:

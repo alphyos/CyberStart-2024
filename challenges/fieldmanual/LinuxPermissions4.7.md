@@ -87,5 +87,7 @@ $ ./ping2
 > scratching the surface. They are very well documented, so consider it a
 > research assignment to go and learn more. You might find the `suid` and `sguid` rights particularly interesting!
 
-[← Previous: 4.06 - The cat command](https://play.cyberstart.com/field-manual/8fbaa28a-d7eb-11eb-a2b6-0242ac140009)
-[Next: 4.08 - Running programs →](https://play.cyberstart.com/field-manual/8fbdb7fe-d7eb-11eb-8381-0242ac140009)
+<div align="center">
+
+[← Previous: 4.06 - The cat command](TheCatCommand4.6.md) | [Next: 4.08 - Running programs →](RunningPrograms4.8.md)
+:-|-:

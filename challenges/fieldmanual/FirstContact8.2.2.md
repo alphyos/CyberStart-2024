@@ -65,5 +65,7 @@ another, perhaps up or down a digit, or `0`, `-1`, `NULL`, `[]`
  or other values? If the developer of the site doesn't handle cases like
  and others these well, it can lead to lots of unexpected consequences!
 
-[← Previous: 8.02.01 - The Rocketeer](https://play.cyberstart.com/field-manual/67608bf0-0e88-11ec-82a8-0242ac130003)
-[Next: 8.02.03 - Galactic Greetings →](https://play.cyberstart.com/field-manual/abda13c8-0e88-11ec-82a8-0242ac130003)
+<div align="center">
+
+[← Previous: 8.02.01 - The Rocketeer](TheRocketeer8.2.1.md) | [Next: 8.02.03 - Galactic Greetings →](GalacticGreetings8.2.3.md)
+:-|-:

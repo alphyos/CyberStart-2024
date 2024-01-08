@@ -35,5 +35,7 @@ ext2/3/4, and UNIX. File systems such as FAT (File Allocation Table) and
 different to NTFS, as NTFS provides indexing and efficient storage of
 large data for fast lookups.
 
-[← Previous: 7.05 - Memory](https://play.cyberstart.com/field-manual/7ec662f8-fde1-11ec-b939-0242ac120002)
-[Next: 7.06.02 - Disk capture →](https://play.cyberstart.com/field-manual/8e94a08c-fde1-11ec-b939-0242ac120002)
+<div align="center">
+
+[← Previous: 7.05 - Memory](Memory7.5.md) | [Next: 7.06.02 - Disk capture →](DiskCapture7.6.2.md)
+:-|-:

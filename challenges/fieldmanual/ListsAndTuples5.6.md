@@ -139,5 +139,7 @@ There is much more you can do with lists and tuples, far more than we
 However, hopefully you can start to see how these data types can be used
  and how they might fit into your own programs.
 
-[← Previous: 5.05 - Mathematical functions](https://play.cyberstart.com/field-manual/8fc98354-d7eb-11eb-8ede-0242ac140009)
-[Next: 5.07 - Dictionaries →](https://play.cyberstart.com/field-manual/8fcb8488-d7eb-11eb-bf0c-0242ac140009)
+<div align="center">
+
+[← Previous: 5.05 - Mathematical functions](MathematicalFunctions5.5.md) | [Next: 5.07 - Dictionaries →](Dictionaries5.7.md)
+:-|-:

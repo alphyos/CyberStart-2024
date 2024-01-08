@@ -58,5 +58,7 @@ otherwise pre-installed on the Cyberstart VM.*
 > the tools are incredibly helpful in the higher levels. It is worth the
 > practice and could be one of the most valuable tech skills you develop.
 
-[← Previous: 3.07.03 - Asymmetric encryption](https://play.cyberstart.com/field-manual/8fb487ec-d7eb-11eb-a506-0242ac140009)
-[Next: 4.02 - Executing commands →](https://play.cyberstart.com/field-manual/8fb65a2c-d7eb-11eb-86fb-0242ac140009)
+<div align="center">
+
+[← Previous: 3.07.03 - Asymmetric encryption](AsymmetricEncryption3.7.3.md) | [Next: 4.02 - Executing commands →](ExecutingCommands4.2.md)
+:-|-:

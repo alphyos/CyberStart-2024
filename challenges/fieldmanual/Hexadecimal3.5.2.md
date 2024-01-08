@@ -67,5 +67,7 @@ ready to covert data for you.
 
 There's some great hex editing tools to make use of if you need to do more than just a quick conversion. Some of these might be [hexedit](https://linux.die.net/man/1/hexedit) if you want to edit some hex in your terminal, [Ghex](https://wiki.gnome.org/Apps/Ghex) if you'd prefer a GUI app and there's great online editors such as [HexEd](https://hexed.it/) if you don't want to install anything and just want something in your browser.
 
-[← Previous: 3.05.01 - ASCII](https://play.cyberstart.com/field-manual/8faa18d4-d7eb-11eb-aa93-0242ac140009)
-[Next: 3.05.03 - QR codes and barcodes →](https://play.cyberstart.com/field-manual/8facd10a-d7eb-11eb-a4ed-0242ac140009)
+<div align="center">
+
+[← Previous: 3.05.01 - ASCII](Ascii3.5.1.md) | [Next: 3.05.03 - QR codes and barcodes →](QrCodesAndBarcodes3.5.3.md)
+:-|-:

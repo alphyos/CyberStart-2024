@@ -86,5 +86,7 @@ the man pages - `man curl` and `man wget`.
 > you end up on a system with no graphical user interface and need to
 > download a file!
 
-[← Previous: 2.05 - Web requests and HTTP](https://play.cyberstart.com/field-manual/8f9cbd06-d7eb-11eb-93d2-0242ac140009)
-[Next: 2.07 - Web plug-ins →](https://play.cyberstart.com/field-manual/8f9db4a4-d7eb-11eb-8b9d-0242ac140009)
+<div align="center">
+
+[← Previous: 2.05 - Web requests and HTTP](WebRequestsAndHttp2.5.md) | [Next: 2.07 - Web plug-ins →](WebPlug-ins2.7.md)
+:-|-:

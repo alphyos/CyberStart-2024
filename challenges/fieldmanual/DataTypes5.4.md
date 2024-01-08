@@ -82,5 +82,7 @@ the type that you need. As your programming skills improve, you'll gain a
  better understanding of where and when different types of data are
 particularly important!
 
-[← Previous: 5.03 - Variables](https://play.cyberstart.com/field-manual/8fc782c0-d7eb-11eb-9054-0242ac140009)
-[Next: 5.05 - Mathematical functions →](https://play.cyberstart.com/field-manual/8fc98354-d7eb-11eb-8ede-0242ac140009)
+<div align="center">
+
+[← Previous: 5.03 - Variables](Variables5.3.md) | [Next: 5.05 - Mathematical functions →](MathematicalFunctions5.5.md)
+:-|-:

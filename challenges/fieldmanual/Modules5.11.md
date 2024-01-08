@@ -102,5 +102,7 @@ Nice! We have successfully imported our own module and called a function from wi
 > available. This will take your use of reusable code to new higher
 > levels.
 
-[← Previous: 5.10 - Functions](https://play.cyberstart.com/field-manual/8fce691e-d7eb-11eb-94cc-0242ac140009)
-[Next: 5.12 - Reading and writing files →](https://play.cyberstart.com/field-manual/8fd149ea-d7eb-11eb-99c7-0242ac140009)
+<div align="center">
+
+[← Previous: 5.10 - Functions](Functions5.10.md) | [Next: 5.12 - Reading and writing files →](ReadingAndWritingFiles5.12.md)
+:-|-:

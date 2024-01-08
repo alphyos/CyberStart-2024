@@ -56,5 +56,7 @@ some areas of encryption, common misunderstandings people often fall
 into and how to make good choices in cryptography. Let's start by
 looking at password complexity in the next section.
 
-[← Previous: 2.13 - OSINT and Robots](https://play.cyberstart.com/field-manual/8fa15b22-d7eb-11eb-bd75-0242ac140009)
-[Next: 3.02 - Password complexity →](https://play.cyberstart.com/field-manual/54e63ffc-0e8c-11ec-82a8-0242ac130003)
+<div align="center">
+
+[← Previous: 2.13 - OSINT and Robots](OsintAndRobots2.13.md) | [Next: 3.02 - Password complexity →](PasswordComplexity3.2.md)
+:-|-:

@@ -66,5 +66,7 @@ This will output the entry point (where execution starts) and various sizes and 
 > powerful user, you can potentially change the code to do things you're
 > not supposed to be able to do. This is privilege escalation!
 
-[← Previous: 6.01 - Introduction to binaries](https://play.cyberstart.com/field-manual/8fe3a086-d7eb-11eb-b2fc-0242ac140009)
-[Next: 6.03 - Compiling a binary →](https://play.cyberstart.com/field-manual/8fe69958-d7eb-11eb-989f-0242ac140009)
+<div align="center">
+
+[← Previous: 6.01 - Introduction to binaries](IntroductionToBinaries6.1.md) | [Next: 6.03 - Compiling a binary →](CompilingABinary6.3.md)
+:-|-:

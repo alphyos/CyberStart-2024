@@ -35,5 +35,7 @@ game of evading detection can mean hackers try other file types, each
 which may or may not work. A cyber criminal only needs to get lucky
 once, whereas a defender has to be lucky every time!
 
-[← Previous: 8.03.05 - Mixed Messages](https://play.cyberstart.com/field-manual/4ecd5df6-0e89-11ec-82a8-0242ac130003)
-[Next: 8.03.07 - Secret Caesar →](https://play.cyberstart.com/field-manual/81c783e4-0e89-11ec-82a8-0242ac130003)
+<div align="center">
+
+[← Previous: 8.03.05 - Mixed Messages](MixedMessages8.3.5.md) | [Next: 8.03.07 - Secret Caesar →](SecretCaesar8.3.7.md)
+:-|-:

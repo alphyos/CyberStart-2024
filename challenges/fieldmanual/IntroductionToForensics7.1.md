@@ -27,5 +27,7 @@ Whatever the focus and aims of the forensics investigation, you'll
 likely find it a fascinating subject. Let's start looking at the crucial
  areas of this really important field of cyber security investigations!
 
-[← Previous: 6.06 - Taking it further](https://play.cyberstart.com/field-manual/8fea9e40-d7eb-11eb-86cd-0242ac140009)
-[Next: 7.02.01 - Headers and strings →](https://play.cyberstart.com/field-manual/5270a6d2-fde1-11ec-b939-0242ac120002)
+<div align="center">
+
+[← Previous: 6.06 - Taking it further](TakingItFurther6.6.md) | [Next: 7.02.01 - Headers and strings →](HeadersAndStrings7.2.1.md)
+:-|-:

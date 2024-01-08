@@ -87,5 +87,7 @@ Many analysts have been caught out by shifts in time zone, so we
 recommend that you convert all time stamps to UTC format across the
 entirety of your report.
 
-[← Previous: 7.08.02 - Prefetch](https://play.cyberstart.com/field-manual/6a9afb54-0106-11ed-b939-0242ac120002)
-[Next: 7.09.01 - Tools →](https://play.cyberstart.com/field-manual/007a3f76-0108-11ed-b939-0242ac120002)
+<div align="center">
+
+[← Previous: 7.08.02 - Prefetch](Prefetch7.8.2.md) | [Next: 7.09.01 - Tools →](Tools7.9.1.md)
+:-|-:

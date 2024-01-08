@@ -124,5 +124,7 @@ then check the box for "Show Develop menu in menu bar".
 
 If you don't see the console within the developer tools, click the "Console" tab.
 
-[← Previous: 2.03.01 - Dev tools introduction](https://play.cyberstart.com/field-manual/8f9bd120-d7eb-11eb-b132-0242ac140009)
-[Next: 2.04 - Manipulating URLs →](https://play.cyberstart.com/field-manual/8f9c459c-d7eb-11eb-b2bb-0242ac140009)
+<div align="center">
+
+[← Previous: 2.03.01 - Dev tools introduction](DevToolsIntroduction2.3.1.md) | [Next: 2.04 - Manipulating URLs →](ManipulatingUrls2.4.md)
+:-|-:

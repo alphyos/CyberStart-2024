@@ -50,5 +50,7 @@ case across all kinds of challenges we face in cybersecurity and IT - be
  sure to look for existing tools that can help with common tasks,
 leaving our time and knowledge for the big issues!
 
-[← Previous: 8.02.02 - First Contact](https://play.cyberstart.com/field-manual/811b38a6-0e88-11ec-82a8-0242ac130003)
-[Next: 8.02.04 - Rover Rodeo →](https://play.cyberstart.com/field-manual/789ab952-ade9-11ed-afa1-0242ac120002)
+<div align="center">
+
+[← Previous: 8.02.02 - First Contact](FirstContact8.2.2.md) | [Next: 8.02.04 - Rover Rodeo →](RoverRodeo8.2.4.md)
+:-|-:

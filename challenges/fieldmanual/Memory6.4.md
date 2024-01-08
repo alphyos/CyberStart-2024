@@ -61,5 +61,7 @@ Many programming languages contain a built-in *garbage collector*,
 languages, such as C, do not include this feature by default and it is
 left to the programmer to clear up as they'd like.
 
-[← Previous: 6.03 - Compiling a binary](https://play.cyberstart.com/field-manual/8fe69958-d7eb-11eb-989f-0242ac140009)
-[Next: 6.05 - Buffer overflows →](https://play.cyberstart.com/field-manual/8fe8a90a-d7eb-11eb-9ace-0242ac140009)
+<div align="center">
+
+[← Previous: 6.03 - Compiling a binary](CompilingABinary6.3.md) | [Next: 6.05 - Buffer overflows →](BufferOverflows6.5.md)
+:-|-:

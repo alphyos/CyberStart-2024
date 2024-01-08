@@ -53,5 +53,7 @@ known variations to try.
 Remember that running tools and guessing how to manipulate URLs
 requires permission. If you do this on a website without permission **you could be breaking a local computer crime law!**
 
-[← Previous: 2.03.02 - Console](https://play.cyberstart.com/field-manual/8fe93ace-a868-11ed-afa1-0242ac120002)
-[Next: 2.05 - Web requests and HTTP →](https://play.cyberstart.com/field-manual/8f9cbd06-d7eb-11eb-93d2-0242ac140009)
+<div align="center">
+
+[← Previous: 2.03.02 - Console](Console2.3.2.md) | [Next: 2.05 - Web requests and HTTP →](WebRequestsAndHttp2.5.md)
+:-|-:

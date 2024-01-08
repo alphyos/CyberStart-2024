@@ -77,5 +77,7 @@ Here we can see the file size represented with the more common and human readabl
 
 > You will be using this command a great deal, so get used to it!
 
-[← Previous: 4.03 - whoami](https://play.cyberstart.com/field-manual/8fb7707e-d7eb-11eb-ad95-0242ac140009)
-[Next: 4.05 - Changing directories with cd →](https://play.cyberstart.com/field-manual/8fb97a90-d7eb-11eb-9f69-0242ac140009)
+<div align="center">
+
+[← Previous: 4.03 - whoami](Whoami4.3.md) | [Next: 4.05 - Changing directories with cd →](ChangingDirectoriesWithCd4.5.md)
+:-|-:

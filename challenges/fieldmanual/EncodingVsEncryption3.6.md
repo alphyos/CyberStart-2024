@@ -57,5 +57,7 @@ somewhere.
 > tool for the job... encoding is for transfer, encrypting is for
 > security!
 
-[← Previous: 3.05.06 - UTF-8](https://play.cyberstart.com/field-manual/8fb033a4-d7eb-11eb-a556-0242ac140009)
-[Next: 3.07.01 - XOR encryption →](https://play.cyberstart.com/field-manual/8fb2cccc-d7eb-11eb-9a39-0242ac140009)
+<div align="center">
+
+[← Previous: 3.05.06 - UTF-8](Utf-83.5.6.md) | [Next: 3.07.01 - XOR encryption →](XorEncryption3.7.1.md)
+:-|-:

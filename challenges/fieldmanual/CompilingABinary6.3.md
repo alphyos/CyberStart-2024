@@ -68,5 +68,7 @@ compiled languages such as Rust, Go and even Assembly.
 > your job to check out source code (or even better - run inside a VM) to
 > make sure you're happy to execute it!
 
-[← Previous: 6.02 - ELF and EXE files](https://play.cyberstart.com/field-manual/8fe5a840-d7eb-11eb-a721-0242ac140009)
-[Next: 6.04 - Memory →](https://play.cyberstart.com/field-manual/8fe7b626-d7eb-11eb-a59b-0242ac140009)
+<div align="center">
+
+[← Previous: 6.02 - ELF and EXE files](ElfAndExeFiles6.2.md) | [Next: 6.04 - Memory →](Memory6.4.md)
+:-|-:

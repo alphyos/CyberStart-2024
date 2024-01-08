@@ -46,5 +46,7 @@ will see - there's usually a lot of extra information for computers to
 work with, and it's that hidden data that can lead to all kinds of
 unseen bypasses and trickery!
 
-[← Previous: 7.09.06 - Autopsy](https://play.cyberstart.com/field-manual/babc498c-0109-11ed-b939-0242ac120002)
-[Next: 8.01.02 - Mixed Up Messages →](https://play.cyberstart.com/field-manual/e8c1b490-0e87-11ec-82a8-0242ac130003)
+<div align="center">
+
+[← Previous: 7.09.06 - Autopsy](Autopsy7.9.6.md) | [Next: 8.01.02 - Mixed Up Messages →](MixedUpMessages8.1.2.md)
+:-|-:

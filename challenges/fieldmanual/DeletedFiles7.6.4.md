@@ -24,5 +24,7 @@ through overuse. This means that even if you try to overwrite a file, it
 overwritten. The only way to truly securely delete from an SSD drive is
 to destroy the drive altogether.
 
-[← Previous: 7.06.03 - File system forensics](https://play.cyberstart.com/field-manual/93317250-fde1-11ec-b939-0242ac120002)
-[Next: 7.07 - Email →](https://play.cyberstart.com/field-manual/a1de3266-fde1-11ec-b939-0242ac120002)
+<div align="center">
+
+[← Previous: 7.06.03 - File system forensics](FileSystemForensics7.6.3.md) | [Next: 7.07 - Email →](Email7.7.md)
+:-|-:

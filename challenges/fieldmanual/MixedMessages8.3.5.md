@@ -45,5 +45,7 @@ programs today, they often identify viruses via *pattern-matching*
 mean mixing up characters is a very valid technique, used with great
 success in bypassing scanning and filters.
 
-[← Previous: 8.03.04 - Race To Where](https://play.cyberstart.com/field-manual/2e7178ee-0e89-11ec-82a8-0242ac130003)
-[Next: 8.03.06 - Executable →](https://play.cyberstart.com/field-manual/6ab82c3a-0e89-11ec-82a8-0242ac130003)
+<div align="center">
+
+[← Previous: 8.03.04 - Race To Where](RaceToWhere8.3.4.md) | [Next: 8.03.06 - Executable →](Executable8.3.6.md)
+:-|-:

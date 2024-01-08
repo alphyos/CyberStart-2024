@@ -107,5 +107,7 @@ Here we have a top-level dictionary (the variable `taxi`) which contains some st
 > inside your programs. Be sure to experiment and identify which types are
 > best suited to your desired use-cases!
 
-[← Previous: 5.06 - Lists and tuples](https://play.cyberstart.com/field-manual/8fca838a-d7eb-11eb-93b2-0242ac140009)
-[Next: 5.08 - Conditionals (if statements) →](https://play.cyberstart.com/field-manual/8fcc80e0-d7eb-11eb-a580-0242ac140009)
+<div align="center">
+
+[← Previous: 5.06 - Lists and tuples](ListsAndTuples5.6.md) | [Next: 5.08 - Conditionals (if statements) →](Conditionals(ifStatements)5.8.md)
+:-|-:

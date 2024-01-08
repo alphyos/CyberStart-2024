@@ -108,5 +108,7 @@ without writing any of your own functions; it would likely be a bloated,
 re-usable and easy to maintain programs and should definitely be
 something you use a lot!
 
-[← Previous: 5.09 - Loops](https://play.cyberstart.com/field-manual/8fcd80e4-d7eb-11eb-8663-0242ac140009)
-[Next: 5.11 - Modules →](https://play.cyberstart.com/field-manual/8fcf541e-d7eb-11eb-af45-0242ac140009)
+<div align="center">
+
+[← Previous: 5.09 - Loops](Loops5.9.md) | [Next: 5.11 - Modules →](Modules5.11.md)
+:-|-:

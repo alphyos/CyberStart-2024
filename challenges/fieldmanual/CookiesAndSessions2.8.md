@@ -78,5 +78,7 @@
  field manual module, the server side has higher trust because
  users can't directly tamper with it.
 
-[← Previous: 2.07 - Web plug-ins](https://play.cyberstart.com/field-manual/8f9db4a4-d7eb-11eb-8b9d-0242ac140009)
-[Next: 2.09 - SQL injection →](https://play.cyberstart.com/field-manual/8f9ead64-d7eb-11eb-80da-0242ac140009)
+<div align="center">
+
+[← Previous: 2.07 - Web plug-ins](WebPlug-ins2.7.md) | [Next: 2.09 - SQL injection →](SqlInjection2.9.md)
+:-|-:

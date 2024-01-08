@@ -79,5 +79,7 @@ interest arises.
 > cyber criminals. A security check implemented at either side could be
 > bypassed, so checks and balances are often applied at both!
 
-[← Previous: 1.06 - Using the virtual machine](https://play.cyberstart.com/field-manual/8f99f5da-d7eb-11eb-b0e8-0242ac140009)
-[Next: 2.02 - The client and server side →](https://play.cyberstart.com/field-manual/8f9b4dc2-d7eb-11eb-ae1f-0242ac140009)
+<div align="center">
+
+[← Previous: 1.06 - Using the virtual machine](UsingTheVirtualMachine1.6.md) | [Next: 2.02 - The client and server side →](TheClientAndServerSide2.2.md)
+:-|-:

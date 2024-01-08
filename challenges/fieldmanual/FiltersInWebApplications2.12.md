@@ -45,5 +45,7 @@ remember: an automated tool may not really replicate the creativity and
 ingenuity of a human. Manual testing is also highly recommended - as you
  code, plus in regular security testing sessions.
 
-[← Previous: 2.11 - Cross site scripting](https://play.cyberstart.com/field-manual/8f9f9f6c-d7eb-11eb-9870-0242ac140009)
-[Next: 2.13 - OSINT and Robots →](https://play.cyberstart.com/field-manual/8fa15b22-d7eb-11eb-bd75-0242ac140009)
+<div align="center">
+
+[← Previous: 2.11 - Cross site scripting](CrossSiteScripting2.11.md) | [Next: 2.13 - OSINT and Robots →](OsintAndRobots2.13.md)
+:-|-:

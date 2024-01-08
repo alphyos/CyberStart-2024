@@ -33,5 +33,7 @@ beyond that we may find the ability to manipulate a binary into doing
 things it should not! This is the path to binary exploitation. An
 advanced skill, not for the faint of heart, but really fascinating.
 
-[← Previous: 5.12 - Reading and writing files](https://play.cyberstart.com/field-manual/8fd149ea-d7eb-11eb-99c7-0242ac140009)
-[Next: 6.02 - ELF and EXE files →](https://play.cyberstart.com/field-manual/8fe5a840-d7eb-11eb-a721-0242ac140009)
+<div align="center">
+
+[← Previous: 5.12 - Reading and writing files](ReadingAndWritingFiles5.12.md) | [Next: 6.02 - ELF and EXE files →](ElfAndExeFiles6.2.md)
+:-|-:

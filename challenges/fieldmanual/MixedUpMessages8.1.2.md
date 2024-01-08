@@ -56,5 +56,7 @@ the virus isn't found and so the virus let through. Mixing up characters
  is still a crucial technique heavily used with great success even today
  and to some extent, reversed character order is too.
 
-[← Previous: 8.01.01 - Hello World](https://play.cyberstart.com/field-manual/b505d226-0e87-11ec-82a8-0242ac130003)
-[Next: 8.01.03 - Social Engineering →](https://play.cyberstart.com/field-manual/11bd01ce-0e88-11ec-82a8-0242ac130003)
+<div align="center">
+
+[← Previous: 8.01.01 - Hello World](HelloWorld8.1.1.md) | [Next: 8.01.03 - Social Engineering →](SocialEngineering8.1.3.md)
+:-|-:

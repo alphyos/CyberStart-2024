@@ -56,5 +56,7 @@ decrypted by tools readily available. This means it's not really used
 for much these days - aside from an important part of cryptographic
 history that all budding ethical hackers should know of.
 
-[← Previous: 8.03.02 - Broken Banks](https://play.cyberstart.com/field-manual/f2860f0c-0e88-11ec-82a8-0242ac130003)
-[Next: 8.03.04 - Race To Where →](https://play.cyberstart.com/field-manual/2e7178ee-0e89-11ec-82a8-0242ac130003)
+<div align="center">
+
+[← Previous: 8.03.02 - Broken Banks](BrokenBanks8.3.2.md) | [Next: 8.03.04 - Race To Where →](RaceToWhere8.3.4.md)
+:-|-:

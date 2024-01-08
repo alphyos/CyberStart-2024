@@ -77,5 +77,7 @@ also produce lots of junk because it doesn't know for sure what is
 supposed to be text and what is just data. By default, it will ignore
 very short strings, so watch out for that!
 
-[← Previous: 7.01 - Introduction to forensics](https://play.cyberstart.com/field-manual/426eb562-fde1-11ec-b939-0242ac120002)
-[Next: 7.02.02 - File integrity and hashes →](https://play.cyberstart.com/field-manual/57f24c8c-fde1-11ec-b939-0242ac120002)
+<div align="center">
+
+[← Previous: 7.01 - Introduction to forensics](IntroductionToForensics7.1.md) | [Next: 7.02.02 - File integrity and hashes →](FileIntegrityAndHashes7.2.2.md)
+:-|-:

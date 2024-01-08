@@ -62,5 +62,7 @@ Note we use `-n` to echo our strings with no line ending and "pipe" the value in
 
 Next we'll look at how collisions could theoretically happen, but far more likely is peoples poor usage of hashing.
 
-[← Previous: 3.03.05 - Taking it further](https://play.cyberstart.com/field-manual/8fa75d4c-d7eb-11eb-94ff-0242ac140009)
-[Next: 3.04.02 - Collisions and poor use →](https://play.cyberstart.com/field-manual/5b1d071b-d7eb-11eb-89e6-0242ac140009)
+<div align="center">
+
+[← Previous: 3.03.05 - Taking it further](TakingItFurther3.3.5.md) | [Next: 3.04.02 - Collisions and poor use →](CollisionsAndPoorUse3.4.2.md)
+:-|-:

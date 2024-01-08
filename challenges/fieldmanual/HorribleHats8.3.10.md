@@ -64,5 +64,7 @@ the most useful improves with experience and coupled with great tooling
 that ultimately unmasks evidence can bring far less experienced
 criminals to justice!
 
-[← Previous: 8.03.09 - Bike Fan](https://play.cyberstart.com/field-manual/bfb59632-0e89-11ec-82a8-0242ac130003)
-[Next: 8.03.11 - Tower of Wheels →](https://play.cyberstart.com/field-manual/efeee330-0e89-11ec-82a8-0242ac130003)
+<div align="center">
+
+[← Previous: 8.03.09 - Bike Fan](BikeFan8.3.9.md) | [Next: 8.03.11 - Tower of Wheels →](TowerOfWheels8.3.11.md)
+:-|-:

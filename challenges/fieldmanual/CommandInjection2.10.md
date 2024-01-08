@@ -76,5 +76,7 @@ these could be added to the range after careful review. This is a little
 and widen what's accepted as needed and deemed safe to do so. Don't
 start with maximum and try to reduce down when it's maybe too late.
 
-[← Previous: 2.09 - SQL injection](https://play.cyberstart.com/field-manual/8f9ead64-d7eb-11eb-80da-0242ac140009)
-[Next: 2.11 - Cross site scripting →](https://play.cyberstart.com/field-manual/8f9f9f6c-d7eb-11eb-9870-0242ac140009)
+<div align="center">
+
+[← Previous: 2.09 - SQL injection](SqlInjection2.9.md) | [Next: 2.11 - Cross site scripting →](CrossSiteScripting2.11.md)
+:-|-:

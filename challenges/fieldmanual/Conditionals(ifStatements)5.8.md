@@ -4,6 +4,7 @@
 
 <div align="center">
  <video src="https://github.com/alphyos/CyberStart-2023/assets/108233076/82289147-a0b1-4f1b-a47c-44743bcfa60e" width="800" />
+</div>
 
 ## If this, then that
 
@@ -113,5 +114,7 @@ change the `arg` variable and run the code to see if you were correct!
 > will learn next. These are the building blocks of all modern programs
 > and very powerful.
 
-[← Previous: 5.07 - Dictionaries](https://play.cyberstart.com/field-manual/8fcb8488-d7eb-11eb-bf0c-0242ac140009)
-[Next: 5.09 - Loops →](https://play.cyberstart.com/field-manual/8fcd80e4-d7eb-11eb-8663-0242ac140009)
+<div align="center">
+
+[← Previous: 5.07 - Dictionaries](Dictionaries5.7.md) | [Next: 5.09 - Loops →](Loops5.9.md)
+:-|-:

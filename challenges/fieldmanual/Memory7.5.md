@@ -59,5 +59,7 @@ anti-malware protections stop, or hinder, the acquisition of memory. The
  and repeatability (the ability to perform the same operation on the
 evidence more than once and get the same result).
 
-[← Previous: 7.04 - Network](https://play.cyberstart.com/field-manual/72794be6-fde1-11ec-b939-0242ac120002)
-[Next: 7.06.01 - Disk forensics →](https://play.cyberstart.com/field-manual/89762f44-fde1-11ec-b939-0242ac120002)
+<div align="center">
+
+[← Previous: 7.04 - Network](Network7.4.md)[Next: 7.06.01 - Disk forensics →](DiskForensics7.6.1.md)
+:-|-:

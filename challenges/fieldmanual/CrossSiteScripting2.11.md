@@ -87,5 +87,7 @@ UTF-16 rather than the more common UTF-8), there are 5 contexts you
 should clean within - HTML, Attribute, JavaScript, CSS and URL, each
 with their own requirements. See the [OWASP XSS Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html) for more info.
 
-[← Previous: 2.10 - Command injection](https://play.cyberstart.com/field-manual/8f9f21e0-d7eb-11eb-9ae7-0242ac140009)
-[Next: 2.12 - Filters in web applications →](https://play.cyberstart.com/field-manual/8fa01690-d7eb-11eb-81eb-0242ac140009)
+<div align="center">
+
+[← Previous: 2.10 - Command injection](CommandInjection2.10.md) | [Next: 2.12 - Filters in web applications →](FiltersInWebApplications2.12.md)
+:-|-:

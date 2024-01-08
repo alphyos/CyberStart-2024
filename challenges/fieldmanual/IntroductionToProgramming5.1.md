@@ -66,5 +66,7 @@ industry in general, are written in Python!
 > and language-specific conventions, but the fundamentals are almost
 > always the same.
 
-[← Previous: 4.14 - Scripting](https://play.cyberstart.com/field-manual/8fc474b8-d7eb-11eb-8cc8-0242ac140009)
-[Next: 5.02 - Running python programs →](https://play.cyberstart.com/field-manual/8fc688ca-d7eb-11eb-84c6-0242ac140009)
+<div align="center">
+
+[← Previous: 4.14 - Scripting](Scripting4.14.md) | [Next: 5.02 - Running python programs →](RunningPythonPrograms5.2.md)
+:-|-:

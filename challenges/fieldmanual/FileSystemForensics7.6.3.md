@@ -71,5 +71,7 @@ Throughout the whole process, from acquisition (creating disk images and
 from acquired medium for forensic investigation), there are parts of
 file systems that provide a treasure trove of useful information.
 
-[← Previous: 7.06.02 - Disk capture](https://play.cyberstart.com/field-manual/8e94a08c-fde1-11ec-b939-0242ac120002)
-[Next: 7.06.04 - Deleted files →](https://play.cyberstart.com/field-manual/97775f8c-fde1-11ec-b939-0242ac120002)
+<div align="center">
+
+[← Previous: 7.06.02 - Disk capture](DiskCapture7.6.2.md) | [Next: 7.06.04 - Deleted files →](DeletedFiles7.6.4.md)
+:-|-:

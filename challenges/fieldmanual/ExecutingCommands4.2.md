@@ -97,5 +97,7 @@ then search the web! The community of Linux and command line power users
  is huge, and they more than likely have 10 different ways for you to
 solve your problem!
 
-[← Previous: 4.01 - Introduction to Linux](https://play.cyberstart.com/field-manual/8fb56ae0-d7eb-11eb-b9ec-0242ac140009)
-[Next: 4.03 - whoami →](https://play.cyberstart.com/field-manual/8fb7707e-d7eb-11eb-ad95-0242ac140009)
+<div align="center">
+
+[← Previous: 4.01 - Introduction to Linux](IntroductionToLinux4.1.md) | [Next: 4.03 - whoami →](Whoami4.3.md)
+:-|-:

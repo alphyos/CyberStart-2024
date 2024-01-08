@@ -42,5 +42,7 @@ MD5 hash values. Even if it were possible to create a collision on a
 hash that you did not create/generate, the second hash would be
 different, showing that tampering had occurred.
 
-[← Previous: 7.02.01 - Headers and strings](https://play.cyberstart.com/field-manual/5270a6d2-fde1-11ec-b939-0242ac120002)
-[Next: 7.03 - Steganography →](https://play.cyberstart.com/field-manual/675ba65a-fde1-11ec-b939-0242ac120002)
+<div align="center">
+
+[← Previous: 7.02.01 - Headers and strings](HeadersAndStrings7.2.1.md) | [Next: 7.03 - Steganography →](Steganography7.3.md)
+:-|-:

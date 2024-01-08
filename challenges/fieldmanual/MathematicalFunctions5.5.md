@@ -63,5 +63,7 @@ problems is something you're almost certainly going to need to do in
 your programming journey, and the math module will be a great tool to
 help!
 
-[← Previous: 5.04 - Data types](https://play.cyberstart.com/field-manual/8fc88b98-d7eb-11eb-b851-0242ac140009)
-[Next: 5.06 - Lists and tuples →](https://play.cyberstart.com/field-manual/8fca838a-d7eb-11eb-93b2-0242ac140009)
+<div align="center">
+
+[← Previous: 5.04 - Data types](DataTypes5.4.md) | [Next: 5.06 - Lists and tuples →](ListsAndTuples5.6.md)
+:-|-:

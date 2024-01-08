@@ -51,5 +51,7 @@ much, it only takes a oversight of security by a web developer in one
 area to provide the ability to leak content for any account to a
 determined hacker, and one leak can then lead to so much more!
 
-[← Previous: 8.03.07 - Secret Caesar](https://play.cyberstart.com/field-manual/81c783e4-0e89-11ec-82a8-0242ac130003)
-[Next: 8.03.09 - Bike Fan →](https://play.cyberstart.com/field-manual/bfb59632-0e89-11ec-82a8-0242ac130003)
+<div align="center">
+
+[← Previous: 8.03.07 - Secret Caesar](SecretCaesar8.3.7.md) | [Next: 8.03.09 - Bike Fan →](BikeFan8.3.9.md)
+:-|-:

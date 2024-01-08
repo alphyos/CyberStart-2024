@@ -122,5 +122,7 @@ In this section demonstrated a few basic uses of loops, but they will
 is exactly how you can build password crackers, web application testing
 tools, or even problem solvers in your tools.
 
-[← Previous: 5.08 - Conditionals (if statements)](https://play.cyberstart.com/field-manual/8fcc80e0-d7eb-11eb-a580-0242ac140009)
-[Next: 5.10 - Functions →](https://play.cyberstart.com/field-manual/8fce691e-d7eb-11eb-94cc-0242ac140009)
+<div align="center">
+
+[← Previous: 5.08 - Conditionals (if statements)](Conditionals(ifStatements)5.8.md) | [Next: 5.10 - Functions →](Functions5.10.md)
+:-|-:
