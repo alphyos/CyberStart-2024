@@ -72,5 +72,7 @@ and if the chunk is shorter than 24 bits the data is 'padded' to fill in
 "filler". Another indication is if it contains alphanumeric characters
 (plus `+` or `/` characters) as mentioned previously.
 
-[← Previous: 3.05.04 - Morse code](https://play.cyberstart.com/field-manual/8fae65ba-d7eb-11eb-b338-0242ac140009)
-[Next: 3.05.06 - UTF-8 →](https://play.cyberstart.com/field-manual/8fb033a4-d7eb-11eb-a556-0242ac140009)
+<div align="center">
+
+[← Previous: 3.05.04 - Morse code](MorseCode3.5.4.md) | [Next: 3.05.06 - UTF-8 →](Utf-83.5.6.md)
+:-|-:

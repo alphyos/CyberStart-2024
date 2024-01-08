@@ -42,4 +42,7 @@ times to really get things. A side note to this however - persistence is
 
 All that said, we hope you find the CyberStart Field Manual useful and good luck on solving the challenges!
 
-[Next: 1.02 - Challenges →](https://play.cyberstart.com/field-manual/8f973f20-d7eb-11eb-ba1c-0242ac140009)
+<div align="center">
+
+| [Next: 1.02 - Challenges →](https://play.cyberstart.com/field-manual/8f973f20-d7eb-11eb-ba1c-0242ac140009) |
+|-|

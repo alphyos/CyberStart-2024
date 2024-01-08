@@ -55,5 +55,7 @@ which is being prepared for a big launch, but obvious naming and lack of
 can be sold on black markets, a lot of money lost by companies and a lot
  of money gained by the bad guys!
 
-[← Previous: 8.03.08 - Hidden Report](https://play.cyberstart.com/field-manual/a3c9a8fa-0e89-11ec-82a8-0242ac130003)
-[Next: 8.03.10 - Horrible Hats →](https://play.cyberstart.com/field-manual/ce7c2bd6-0e89-11ec-82a8-0242ac130003)
+<div align="center">
+
+[← Previous: 8.03.08 - Hidden Report](HiddenReport8.3.8.md) | [Next: 8.03.10 - Horrible Hats →](HorribleHats8.3.10.md)
+:-|-:

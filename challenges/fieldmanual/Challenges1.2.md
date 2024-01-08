@@ -37,5 +37,7 @@ and some points.
 > levels, then will cost points on later levels. Most crucially, don't
 > give up too quickly - persistence pays off!
 
-[← Previous: 1.01 - Introduction](https://play.cyberstart.com/field-manual/8f9607d6-d7eb-11eb-beb3-0242ac140009)
-[Next: 1.03 - Self guided learning tips and tricks →](https://play.cyberstart.com/field-manual/8f97bbbc-d7eb-11eb-aeda-0242ac140009)
+<div align="center">
+
+[← Previous: 1.01 - Introduction](Introduction1.1.md) | [Next: 1.03 - Self guided learning tips and tricks →](SelfGuidedLearningTipsAndTricks1.3.md)
+:-|-:

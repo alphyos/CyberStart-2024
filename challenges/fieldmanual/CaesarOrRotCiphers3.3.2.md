@@ -74,5 +74,7 @@ computers. Work has already begun on quantum safe cryptography to ready
 us all for the future, rather than be caught out with new technology
 used on old standards and putting security at risk worldwide.
 
-[← Previous: 3.03.01 - Substitution ciphers](https://play.cyberstart.com/field-manual/8fa39d06-d7eb-11eb-9277-0242ac140009)
-[Next: 3.03.03 - The Arnold cipher →](https://play.cyberstart.com/field-manual/8fa5644c-d7eb-11eb-96ff-0242ac140009)
+<div align="center">
+
+[← Previous: 3.03.01 - Substitution ciphers](SubstitutionCiphers3.3.1.md) | [Next: 3.03.03 - The Arnold cipher →](TheArnoldCipher3.3.3.md)
+:-|-:

@@ -70,5 +70,7 @@ Whether you need a little help or facing an error you can't get past,
  we're sure you'll get past it soon and onto more learning and gameplay
 in CyberStart.
 
-[← Previous: 1.03 - Self guided learning tips and tricks](https://play.cyberstart.com/field-manual/8f97bbbc-d7eb-11eb-aeda-0242ac140009)
-[Next: 1.05 - Security awareness →](https://play.cyberstart.com/field-manual/8f99482e-d7eb-11eb-b746-0242ac140009)
+<div align="center">
+
+[← Previous: 1.03 - Self guided learning tips and tricks](SelfGuidedLearningTipsAndTricks1.3.md) | [Next: 1.05 - Security awareness →](SecurityAwareness1.5.md)
+:-|-:

@@ -106,5 +106,7 @@ how RSA works, as a great example of asymmetric cryptography. You may
 also want to read about Diffie-Hellman exchanges, it is all quite
 magical!
 
-[← Previous: 3.07.02 - Symmetric encryption](https://play.cyberstart.com/field-manual/8fb39f12-d7eb-11eb-aa59-0242ac140009)
-[Next: 4.01 - Introduction to Linux →](https://play.cyberstart.com/field-manual/8fb56ae0-d7eb-11eb-b9ec-0242ac140009)
+<div align="center">
+
+[← Previous: 3.07.02 - Symmetric encryption](SymmetricEncryption3.7.2.md) | [Next: 4.01 - Introduction to Linux →](IntroductionToLinux4.1.md)
+:-|-:

@@ -11,5 +11,7 @@ Autopsy contains, such as timeline analysis, keyword searches, media
 playback, metadata analysis, email analysis, unicode string extraction
 and many more!
 
-[← Previous: 7.09.05 - Volatility](https://play.cyberstart.com/field-manual/7abc78c0-0109-11ed-b939-0242ac120002)
-[Next: 8.01.01 - Hello World →](https://play.cyberstart.com/field-manual/b505d226-0e87-11ec-82a8-0242ac130003)
+<div align="center">
+
+[← Previous: 7.09.05 - Volatility](Volatility7.9.5.md) | [Next: 8.01.01 - Hello World →](HelloWorld8.1.1.md)
+:-|-:

@@ -106,5 +106,7 @@ computer expects and then carefully crafting an attack.
 > Most modern day bugs come down to logic, size or type handling
 > failures that trick a program in to doing something it should not!
 
-[← Previous: 6.04 - Memory](https://play.cyberstart.com/field-manual/8fe7b626-d7eb-11eb-a59b-0242ac140009)
-[Next: 6.06 - Taking it further →](https://play.cyberstart.com/field-manual/8fea9e40-d7eb-11eb-86cd-0242ac140009)
+<div align="center">
+
+[← Previous: 6.04 - Memory](Memory6.4.md) | [Next: 6.06 - Taking it further →](TakingItFurther6.6.md)
+:-|-:

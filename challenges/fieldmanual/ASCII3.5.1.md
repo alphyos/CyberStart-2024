@@ -54,5 +54,5 @@ for by the **Unicode** standard.
 
 <div align="center">
 
-[← Previous: 3.04.03 - Salts](https://play.cyberstart.com/field-manual/7cdc78c8-d7eb-11eb-b332-0242ac140009) | [Next: 3.05.02 - Hexadecimal →](https://play.cyberstart.com/field-manual/8fab6bbc-d7eb-11eb-b696-0242ac140009)
+[← Previous: 3.04.03 - Salts](Salts3.4.3.md) | [Next: 3.05.02 - Hexadecimal →](Hexadecimal3.5.2.md)
 :-|-:

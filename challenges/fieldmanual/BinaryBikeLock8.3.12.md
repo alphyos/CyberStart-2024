@@ -50,4 +50,7 @@ the computers do the hard work. Use tools where appropriate to carry out
  math, encode/decode etc - it'll be far quicker and also free of errors
 you might make. Work smart, not hard!
 
-[← Previous: 8.03.11 - Tower of Wheels](https://play.cyberstart.com/field-manual/efeee330-0e89-11ec-82a8-0242ac130003)
+<div align="center">
+
+| [← Previous: 8.03.11 - Tower of Wheels](TowerOfWheels8.3.11.md) |
+|-|

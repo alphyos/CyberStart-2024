@@ -36,5 +36,7 @@ For example, let's say you're in your user's home directory - `/home/mainuser` -
 
 This is a very widely used command, and you will use it frequently, so get some practice! Don't forget to use `ls` to checkout what's available to know what directories you can jump into.
 
-[← Previous: 4.04 - Listing with ls](https://play.cyberstart.com/field-manual/8fb874ba-d7eb-11eb-b539-0242ac140009)
-[Next: 4.06 - The cat command →](https://play.cyberstart.com/field-manual/8fbaa28a-d7eb-11eb-a2b6-0242ac140009)
+<div align="center">
+
+[← Previous: 4.04 - Listing with ls](ListingWithLs4.4.md) | [Next: 4.06 - The cat command →](TheCatCommand4.6.md)
+:-|-:

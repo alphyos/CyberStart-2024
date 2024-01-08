@@ -52,5 +52,7 @@ making sure users provide strong passwords to avoid lookups.
 
 On the next page we'll look at how salts can avoid the lookup table problem.
 
-[← Previous: 3.04.01 - Introduction to hashing](https://play.cyberstart.com/field-manual/8fa8fec2-d7eb-11eb-9cd0-0242ac140009)
-[Next: 3.04.03 - Salts →](https://play.cyberstart.com/field-manual/7cdc78c8-d7eb-11eb-b332-0242ac140009)
+<div align="center">
+
+[← Previous: 3.04.01 - Introduction to hashing](IntroductionToHashing3.4.1.md) | [Next: 3.04.03 - Salts →](Salts3.4.3.md)
+:-|-:

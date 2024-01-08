@@ -42,5 +42,7 @@ similar to the original site) and unwittingly enter their login details,
  which are sent to the scammer. The victim is effectively tricked into
 giving away their credentials.
 
-[← Previous: 8.03.01 - Social Secret](https://play.cyberstart.com/field-manual/cebaf72c-0e88-11ec-82a8-0242ac130003)
-[Next: 8.03.03 - Happy Customers →](https://play.cyberstart.com/field-manual/01d584ce-0e89-11ec-82a8-0242ac130003)
+<div align="center">
+
+[← Previous: 8.03.01 - Social Secret](SocialSecret8.3.1.md) | [Next: 8.03.03 - Happy Customers →](HappyCustomers8.3.3.md)
+:-|-:
