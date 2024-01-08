@@ -1,15 +1,29 @@
 ## CRYPTOGRAPHY
-# Taking it Further
 
-# Next steps
-There are a huge number of tools, articles, and resources to learn more about cryptography. We have just touched on a few ways of encrypting and decrypting data.
+# Taking it further
 
-One of the wonderful things about the crypto discipline in cyber security is that there are many widely published and available resources. Indeed, academic papers are constantly published challenging or validating the implementation that protects all the data in our modern world. The major benefit of this is if you are interested in taking it further, there are lots of great resources!
+## Next steps
 
-You could also take some time to play with [pycrypto](https://pypi.org/project/pycrypto/): a Python module which provides access to cryptographic routines and ciphers for you to try with minimal coding. For example, you can install it and then encrypt some data using AES!
-```bash
+There are a huge number of tools, articles, and resources to learn
+more about cryptography. We have just touched on a few ways of
+encrypting and decrypting data.
+
+One of the wonderful things about the crypto discipline in cyber
+security is that there are many widely published and available
+resources. Indeed, academic papers are constantly published challenging
+or validating the implementation that protects all the data in our
+modern world. The major benefit of this is if you are interested in
+taking it further, there are lots of great resources!
+
+You could also take some time to play with [pycrypto](https://pypi.org/project/pycrypto/):
+ a Python module which provides access to cryptographic routines and
+ciphers for you to try with minimal coding. For example, you can install
+ it and then encrypt some data using AES!
+
+```console
 $ pip3 install Crypto
 ```
+
 ```py
 from Crypto.Cipher import AES
 
@@ -30,10 +44,17 @@ obj2 = AES.new('WhAt a C00L K3Y!', AES.MODE_CBC, 'WHAT AN IV!!!!!!')
 output = obj2.decrypt(ciphertext)[0:len(msg)]
 ```
 
-If you would like to read more about applied cryptography, or the amazing history of how it changed the world, consider these books:
+If you would like to read more about applied cryptography, or the
+amazing history of how it changed the world, consider these books:
 
-- Understanding Cryptography by Christof Paar
-- The Code Book by Simon Singh
-- An Introduction to Mathematical Cryptography by Jeffrey Hoffstein
-- Applied Cryptography by Bruce Schneier (an older book, but wonderful review of functioning principles)
-This subject is undoubtedly one that requires more structured analysis and maths than other areas of cyber security, but it is also a supporting pillar of the modern world!
+* Understanding Cryptography by Christof Paar
+* The Code Book by Simon Singh
+* An Introduction to Mathematical Cryptography by Jeffrey Hoffstein
+* Applied Cryptography by Bruce Schneier (an older book, but wonderful review of functioning principles)
+
+This subject is undoubtedly one that requires more structured
+analysis and maths than other areas of cyber security, but it is also a
+supporting pillar of the modern world!
+
+[← Previous: 3.03.04 - The Atbash cipher](https://play.cyberstart.com/field-manual/8fa65bfe-d7eb-11eb-bc6b-0242ac140009)
+[Next: 3.04.01 - Introduction to hashing →](https://play.cyberstart.com/field-manual/8fa8fec2-d7eb-11eb-9cd0-0242ac140009)
