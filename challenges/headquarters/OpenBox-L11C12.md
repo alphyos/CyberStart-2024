@@ -18,10 +18,10 @@ Our team have created an account with the service and logged in. See if you can 
 
 ## Step by Step</summary>
 
-- Start by creating a new cookie with whatever name you desire by opening up inspect element/dev tools and moving to the applications tab
-- The value of this cookie should be `WHERE name = ‘Billy’ OR 1=1`
+- Start by navigating to the cookies in the web console
+- Change the value of the cookie called `SQL_SESSuser` by appending `' OR 1=1` to what is there already
 
-![image of the new cookie](/assets/openbox1.png)
+![image of the new cookie](/assets/openbox1.jpg)
 
 - Reload the page and you should be redirected to the admin page will all the account details
 - `Billy Johnson's` account name is in the left column, it will be the flag
