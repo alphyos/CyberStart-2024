@@ -19,11 +19,11 @@ We believe they've set up a port running on an IP address that we've pointed ser
 ## Step by Step</summary>
 
 - Open a terminal and run `nmap -p 19000-20000 -Pn services.cyberprotection.agency`
-- It should list an open port, for me it was `19991`
-- Run `nc services.cyberprotection.agency 19991`
+- It should list one closed port, for me it was `19991`
+- Run `nc -u services.cyberprotection.agency 19991` to establish a UDP connection
 - Hit enter when its seems like the scan is showing up blank
 - The flag should appear
 
-`flag: rIT9xIxJ1/78dp8KjN7o`
+`flag: 3qwLD3tzAqLdCUdPSGZ1Hb`
 
 </details>
