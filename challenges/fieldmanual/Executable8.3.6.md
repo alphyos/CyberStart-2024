@@ -2,6 +2,10 @@
 
 # Executable
 
+<div align="center">
+  <video src="https://github.com/alphyos/CyberStart-2023/assets/116646389/2975583d-a04b-4db6-a689-264079cae048"width="800" />
+</div>
+
 ## Briefing
 
 Before jumping into the walkthrough, let's check the challenge briefing to confirm what we need to do for this challenge.
