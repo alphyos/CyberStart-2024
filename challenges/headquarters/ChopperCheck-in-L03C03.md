@@ -16,6 +16,8 @@ One of the gang, Sannfred, uses a location check-in site called Circle. Perhaps 
 
 </details>
 
+![website](/assets/choppercheck-in.png)
+
 <details><summary>
 
 ## Step by Step</summary>
