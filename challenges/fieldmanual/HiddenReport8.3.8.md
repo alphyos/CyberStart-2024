@@ -2,6 +2,10 @@
 
 # Hidden Report
 
+<div align="center">
+  <video src="https://github.com/alphyos/CyberStart-2023/assets/116646389/16579fc7-66c7-4fb3-ae9e-d507f615b34e"width="800" />
+</div>
+
 ## Briefing
 
 Before jumping into the walkthrough, let's check the challenge briefing to confirm what we need to do for this challenge.
