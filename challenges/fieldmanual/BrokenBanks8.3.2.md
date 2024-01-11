@@ -2,6 +2,10 @@
 
 # Broken Banks
 
+<div align="center">
+  <video src="https://github.com/alphyos/CyberStart-2023/assets/116646389/265d91d8-144e-4d00-a8e9-33256a9d6b0f"width="800" />
+</div>
+
 ## Briefing
 
 Before jumping into the walkthrough, let's check the challenge briefing to confirm what we need to do for this challenge.
