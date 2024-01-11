@@ -28,4 +28,6 @@ One of the gang, Sannfred, uses a location check-in site called Circle. Perhaps 
 
 ![picture of the most recent post](/assets/choppercheck-in1.png)
 
+`flag: 6734`
+
 </details>
