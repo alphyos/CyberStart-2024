@@ -2,6 +2,10 @@
 
 # Binary Bike Lock
 
+<div align="center">
+  <video src="https://github.com/alphyos/CyberStart-2023/assets/116646389/c7aeb995-2c29-4109-8423-5e53ad343b53"width="800" />
+</div>
+
 ## Briefing
 
 Before jumping into the walkthrough, let's check the challenge briefing to confirm what we need to do for this challenge.
