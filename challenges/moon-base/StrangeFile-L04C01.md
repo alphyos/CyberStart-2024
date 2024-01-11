@@ -10,5 +10,5 @@ Tip: Write a Python script to open and read the file to get the flag.
 
 ```python
 with open("/tmp/alien-signal.txt") as f:
- print(f.readline())
+  print(f.readline())
 ```

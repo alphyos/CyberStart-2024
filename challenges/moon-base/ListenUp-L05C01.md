@@ -36,10 +36,10 @@ while True:
   connection, address = serversocket.accept()
   data = connection.recv(1024).decode()
   if len(data) > 0:
-  with open('/tmp/aliensignallog.txt', 'w') as rec:
-  rec.write(data)
-  connection.close()
-  break
+    with open('/tmp/aliensignallog.txt', 'w') as rec:
+      rec.write(data)
+      connection.close()
+    break
 
 serversocket.close()
 ```

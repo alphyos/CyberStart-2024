@@ -23,68 +23,78 @@ Finally, print the response after sending the decrypted messages to get the flag
 #
 
 import socket
-import string
+import re
 
-letters = 'abcdefghijklmnopqrstuvwxyz'
+def caesar(st, n):
 
-letterGoodness = dict(zip(string.ascii_uppercase,
-        [.0817,.0149,.0278,.0425,.1270,.0223,.0202,
-         .0609,.0697,.0015,.0077,.0402,.0241,.0675,
-         .0751,.0193,.0009,.0599,.0633,.0906,.0276,
-         .0098,.0236,.0015,.0197,.0007]))
+    ret = ""
+    for c in st:
+        i = ord(c)
+        if (65 <= i and i < 91):
+            ret += chr((i + n + 13) % 26 + 65)
+        else:
+            ret += c
+    return ret
 
-trans_tables = [ str.maketrans(string.ascii_uppercase,
-       string.ascii_uppercase[i:]+string.ascii_uppercase[:i])
-       for i in range(26)]
+def crack_caesar(st):
 
-def sendData(data, s):
-  s.send(data.encode())
-  
-  hasReq = False
-  while not hasReq:
-  data = s.recv(1024)
-  hasReq = True
-  
-  return data
+    weight = [
+      8.34, # A
+      1.54, # B
+      2.73, # C
+      4.14, # D
+      12.60,# E
+      2.03, # F
+      1.92, # G
+      6.11, # H
+      6.71, # I
+      0.23, # J
+      0.87, # K
+      4.24, # L
+      2.53, # M
+      6.80, # N
+      7.70, # O
+      1.66, # P
+      0.09, # Q
+      5.68, # R
+      6.11, # S
+      9.37, # T
+      2.85, # U
+      1.06, # V
+      2.34, # W
+      0.20, # X
+      2.04, # Y
+      0.06  # Z
+    ]
+# weights are taken from: https://www.sttmedia.com/characterfrequency-english
+    c = [0] * 26
+    s = [0] * 26
 
-def goodness(msg):
-  return sum(letterGoodness.get(char, 0) for char in msg)
+    for i in st:
+        x = ord(i) - 65
+        if 0 <= x < 26:
+            c[x] += 1
 
-def all_shifts(msg):
-  msg = msg.upper()
-  for trans_table in trans_tables:
-    txt = msg.translate(trans_table)
-    yield goodness(txt), txt
-  
-host = 'localhost'
-port = 10000
 
-dataList = ""
+    for off in range(26):
+        for i in range(26):
+            s[off] += c[i] * weight[(i + off) % 26]
 
-with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
-  s.connect((host, port))
-  
-  s.send('GET'.encode())
-  
-  data = s.recv(1024)
-  
-  data = str(data).strip('b').strip('\'')
-  strings = data.split('\\n')
-  
-  strings.pop(0)
-  for i in range(len(strings) - 1):
-  message = strings[i]
-  print('Message ' + str(i + 1) + '\n' + message + '\n========================================')
-  print(max(all_shifts(message)))
+    return s.index(max(s))
 
-  decoded = max(all_shifts(message))[1]
-  print('Decoded: ' + decoded)
+clientsocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+clientsocket.connect(('127.0.0.1', 10000))
+clientsocket.send('GET'.encode())
+data = clientsocket.recv(1024).decode()
 
-  print('\n')
-  
-  dataList = dataList + decoded + '\n'
-  
-  print(dataList)
-  data = sendData(dataList, s)
-  print(data)
+st = re.split("\n", data)
+rets = ""
+for i in range(1,4):
+    print(st[i])
+    rets += caesar(st[i], crack_caesar(st[i])) + "\n"
+
+print(rets)
+clientsocket.send(rets.encode())
+data = clientsocket.recv(1024).decode()
+print(data)
 ```

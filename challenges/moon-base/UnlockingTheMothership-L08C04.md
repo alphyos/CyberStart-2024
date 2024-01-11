@@ -23,35 +23,35 @@ import socket
 
 def get_word(paragraph_num, line_num, word_num, filename):
   with open(filename, 'r') as f:
-  # read the entire file
-  contents = f.read()
+    # read the entire file
+    contents = f.read()
 
   # split the contents by paragraph
   paragraphs = contents.split('\n\n')
 
   # get the specified paragraph
   if paragraph_num <= len(paragraphs):
-  paragraph = paragraphs[paragraph_num-1]
+    paragraph = paragraphs[paragraph_num-1]
   else:
-  return None
+    return None
   
   # split the paragraph by line
   lines = paragraph.split('\n')
 
   # get the specified line
   if line_num <= len(lines):
-  line = lines[line_num-1]
+    line = lines[line_num-1]
   else:
-  return None
+    return None
 
   # split the line by word
   words = line.split(' ')
 
   # get the specified word
   if word_num <= len(words):
-  return words[word_num-1]
+    return words[word_num-1]
   else:
-  return None
+    return None
 
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -73,7 +73,7 @@ punc = '''!()-[]{};:'"\,<>./?@#$%^&*_~'''
 
 for element in words_string:
   if element in punc:
-  words_string = words_string.replace(element, "")
+    words_string = words_string.replace(element, "")
 
 print(words_string)
 sock.send(words_string.encode())

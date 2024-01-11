@@ -27,15 +27,14 @@ You need to write a script which makes HTTP requests to the server http://127.0.
 import urllib.request
 
 url = "http://127.0.0.1:8082/selfdestruct"
-yes = True
 
-while yes:
+while True:
   req = urllib.request.urlopen(url)
   resp = req.read().decode()
 
   list = resp.split("\n")
 
   if list[21] == list[24]:
-  print(resp)
-  yes = False
+    print(resp)
+    break
 ```
