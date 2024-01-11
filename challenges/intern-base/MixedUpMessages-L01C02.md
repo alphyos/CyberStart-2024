@@ -30,13 +30,3 @@ We've found one post that we believe contains an important **secret**, and we n
 
 `flag: time4hackattack`
 </details>
-
-<details><summary>
-
-## Solution Message</summary>
-
-### $${\color{green}\large\sf{Success!}}$$
-### $${\color{green}\sf{Nice work uncovering their secret code word! Now our agents can be ready knowing what signal to look for, and can stop the cyber attack from taking place!}}$$
-### $${\color{green}\sf{You've \ levelled \ up \ in \ these \ skills:}}$$
-### $${\color{green}\sf{>Cryptography}}$$
-### $${\color{green}\sf{>Encryption/Decryption}}$$

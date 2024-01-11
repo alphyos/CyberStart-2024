@@ -19,8 +19,8 @@ A successful new start-up that sells electric scooters has discovered a handful 
 - Right click the page to bring up inspect element
 - From there, navigate to the console tab and type `email`, then hit enter
 - This should give you the email enclosed by ‘s, copy this into the login’s email form and then do the same but by typing `password` into the console.
-    - Email: `bonita@zip-zap-rides.com`
-    - Password: `abc123`
+  - Email: `bonita@zip-zap-rides.com`
+  - Password: `abc123`
 - Enter the correct details into the login page and submit to get the flag
 
-
+</details>

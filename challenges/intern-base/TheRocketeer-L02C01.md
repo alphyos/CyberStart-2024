@@ -23,7 +23,7 @@ They have given us a command that triggers a **launch sequence** that will sen
 ## Step by Step</summary>
 
 - Click the top right blue button
-	- This opens up a "terminal"
+  - This opens up a "terminal"
 
 ![image of the terminal](/assets/therocketeer1.png)
 
@@ -31,14 +31,5 @@ They have given us a command that triggers a **launch sequence** that will sen
 - The flag should show up
 
 `flag is unique`
+
 </details>
-
-<details><summary>
-
-## Solution Message</summary>
-
-### $${\color{green}\large\sf{Success!}}$$
-### $${\color{green}\sf{Look at it go! Well done, Intern. By using the Console to run the command you successfully passed on instructions to launch. What a rush!}}$$
-### $${\color{green}\sf{You've \ levelled \ up \ in \ these \ skills:}}$$
-### $${\color{green}\sf{>Browser Dev Tools Use}}$$
-### $${\color{green}\sf{>Coding}}$$

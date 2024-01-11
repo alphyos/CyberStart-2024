@@ -10,7 +10,7 @@ It'll be tricky - they appear to use a **script** to **join multiple sets** 
 
 ## Need a hint?</summary>
 
-> 💡 Hint: With a little code you could probably get the contents from those 5 URLs as strings and join them together. 
+> 💡 Hint: With a little code you could probably get the contents from those 5 URLs as strings and join them together.
 > With all the parts together, it'll just be a case of sending to the final URL. Pay attention to the formats shown!
 
 </details>
@@ -23,22 +23,12 @@ It'll be tricky - they appear to use a **script** to **join multiple sets** 
 
 - Open your command terminal, for Windows: Windows Key + R and type **cmd**
 - Type `curl https://roambarcelona.com/clock-pt1?verify=Na2Q%2BeqhSP5hTRLDwpTNoA%3D%3D https://roambarcelona.com/clock-pt2?verify=Na2Q%2BeqhSP5hTRLDwpTNoA%3D%3D https://roambarcelona.com/clock-pt3?verify=Na2Q%2BeqhSP5hTRLDwpTNoA%3D%3D https://roambarcelona.com/clock-pt4?verify=Na2Q%2BeqhSP5hTRLDwpTNoA%3D%3D https://roambarcelona.com/clock-pt5?verify=Na2Q%2BeqhSP5hTRLDwpTNoA%3D%3D`
-    - This will take all of the links provided in the challenge and produce a concatenated version of the strings into one string, in order
+  - This will take all of the links provided in the challenge and produce a concatenated version of the strings into one string, in order
 - The outputted **code** will change every 10 seconds so try to give yourself the most time
 - Copy the **code**
 - Paste the portion of the **code** into the very last portion of the below URL
-    - `https://roambarcelona.com/get-flag?verify=Na2Q%2BeqhSP5hTRLDwpTNoA%3D%3D&string=`**code**
+  - `https://roambarcelona.com/get-flag?verify=Na2Q%2BeqhSP5hTRLDwpTNoA%3D%3D&string=`**code**
 
 `flag: wh1te_Ro$E`
+
 </details>
-
-<details><summary>
-
-## Solution Message</summary>
-
-### $${\color{green}\large\sf{Success!}}$$
-### $${\color{green}\sf{Well done recruit! The hackers thought they were smart creating a system like this, but clearly you know how to code really well and sent data quick enough to bypass their checks. We look forward to seeing what else you can do in the future!}}$$
-### $${\color{green}\sf{You've \ levelled \ up \ in \ these \ skills:}}$$
-### $${\color{green}\sf{>Coding}}$$
-### $${\color{green}\sf{>Command Line Use}}$$
-

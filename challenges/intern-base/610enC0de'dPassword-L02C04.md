@@ -24,5 +24,5 @@ Agents believe they have found a server belonging to a gang called the Yakoottee
 ![highlighting of the numbers](/assets/610enc0dedpassword1.png)
 
 - Enter these numbers into a [Hex to Ascii converter](https://www.dcode.fr/ascii-code)
-    - The phrase should decode to: `Welcome to the 610enC0de server. The server password is [password] - great decoding BTW, laterz!`
+  - The phrase should decode to: `Welcome to the 610enC0de server. The server password is [password] - great decoding BTW, laterz!`
 - Enter the server password back into the website and hit enter to get the flag

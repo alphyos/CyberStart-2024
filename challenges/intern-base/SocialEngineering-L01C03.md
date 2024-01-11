@@ -9,10 +9,9 @@ Permission has been granted to try and log into the Chirp social media account o
 <details><summary>
 
 ## Need a hint?</summary>
-```
-💡 Hint: Many people use passwords that combine pieces of personal information. Try combining the pieces of 
-   information you have in different ways.
-```
+
+> 💡 Hint: Many people use passwords that combine pieces of personal information. Try combining the pieces of information you have in different ways.
+
 </details>
 
 ![image of the challenge](/assets/socialengineering.png)
@@ -21,19 +20,10 @@ Permission has been granted to try and log into the Chirp social media account o
 
 ## Step by Step</summary>
 
-- The password is a combination of “**Barkley**” and “**1993**”
-	- This is deduced from the briefing
+- The password is a combination of "**Barkley**" and "**1993**"
+  - This is deduced from the briefing
 - Type `Barkley1993` into the password area and press enter or submit to get the flag
 
 `flag is unique`
+
 </details>
-
-<details><summary>
-
-## Solution Message</summary>
-
-### $${\color{green}\large\sf{Success!}}$$
-### $${\color{green}\sf{Great job intern! This is a great reminder of how easy many passwords can be to guess. In particular if they use personal information that is common knowledge; like the names of pets, family and birth year. Those passwords are easy to remember... and even easier for hackers to guess!}}$$
-### $${\color{green}\sf{You've \ levelled \ up \ in \ these \ skills:}}$$
-### $${\color{green}\sf{>Observation}}$$
-

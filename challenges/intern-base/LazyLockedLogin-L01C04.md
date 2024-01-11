@@ -37,18 +37,6 @@ We've found where you can access the homehub settings along with the sign in det
 
 <details><summary>
 
-## Solution Message</summary>
-
-### $${\color{green}\large\sf{Success!}}$$
-### $${\color{green}\sf{Well \ done! \ By \ using \ the \ document \ inspector \ to \ look \ through \ the \ form’s \ source \ code, \ you \ managed \ to \ find \ a \ vulnerability \ that \ you \ could \ exploit \ in \ order \ to \ bypass \ the \ login; \ without \ the \ need \ of \ a \ technicians \ laptop!}}$$
-### $${\color{green}\sf{You've \ levelled \ up \ in \ these \ skills:}}$$
-### $${\color{green}\sf{>Browser Dev Tools Use}}$$
-### $${\color{green}\sf{>Code Analysis}}$$
-
-</details>
-
-<details><summary>
-
 ## 2022 Old Challenge Archive</summary>
 
 # Lazy Locked Login - L01 C04 (RETIRED)
@@ -61,7 +49,6 @@ We know there is a remotely accessible technician's page where fridge **setting
 
 > 💡 Hint: Inspect the elements on page to get an understanding of how they're disabling the form. Can we make any changes to the code that will allow us to make it work as intended, so we can submit our login information?
 
-
 ## Step by Step
 
 - Right click the enter button on the fridge and click inspect
@@ -73,3 +60,5 @@ We know there is a remotely accessible technician's page where fridge **setting
 ![image of code](/assets/lazylockedlogin2.png)
 
 - The enter button should become clickable and the flag will appear
+
+</details>

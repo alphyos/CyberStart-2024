@@ -28,12 +28,3 @@ We've found a profile page of a known hacker that we need to get in contact with
 
 `flag: 1337hax@myaboutpage.com`
 </details>
-
-<details><summary>
-
-## Solution Message</summary>
-
-### $${\color{green}\large\sf{Success!}}$$
-### $${\color{green}\sf{Great \ job \ finding \ the \ email \space address! \ It's \ been \ passed \ on \ for \ further \ investigation.}}$$
-### $${\color{green}\sf{You've \ levelled \ up \ in \ these \ skills:}}$$
-### $${\color{green}\sf{>Observation}}$$
