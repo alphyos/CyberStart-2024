@@ -2,6 +2,10 @@
 
 # Secret Caesar
 
+<div align="center">
+  <video src="https://github.com/alphyos/CyberStart-2023/assets/116646389/51bcf444-64e6-440c-9915-006e672a353d"width="800" />
+</div>
+   
 ## Briefing
 
 Before jumping into the walkthrough, let's check the challenge briefing to confirm what we need to do for this challenge.
