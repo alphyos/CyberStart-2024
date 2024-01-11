@@ -2,6 +2,10 @@
 
 # Tower of Wheels
 
+<div align="center">
+  <video src="https://github.com/alphyos/CyberStart-2023/assets/116646389/93520964-b487-4e7a-96c1-a989df77fd4e"width="800" />
+</div>
+
 ## Briefing
 
 Before jumping into the walkthrough, let's check the challenge briefing to confirm what we need to do for this challenge.
