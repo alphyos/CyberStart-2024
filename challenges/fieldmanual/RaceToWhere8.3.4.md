@@ -2,6 +2,10 @@
 
 # Race To Where
 
+<div align="center">
+  <video src="https://github.com/alphyos/CyberStart-2023/assets/116646389/c3704f8b-d76e-475e-9d63-d242c56f2edf"width="800" />
+</div>
+
 ## Briefing
 
 Before jumping into the walkthrough, let's check the challenge briefing to confirm what we need to do for this challenge.
