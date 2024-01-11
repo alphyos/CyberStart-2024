@@ -18,7 +18,7 @@ Originally a passion project to grasp individual concepts explored on the platfo
 
 - [How To Play 💻](#how-to-play)
   - [Register 🤖](#register-for-cyberstartcyber-fasttrack)
-- [Field Manual 📖](/challenges/FieldManual.md)
+- [Field Manual 📖](/challenges/Field-Manual.md)
 - [Intern Base 🕐](/challenges/Intern-Base.md)
 - [Headquarters🚀](/challenges/Headquarters.md)
 - [Moon Base 🌕](/challenges/Moon-Base.md)
