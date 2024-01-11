@@ -1,26 +1,28 @@
-<h1 align="center"> <img align="center" src="assets/CyberstartLogo.png" width="100"> Cyberstart / Cyber FastTrack 2023 (WIP) </h1>
+<h1 align="center"> <img align="center" src="assets/CyberstartLogo.png" width="100"> Cyberstart / Cyber FastTrack Archival Project 2024 </h1>
 
-<h3 align="center">Comprehensive writeup list of challenges from 2022-2023 Cyberstart America / Cyber FastTrack. </h3>
+<h3 align="center">Comprehensive Archive of 2022-2024 CyberStart America / Cyber FastTrack. </h3>
 
   <h4 align="center">
-    <a href="https://github.com/alphyos/Cyberstart-2023/commits/master"><img src="https://img.shields.io/github/last-commit/alphyos/Cyberstart-2023.svg?style=plasticr"/></a>
-    <a href="https://github.com/alphyos/Cyberstart-2023/commits/master"><img src="https://img.shields.io/github/commit-activity/t/alphyos/Cyberstart-2023.svg?style=plasticr"/></a>
+    <a href="https://github.com/alphyos/Cyberstart-2023/commits/master"><img src="https://img.shields.io/github/last-commit/alphyos/CyberStart-2023.svg?style=plasticr"/></a>
+    <a href="https://github.com/alphyos/Cyberstart-2023/commits/master"><img src="https://img.shields.io/github/commit-activity/t/alphyos/CyberStart-2023.svg?style=plasticr"/></a>
+    <a href="https://github.com/alphyos/Cyberstart-2023/commits/master"><img src="https://img.shields.io/github/stars/alphyos/CyberStart-2023.svg?style=plasticr"/></a>
   </h4>
 
 ## About
 
-Originally a passion project to grasp individual concepts explored on the platform and develop a keen understanding that allows me to educate and help others with challenges quickly and in a manner any beginner would understand. Note that **none of the writeups will have the flag** in plain text and it is *highly encouraged* that you take your best stab at the challenge before recieving help. 
+Originally a passion project to grasp individual concepts explored on the platform and develop a keen understanding that allows me to educate and help others with challenges quickly and in a manner any beginner would understand. Now that CyberStart is officially closing as of January 12th, 2024, this project has turned into a full conservation effort to preserve what was deemed most important of all challenges including the files, vms, and field manual resources along with original walkthroughs. 
 
-Please refer to the [questions](#questions-and-feedback) section before asking questions of your own about the challenges to ensure thoughtful discussion. ⭐'s are highly appreciated :o)
+⭐'s are highly appreciated :o)
 
 ### Contents
 
 - [How To Play 💻](#how-to-play)
   - [Register 🤖](#register-for-cyberstartcyber-fasttrack)
-- [Intern Base 🕐](#-intern-base)
-- [Headquarters🚀](#-headquarters)
-- [Moon Base 🌕](#-moon-base)
-- [Forensics 🔎](#-forensics)
+- [Intern Base 🕐](/challenges/Intern-Base.md)
+- [Headquarters🚀](/challenges/Headquarters.md)
+- [Moon Base 🌕](/challenges/Moon-Base.md)
+- [Forensics 🔎](/challenges/Forensics.md)
+- [Extra Goodies 🥚](extra)
 - [Contributors 🌠](#contributors)
   - [Challenge Template ❤️](#challenge-template)
 - [License 🗞️](#license)
@@ -44,24 +46,14 @@ Solve mysterious cyber crimes, uncover new cases and earn valued cyber security 
 https://play.cyberstart.com/
 ```
 
-## [🕐 Intern Base](/challenges/Intern-Base.md)
-
-## [🚀 Headquarters](/challenges/Headquarters.md)
-
-## [🌕 Moon Base](/challenges/Moon-Base.md)
-
-## [🔎 Forensics](/challenges/Forensics.md)
-
-## Questions and Feedback
-
-Please read [QUESTIONS.md]() for details on how to properly provide feedback or ask questions on challenges.
-
 ## Contributors
 
-### [🐍 Vip3r](https://github.com/qvipin)
-### [🐈 Nuspli](https://github.com/Nuspli)
+<a href="https://github.com/alphyos/Cyberstart-2023/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=alphyos/Cyberstart-2023/" />
+</a>
 
 ### Challenge Template
+
 ```md
 # :emoji: Title - L# C#
 
