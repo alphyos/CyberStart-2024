@@ -2,6 +2,10 @@
 
 # Mixed Up Messages
 
+<div align="center">
+  <video src="https://github.com/alphyos/CyberStart-2023/assets/116646389/05dc33ca-73f2-4808-9f09-27697154f146"width="800" />
+</div>
+
 ## Briefing
 
 Before jumping into the walkthrough, let's check the challenge briefing to confirm what we need to do for this challenge.
