@@ -42,6 +42,13 @@ encrypted = "xpd4OA7GZYDfn4lTMJW/EEqgp26BlgjxsTonc1Elcgo="
 def decode_aes(c, e):
     return c.decrypt(base64.b64decode(e)).decode('latin-1').rstrip(PADDING)
 
+# added
+def check(decoded):
+    for c in decoded:
+        if (ord(c) < 32 or ord(c) > 126):
+            return False
+    return True
+
 with open('words.txt', 'r', encoding='utf-8') as f: # added
     words = f.read().splitlines() # added
     for secret in words: # added
@@ -56,16 +63,7 @@ with open('words.txt', 'r', encoding='utf-8') as f: # added
             decoded = decode_aes(cipher, encrypted)
 
             # added
-            skip = False
-            for c in decoded:
-                if (ord(c) < 32 or ord(c) > 126):
-                    skip = True
-                    break
-
-            if skip == True:
-                continue
-
-            if decoded != '':
+            if decoded != '' and check(decoded):
                 print('Decoded: '+decoded)
 ```
 
