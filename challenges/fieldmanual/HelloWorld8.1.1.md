@@ -2,6 +2,10 @@
 
 # Hello World
 
+<div align="center">
+  <video src="https://github.com/alphyos/CyberStart-2023/assets/116646389/91933847-275b-4716-90e6-681f33d338c7" width="800" />
+</div>
+
 ## Briefing
 
 Before jumping into the walkthrough, let's check the challenge briefing to confirm what we need to do for this challenge.
