@@ -2,6 +2,10 @@
 
 # Bike Fan
 
+<div align="center">
+  <video src="https://github.com/alphyos/CyberStart-2023/assets/116646389/ce31f853-2740-4db6-b6c4-06ad4bdaa2e5"width="800" />
+</div>
+
 ## Briefing
 
 Before jumping into the walkthrough, let's check the challenge briefing to confirm what we need to do for this challenge.
