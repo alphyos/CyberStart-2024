@@ -70,7 +70,9 @@ print('Password not found.')
 ```
 
 - Run the new code and make sure the zipfilename variable is actually what the zip file is named
+
 ![running the new code](/assets/brutestrength1.png)
+
 - A text file should appear on your machine, the flag is inside
 
 </details>
