@@ -49,9 +49,7 @@ https://play.cyberstart.com/
 
 ## Contributors
 
-<a href="https://github.com/alphyos/Cyberstart-2024/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=alphyos/Cyberstart-2024/" />
-</a>
+<a href="https://github.com/alphyos/Cyberstart-2024/graphs/contributors"><img src="https://contrib.rocks/image?repo=alphyos/Cyberstart-2024" /></a>
 
 ### Challenge Template
 
