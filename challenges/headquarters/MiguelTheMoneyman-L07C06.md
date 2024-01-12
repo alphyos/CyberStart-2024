@@ -21,9 +21,13 @@ Create a web server with the terminal using Python, then finish off the email we
 ## Step by Step</summary>
 
 - Type `python -m http.server 8000`
-![setting up the web server](/assets/miguelthemoneyman1.png)
+
+![setting up the web server](/assets/miguelthemoneyman1.jpg)
+
 - Copy the highlighted text `http://10.10.127.202:8000`
-![submitting the email](/assets/miguelthemoneyman2.png)
+
+![submitting the email](/assets/miguelthemoneyman2.jpg)
+
 - Navigate to "Email" on the left of the screen
 - Paste into textbox and press submit
 
