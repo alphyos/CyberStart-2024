@@ -23,7 +23,9 @@ When our team in New York came across a couple of PC's they thought might have b
 - Download the memdump.zip file
 - Extract the contents and navigate there in a terminal
 - Use volatility3 to get a list of processes `volatility3 -f memdump.mem windows.pslist.PsList`
-  ![running volatility3](/assets/volatilememory1.jpg)
+
+![running volatility3](/assets/volatilememory1.jpg)
+
 - One of them has a weird name which is the flag (without file extension)
 
 `flag: 19hglski!hg`
