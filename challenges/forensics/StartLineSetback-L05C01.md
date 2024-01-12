@@ -23,7 +23,7 @@ Well, that wasn't a promising start. On our very first review, we found an image
 - Download the image
 - Run `strings filename`
 
-[output](/assets/startlinesetback2.jpg)
+![output](/assets/startlinesetback2.jpg)
 
 - The last line tells you the password for steghide is `givemetheflag`
 - Use `steghide --extract -sf filename` and enter the password
