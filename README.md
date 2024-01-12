@@ -3,9 +3,9 @@
 <h3 align="center">Comprehensive Archive of 2022-2024 CyberStart America / Cyber FastTrack. </h3>
 
   <h4 align="center">
-    <a href="https://github.com/alphyos/Cyberstart-2023/commits/master"><img src="https://img.shields.io/github/last-commit/alphyos/CyberStart-2023.svg?style=plasticr"/></a>
-    <a href="https://github.com/alphyos/Cyberstart-2023/commits/master"><img src="https://img.shields.io/github/commit-activity/t/alphyos/CyberStart-2023.svg?style=plasticr"/></a>
-    <a href="https://github.com/alphyos/Cyberstart-2023/commits/master"><img src="https://img.shields.io/github/stars/alphyos/CyberStart-2023.svg?style=plasticr"/></a>
+    <a href="https://github.com/alphyos/CyberStart-2024/commits/master"><img src="https://img.shields.io/github/last-commit/alphyos/CyberStart-2024.svg?style=plasticr"/></a>
+    <a href="https://github.com/alphyos/CyberStart-2024/commits/master"><img src="https://img.shields.io/github/commit-activity/t/alphyos/CyberStart-2024.svg?style=plasticr"/></a>
+    <a href="https://github.com/alphyos/CyberStart-2024/commits/master"><img src="https://img.shields.io/github/stars/alphyos/CyberStart-2024.svg?style=plasticr"/></a>
   </h4>
 
 ## About
@@ -49,9 +49,7 @@ https://play.cyberstart.com/
 
 ## Contributors
 
-<a href="https://github.com/alphyos/Cyberstart-2023/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=alphyos/Cyberstart-2023/" />
-</a>
+<a href="https://github.com/alphyos/Cyberstart-2024/graphs/contributors"><img src="https://contrib.rocks/image?repo=alphyos/Cyberstart-2024" /></a>
 
 ### Challenge Template
 
