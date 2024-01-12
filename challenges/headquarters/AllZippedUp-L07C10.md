@@ -63,7 +63,9 @@ print('Password not found.')
 ```
 
 - Run the program int the terminal, in the same directory as the zip file
+
 ![running the python code](/assets/allzippedup1.png)
+
 - The flag is in the newly extracted file
 
 </details>
