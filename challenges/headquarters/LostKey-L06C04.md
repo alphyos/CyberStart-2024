@@ -23,7 +23,9 @@ Our agent on the ground noticed a USB key discarded outside The Yakoottees' gara
 - Download the file and open up a Linux terminal
 - Use `cd` to change to the directory where the file is located
 - Run `file filename.jpg`
+
 ![running the file command](/assets/lostkey1.png)
+
 - The actual file is a pdf, change the file extension to .pdf
 - The flag is in the pdf
 
