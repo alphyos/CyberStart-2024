@@ -19,12 +19,12 @@ We think we might have a way in. The bottling plant has a website and there is a
 ## Step by Step</summary>
 
 - Navigate to the most bottom query where it says "Any message"
-- Type `` `ls`` and press send. Text should pop up with various .txt file names
+- Type `` `ls `` and press send. Text should pop up with various .txt file names
   - Remember, you are looking for a **cola recipe**
 
 ![sending message](/assets/breakingbottles1.png)
 
-- Type `` `cat cola_recipe.txt`` and press send. The flag should appear
+- Type `` `cat cola_recipe.txt `` and press send. The flag should appear
 
 ![sending message](/assets/breakingbottles2.png)
 ![sending message](/assets/breakingbottles3.png)
