@@ -3,7 +3,7 @@
 # Reading and writing files
 
 <div align="center">
-  <video src="https://github.com/alphyos/CyberStart-2023/assets/108233076/8d2e0caf-2f02-45a3-b94e-bc3919906c20" width="800" />
+  <video src="https://github.com/alphyos/CyberStart-2023/assets/108233076/ab7dec81-bf39-4e77-8bb2-96115c3ef7da" width="800" />
 </div>
 
 ## File I/O
