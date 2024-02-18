@@ -26,7 +26,7 @@
 
 [🗃️ Fun With Files - L03 C01](moon-base/FunWithFiles-L03C01.md)
 
-[🔌 Sockets And Servers - L03 C02](moon-base/SocketsAndServersL03C02.md)
+[🔌 Sockets And Servers - L03 C02](moon-base/SocketsAndServers-L03C02.md)
 
 [🎖️ Don’t Forget HTTP - L03 C03](moon-base/Don'tForgetHTTP-L03C03.md)
 
