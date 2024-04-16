@@ -20,7 +20,7 @@ Ok, this is annoying. Our undercover agent has just sent us a file he managed to
 
 ## Step by Step</summary>
 
-- `ltace program`
+- `ltrace program`
 - `strcat` is being run with the same line over and over adding three characters each time.
 - Take those three characters and combine them into one string
 
