@@ -26,7 +26,7 @@ Agent 707, we've got what we think might be your toughest test yet. We've interc
 - Create this c file and save it as ptrace.c
 
 ```c
-long ptrace(int request, int pid, void addr, voiddata) {
+long ptrace(int request, int pid, void *addr, void *data) {
   return 0;
 }
 ```
